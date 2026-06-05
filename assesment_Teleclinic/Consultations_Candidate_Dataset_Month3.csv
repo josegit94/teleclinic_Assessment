@@ -1,0 +1,1115 @@
+﻿consultation_id,patient_id,clinician_id,clinician_type,clinic,district,province,urban_rural,channel,call_type,booked_datetime,week_number,status,diagnosis_category,notes_entered,icd_code_entered,reassigned,insurance_scheme,gender,age_group
+CON-00001,PAT-00386,CLN-006,GP,Northern Clinic,Muhanga,Southern,Rural,IremboApp,GSM,2026-04-26 20:29,13,Completed,Diabetes,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-00002,PAT-00176,CLN-028,Nurse,Northern Clinic,Muhanga,Southern,Rural,USSD,Web,2026-04-28 01:40,13,Completed,Hypertension,No,No,No,RSSB-CBHI,Male,35-44
+CON-00003,PAT-00617,CLN-007,GP,Kigali Central,Huye,Southern,Rural,IremboApp,GSM,2026-04-23 01:53,12,Completed,General Consultation,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-00004,PAT-01046,CLN-032,GP,Kigali Central,Muhanga,Southern,Rural,IremboApp,Web,2026-04-25 01:02,12,Completed,Gastrointestinal,Yes,Yes,No,RSSB-CBHI,Male,25-34
+CON-00005,PAT-00113,CLN-013,GP,Huye Health,Nyagatare,Eastern,Rural,USSD,GSM,2026-03-14 01:00,6,Completed,Malaria,Yes,Yes,No,RAMA,Male,35-44
+CON-00006,PAT-00493,CLN-017,GP,Rubavu Clinic,Rwamagana,Eastern,Rural,IremboApp,,2026-03-11 15:07,6,Cancelled,,,,No,RSSB-CBHI,Female,55-64
+CON-00007,PAT-00493,CLN-007,GP,Kigali Central,Rwamagana,Eastern,Rural,IremboApp,,2026-04-22 15:00,12,No-Show,,,,No,RSSB-CBHI,Female,55-64
+CON-00008,PAT-01105,CLN-005,Nurse,Northern Clinic,Kicukiro,Kigali,Urban,IremboApp,Web,2026-04-06 10:27,10,Completed,Respiratory Infection,No,No,No,RAMA,Male,55-64
+CON-00009,PAT-00137,CLN-038,Nurse,Rubavu Clinic,Nyagatare,Eastern,Rural,USSD,,2026-03-18 08:25,7,No-Show,,,,No,RSSB-Formal,Male,18-24
+CON-00010,PAT-00137,CLN-001,Nurse,Kigali Central,Nyagatare,Eastern,Rural,USSD,Web,2026-04-25 10:29,12,Completed,Gastrointestinal,Yes,Yes,No,RSSB-Formal,Male,18-24
+CON-00011,PAT-00079,CLN-022,GP,Northern Clinic,Muhanga,Southern,Rural,IremboApp,,2026-04-22 02:25,12,Cancelled,,,,No,RSSB-Formal,Female,45-54
+CON-00012,PAT-00660,CLN-040,Nurse,Huye Health,Gisagara,Southern,Rural,USSD,GSM,2026-03-18 17:49,7,Completed,Gastrointestinal,Yes,Yes,No,RSSB-CBHI,Female,35-44
+CON-00013,PAT-00660,CLN-002,GP,Rubavu Clinic,Gisagara,Southern,Rural,USSD,GSM,2026-02-23 11:34,4,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Female,35-44
+CON-00014,PAT-00207,CLN-033,GP,Kigali Central,Muhanga,Southern,Rural,USSD,Web,2026-04-07 03:17,10,Completed,Respiratory Infection,No,No,No,RSSB-Formal,Female,25-34
+CON-00015,PAT-00207,CLN-021,GP,Rubavu Clinic,Muhanga,Southern,Rural,USSD,GSM,2026-02-24 10:36,4,Completed,Malaria,Yes,Yes,No,RSSB-Formal,Female,25-34
+CON-00016,PAT-00172,CLN-007,GP,Kigali Central,Nyarugenge,Kigali,Urban,USSD,GSM,2026-03-27 05:26,8,Completed,Diabetes,Yes,Yes,No,RSSB-Formal,Male,35-44
+CON-00017,PAT-00172,CLN-033,GP,Kigali Central,Nyarugenge,Kigali,Urban,USSD,Web,2026-04-19 13:57,12,Completed,Injury/Trauma,Yes,Yes,No,RSSB-Formal,Male,35-44
+CON-00018,PAT-00172,CLN-011,GP,Northern Clinic,Nyarugenge,Kigali,Urban,USSD,,2026-03-26 07:43,8,No-Show,,,,No,RSSB-Formal,Male,35-44
+CON-00019,PAT-00093,CLN-016,GP,Eastern HC,Muhanga,Southern,Rural,IremboApp,Web,2026-04-12 05:55,11,Completed,Injury/Trauma,Yes,Yes,Yes,RSSB-Formal,Male,25-34
+CON-00020,PAT-00123,CLN-025,Nurse,Kigali Central,Gasabo,Kigali,Urban,USSD,,2026-03-10 16:48,6,No-Show,,,,No,RSSB-CBHI,Female,18-24
+CON-00021,PAT-00123,CLN-031,GP,Huye Health,Gasabo,Kigali,Urban,USSD,,2026-03-04 00:19,5,Cancelled,,,,No,RSSB-CBHI,Female,18-24
+CON-00022,PAT-00123,CLN-009,GP,Huye Health,Gasabo,Kigali,Urban,USSD,,2026-04-12 14:40,11,Cancelled,,,,No,RSSB-CBHI,Female,18-24
+CON-00023,PAT-00806,CLN-022,GP,Northern Clinic,Karongi,Western,Rural,USSD,,2026-04-24 03:58,12,No-Show,,,,No,RSSB-Formal,Female,25-34
+CON-00024,PAT-00322,CLN-025,Nurse,Kigali Central,Huye,Southern,Rural,USSD,,2026-04-15 15:53,11,Cancelled,,,,No,Uninsured,Male,25-34
+CON-00025,PAT-00322,CLN-028,Nurse,Northern Clinic,Huye,Southern,Rural,USSD,,2026-04-26 06:39,13,No-Show,,,,No,Uninsured,Male,25-34
+CON-00026,PAT-01084,CLN-022,GP,Northern Clinic,Kicukiro,Kigali,Urban,IremboApp,Web,2026-04-24 12:58,12,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Male,55-64
+CON-00027,PAT-00397,CLN-020,GP,Eastern HC,Rulindo,Northern,Rural,USSD,Web,2026-04-02 01:57,9,Completed,Malaria,No,No,No,RSSB-CBHI,Female,55-64
+CON-00028,PAT-00397,CLN-034,GP,Rubavu Clinic,Rulindo,Northern,Rural,USSD,GSM,2026-04-08 03:09,10,Completed,Malaria,No,No,No,RSSB-CBHI,Female,55-64
+CON-00029,PAT-00397,CLN-015,GP,Kigali Central,Rulindo,Northern,Rural,USSD,GSM,2026-04-16 09:49,11,Completed,Mental Health,Yes,Yes,No,RSSB-CBHI,Female,55-64
+CON-00030,PAT-00099,CLN-033,GP,Kigali Central,Gasabo,Kigali,Urban,IremboApp,,2026-03-30 23:53,9,Cancelled,,,,No,Uninsured,Male,55-64
+CON-00031,PAT-00099,CLN-037,GP,Huye Health,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-26 03:36,13,Completed,Hypertension,Yes,Yes,No,Uninsured,Male,55-64
+CON-00032,PAT-00428,CLN-014,GP,Northern Clinic,Kicukiro,Kigali,Urban,IremboApp,,2026-04-28 16:46,13,No-Show,,,,No,RAMA,Female,35-44
+CON-00033,PAT-00874,CLN-004,GP,Kigali Central,Nyagatare,Eastern,Rural,IremboApp,,2026-04-21 10:21,12,Cancelled,,,,No,RSSB-Formal,Female,55-64
+CON-00034,PAT-00419,CLN-011,GP,Northern Clinic,Gasabo,Kigali,Urban,IremboApp,,2026-04-06 00:57,10,Cancelled,,,,No,RSSB-CBHI,Female,18-24
+CON-00035,PAT-00419,CLN-028,Nurse,Northern Clinic,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-09 18:13,10,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Female,18-24
+CON-00036,PAT-00866,CLN-026,GP,Kigali Central,Rwamagana,Eastern,Rural,USSD,Web,2026-04-29 07:14,13,Completed,General Consultation,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-00037,PAT-00400,CLN-009,GP,Huye Health,Nyagatare,Eastern,Rural,USSD,Web,2026-04-28 00:06,13,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,45-54
+CON-00038,PAT-00400,CLN-037,GP,Huye Health,Nyagatare,Eastern,Rural,USSD,Web,2026-04-25 09:30,12,Completed,Skin Condition,Yes,No,No,RSSB-CBHI,Male,45-54
+CON-00039,PAT-01104,CLN-031,GP,Huye Health,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-09 12:34,10,Completed,Skin Condition,No,No,No,RSSB-Formal,Male,35-44
+CON-00040,PAT-00446,CLN-016,GP,Eastern HC,Kicukiro,Kigali,Urban,IremboApp,GSM,2026-03-17 05:22,7,Completed,General Consultation,Yes,Yes,No,MMI,Female,45-54
+CON-00041,PAT-00446,CLN-006,GP,Northern Clinic,Kicukiro,Kigali,Urban,IremboApp,,2026-03-14 10:40,6,No-Show,,,,No,MMI,Female,45-54
+CON-00042,PAT-00708,CLN-041,Nurse,Huye Health,Rubavu,Western,Rural,USSD,GSM,2026-04-21 16:19,12,Completed,Skin Condition,Yes,Yes,No,RSSB-Formal,Male,25-34
+CON-00043,PAT-00708,CLN-038,Nurse,Rubavu Clinic,Rubavu,Western,Rural,USSD,GSM,2026-04-15 13:24,11,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Male,25-34
+CON-00044,PAT-01091,CLN-020,GP,Eastern HC,Nyagatare,Eastern,Rural,IremboApp,GSM,2026-04-22 01:14,12,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Female,65+
+CON-00045,PAT-01091,CLN-026,GP,Kigali Central,Nyagatare,Eastern,Rural,IremboApp,Web,2026-04-01 23:00,9,Completed,Diabetes,Yes,Yes,No,RSSB-CBHI,Female,65+
+CON-00046,PAT-01078,CLN-014,GP,Northern Clinic,Huye,Southern,Rural,IremboApp,,2026-02-19 01:08,3,Cancelled,,,,No,RSSB-CBHI,Male,25-34
+CON-00047,PAT-01078,CLN-012,GP,Northern Clinic,Huye,Southern,Rural,IremboApp,GSM,2026-04-06 04:00,10,Completed,Skin Condition,No,No,No,RSSB-CBHI,Male,25-34
+CON-00048,PAT-00961,CLN-006,GP,Northern Clinic,Karongi,Western,Rural,USSD,,2026-03-31 16:47,9,Cancelled,,,,No,RSSB-CBHI,Female,45-54
+CON-00049,PAT-00925,CLN-001,Nurse,Kigali Central,Rulindo,Northern,Rural,USSD,Web,2026-04-22 01:46,12,Completed,Diabetes,Yes,Yes,No,MMI,Female,45-54
+CON-00050,PAT-00389,CLN-034,GP,Rubavu Clinic,Nyagatare,Eastern,Rural,IremboApp,,2026-04-11 09:11,10,Cancelled,,,,No,RSSB-CBHI,Female,35-44
+CON-00051,PAT-00746,CLN-007,GP,Kigali Central,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-27 08:22,13,Completed,Reproductive Health,Yes,Yes,No,RSSB-Formal,Male,45-54
+CON-00052,PAT-00739,CLN-014,GP,Northern Clinic,Nyarugenge,Kigali,Urban,IremboApp,GSM,2026-04-10 14:25,10,Completed,Malaria,Yes,Yes,No,RSSB-Formal,Male,35-44
+CON-00053,PAT-00807,CLN-006,GP,Northern Clinic,Nyarugenge,Kigali,Urban,USSD,,2026-04-16 03:21,11,Cancelled,,,,No,RSSB-CBHI,Male,25-34
+CON-00054,PAT-00323,CLN-035,GP,Rubavu Clinic,Nyagatare,Eastern,Rural,IremboApp,GSM,2026-04-04 22:53,9,Completed,Gastrointestinal,Yes,Yes,No,RSSB-Formal,Male,25-34
+CON-00055,PAT-00323,CLN-033,GP,Kigali Central,Nyagatare,Eastern,Rural,IremboApp,GSM,2026-04-29 10:42,13,Completed,Hypertension,No,No,Yes,RSSB-Formal,Male,25-34
+CON-00056,PAT-00323,CLN-016,GP,Eastern HC,Nyagatare,Eastern,Rural,IremboApp,GSM,2026-04-27 07:15,13,Completed,Skin Condition,Yes,Yes,No,RSSB-Formal,Male,25-34
+CON-00057,PAT-00475,CLN-010,Nurse,Northern Clinic,Nyarugenge,Kigali,Urban,USSD,,2026-03-12 12:43,6,No-Show,,,,No,RSSB-Formal,Female,35-44
+CON-00058,PAT-00966,CLN-015,GP,Kigali Central,Rulindo,Northern,Rural,IremboApp,Web,2026-04-09 14:50,10,Completed,Malaria,No,No,No,RSSB-Formal,Male,25-34
+CON-00059,PAT-01059,CLN-023,GP,Kigali Central,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-04-08 16:16,10,Completed,Respiratory Infection,No,No,No,MMI,Male,65+
+CON-00060,PAT-00529,CLN-035,GP,Rubavu Clinic,Nyarugenge,Kigali,Urban,IremboApp,Web,2026-04-10 12:18,10,Completed,Malaria,No,No,No,RSSB-CBHI,Female,45-54
+CON-00061,PAT-00541,CLN-009,GP,Huye Health,Gasabo,Kigali,Urban,USSD,Web,2026-04-14 22:06,11,Completed,Skin Condition,Yes,Yes,No,MMI,Female,35-44
+CON-00062,PAT-00541,CLN-016,GP,Eastern HC,Gasabo,Kigali,Urban,USSD,GSM,2026-04-20 17:53,12,Completed,Hypertension,Yes,Yes,No,MMI,Female,35-44
+CON-00063,PAT-00034,CLN-034,GP,Rubavu Clinic,Karongi,Western,Rural,IremboApp,,2026-04-17 12:45,11,Cancelled,,,,No,RSSB-CBHI,Female,25-34
+CON-00064,PAT-00045,CLN-020,GP,Eastern HC,Nyarugenge,Kigali,Urban,IremboApp,GSM,2026-03-07 10:35,5,Completed,Gastrointestinal,Yes,Yes,No,RSSB-CBHI,Male,65+
+CON-00065,PAT-00892,CLN-006,GP,Northern Clinic,Nyarugenge,Kigali,Urban,USSD,Web,2026-03-06 13:46,5,Completed,General Consultation,Yes,Yes,No,RSSB-CBHI,Male,25-34
+CON-00066,PAT-00014,CLN-031,GP,Huye Health,Rubavu,Western,Rural,USSD,Web,2026-03-17 05:54,7,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,45-54
+CON-00067,PAT-00452,CLN-028,Nurse,Northern Clinic,Kicukiro,Kigali,Urban,USSD,Web,2026-02-27 16:59,4,Completed,General Consultation,Yes,Yes,No,MMI,Male,45-54
+CON-00068,PAT-00452,CLN-039,Nurse,Kigali Central,Kicukiro,Kigali,Urban,USSD,GSM,2026-04-19 06:35,12,Completed,Gastrointestinal,Yes,Yes,No,MMI,Male,45-54
+CON-00069,PAT-00681,CLN-009,GP,Huye Health,Muhanga,Southern,Rural,USSD,GSM,2026-04-27 10:54,13,Completed,Respiratory Infection,Yes,Yes,No,Uninsured,Male,45-54
+CON-00070,PAT-00266,CLN-008,GP,Kigali Central,Karongi,Western,Rural,USSD,GSM,2026-04-14 04:07,11,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Female,18-24
+CON-00071,PAT-00521,CLN-033,GP,Kigali Central,Rwamagana,Eastern,Rural,IremboApp,,2026-04-22 14:33,12,No-Show,,,,No,RSSB-Formal,Female,45-54
+CON-00072,PAT-00521,CLN-032,GP,Kigali Central,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-04-21 23:51,12,Completed,Malaria,Yes,Yes,No,RSSB-Formal,Female,45-54
+CON-00073,PAT-00521,CLN-023,GP,Kigali Central,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-04-16 18:13,11,Completed,Hypertension,Yes,Yes,No,RSSB-Formal,Female,45-54
+CON-00074,PAT-00930,CLN-017,GP,Rubavu Clinic,Huye,Southern,Rural,USSD,GSM,2026-04-28 18:04,13,Completed,Mental Health,Yes,Yes,No,RSSB-Formal,Female,18-24
+CON-00075,PAT-01047,CLN-011,GP,Northern Clinic,Huye,Southern,Rural,IremboApp,GSM,2026-04-16 07:53,11,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-00076,PAT-00795,CLN-022,GP,Northern Clinic,Nyagatare,Eastern,Rural,IremboApp,,2026-04-23 10:33,12,Cancelled,,,,No,Uninsured,Male,45-54
+CON-00077,PAT-00195,CLN-008,GP,Kigali Central,Gasabo,Kigali,Urban,USSD,Web,2026-04-22 10:50,12,Completed,Malaria,Yes,Yes,No,RSSB-Formal,Male,65+
+CON-00078,PAT-01015,CLN-025,Nurse,Kigali Central,Kicukiro,Kigali,Urban,IremboApp,Web,2026-04-18 08:42,11,Completed,Malaria,Yes,Yes,Yes,RSSB-CBHI,Male,55-64
+CON-00079,PAT-01015,CLN-016,GP,Eastern HC,Kicukiro,Kigali,Urban,IremboApp,Web,2026-04-27 05:25,13,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,55-64
+CON-00080,PAT-01015,CLN-032,GP,Kigali Central,Kicukiro,Kigali,Urban,IremboApp,GSM,2026-04-07 16:48,10,Completed,Respiratory Infection,No,No,No,RSSB-CBHI,Male,55-64
+CON-00081,PAT-00552,CLN-016,GP,Eastern HC,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-25 14:22,12,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Male,45-54
+CON-00082,PAT-00989,CLN-038,Nurse,Rubavu Clinic,Rulindo,Northern,Rural,IremboApp,GSM,2026-03-05 07:37,5,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Female,25-34
+CON-00083,PAT-00989,CLN-040,Nurse,Huye Health,Rulindo,Northern,Rural,IremboApp,GSM,2026-02-16 17:09,3,Completed,Injury/Trauma,Yes,Yes,No,RSSB-Formal,Female,25-34
+CON-00084,PAT-00737,CLN-033,GP,Kigali Central,Karongi,Western,Rural,IremboApp,GSM,2026-03-19 23:28,7,Completed,Gastrointestinal,Yes,No,No,RSSB-CBHI,Male,18-24
+CON-00085,PAT-00274,CLN-003,GP,Huye Health,Nyagatare,Eastern,Rural,IremboApp,GSM,2026-03-21 19:45,7,Completed,Skin Condition,Yes,Yes,No,RAMA,Male,25-34
+CON-00086,PAT-00274,CLN-032,GP,Kigali Central,Nyagatare,Eastern,Rural,IremboApp,GSM,2026-03-25 05:54,8,Completed,Reproductive Health,Yes,Yes,No,RAMA,Male,25-34
+CON-00087,PAT-00274,CLN-024,Nurse,Eastern HC,Nyagatare,Eastern,Rural,IremboApp,GSM,2026-04-17 23:40,11,Completed,Diabetes,Yes,Yes,No,RAMA,Male,25-34
+CON-00088,PAT-01138,CLN-039,Nurse,Kigali Central,Huye,Southern,Rural,IremboApp,Web,2026-04-10 02:58,10,Completed,General Consultation,Yes,Yes,No,RSSB-CBHI,Male,55-64
+CON-00089,PAT-00372,CLN-020,GP,Eastern HC,Nyarugenge,Kigali,Urban,USSD,Web,2026-04-20 15:30,12,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,25-34
+CON-00090,PAT-00308,CLN-036,GP,Rubavu Clinic,Rulindo,Northern,Rural,IremboApp,,2026-04-03 12:25,9,Cancelled,,,,No,RSSB-CBHI,Female,25-34
+CON-00091,PAT-00308,CLN-028,Nurse,Northern Clinic,Rulindo,Northern,Rural,IremboApp,Web,2026-03-21 09:37,7,Completed,Skin Condition,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00092,PAT-00391,CLN-037,GP,Huye Health,Gasabo,Kigali,Urban,IremboApp,Web,2026-03-15 09:53,7,Completed,Diabetes,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00093,PAT-00923,CLN-011,GP,Northern Clinic,Rubavu,Western,Rural,USSD,GSM,2026-04-24 10:55,12,Completed,Malaria,Yes,Yes,Yes,MMI,Female,45-54
+CON-00094,PAT-00351,CLN-001,Nurse,Kigali Central,Rwamagana,Eastern,Rural,IremboApp,,2026-04-16 11:43,11,No-Show,,,,No,RSSB-CBHI,Female,65+
+CON-00095,PAT-00351,CLN-034,GP,Rubavu Clinic,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-04-27 17:11,13,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Female,65+
+CON-00096,PAT-00599,CLN-010,Nurse,Northern Clinic,Nyagatare,Eastern,Rural,IremboApp,,2026-04-26 18:18,13,Cancelled,,,,No,RSSB-Formal,Female,55-64
+CON-00097,PAT-00055,CLN-016,GP,Eastern HC,Gasabo,Kigali,Urban,USSD,,2026-03-16 12:01,7,Cancelled,,,,No,RSSB-CBHI,Female,55-64
+CON-00098,PAT-00055,CLN-001,Nurse,Kigali Central,Gasabo,Kigali,Urban,USSD,Web,2026-03-19 15:21,7,Completed,Malaria,No,No,No,RSSB-CBHI,Female,55-64
+CON-00099,PAT-00055,CLN-036,GP,Rubavu Clinic,Gasabo,Kigali,Urban,USSD,GSM,2026-04-25 21:55,12,Completed,Injury/Trauma,Yes,Yes,No,RSSB-CBHI,Female,55-64
+CON-00100,PAT-00363,CLN-015,GP,Kigali Central,Gasabo,Kigali,Urban,USSD,GSM,2026-04-22 07:32,12,Completed,Skin Condition,Yes,Yes,No,RSSB-Formal,Female,45-54
+CON-00101,PAT-00725,CLN-007,GP,Kigali Central,Kicukiro,Kigali,Urban,USSD,Web,2026-04-28 12:56,13,Completed,Malaria,No,No,No,RSSB-CBHI,Female,45-54
+CON-00102,PAT-00725,CLN-036,GP,Rubavu Clinic,Kicukiro,Kigali,Urban,USSD,GSM,2026-04-28 16:00,13,Completed,Skin Condition,Yes,Yes,No,RSSB-CBHI,Female,45-54
+CON-00103,PAT-00725,CLN-010,Nurse,Northern Clinic,Kicukiro,Kigali,Urban,USSD,Web,2026-04-27 09:35,13,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Female,45-54
+CON-00104,PAT-00591,CLN-013,GP,Huye Health,Kicukiro,Kigali,Urban,USSD,Web,2026-03-13 02:22,6,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Female,45-54
+CON-00105,PAT-00089,CLN-039,Nurse,Kigali Central,Muhanga,Southern,Rural,USSD,GSM,2026-04-21 17:40,12,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Female,18-24
+CON-00106,PAT-00089,CLN-001,Nurse,Kigali Central,Muhanga,Southern,Rural,USSD,GSM,2026-02-27 07:54,4,Completed,Skin Condition,Yes,Yes,No,RSSB-CBHI,Female,18-24
+CON-00107,PAT-00329,CLN-018,GP,Huye Health,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-03-11 02:47,6,Completed,General Consultation,No,No,No,RSSB-CBHI,Female,18-24
+CON-00108,PAT-00090,CLN-006,GP,Northern Clinic,Muhanga,Southern,Rural,USSD,GSM,2026-04-08 20:30,10,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Female,25-34
+CON-00109,PAT-00090,CLN-041,Nurse,Huye Health,Muhanga,Southern,Rural,USSD,GSM,2026-04-01 23:13,9,Completed,Reproductive Health,Yes,Yes,No,RSSB-Formal,Female,25-34
+CON-00110,PAT-00659,CLN-002,GP,Rubavu Clinic,Rubavu,Western,Rural,IremboApp,GSM,2026-04-04 21:20,9,Completed,Gastrointestinal,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00111,PAT-00519,CLN-032,GP,Kigali Central,Gasabo,Kigali,Urban,USSD,GSM,2026-04-13 17:28,11,Completed,Hypertension,Yes,No,No,RSSB-CBHI,Female,25-34
+CON-00112,PAT-00519,CLN-024,Nurse,Eastern HC,Gasabo,Kigali,Urban,USSD,,2026-04-13 20:56,11,Cancelled,,,,No,RSSB-CBHI,Female,25-34
+CON-00113,PAT-01117,CLN-010,Nurse,Northern Clinic,Kicukiro,Kigali,Urban,IremboApp,Web,2026-04-24 16:09,12,Completed,Respiratory Infection,Yes,Yes,No,MMI,Male,25-34
+CON-00114,PAT-01117,CLN-040,Nurse,Huye Health,Kicukiro,Kigali,Urban,IremboApp,,2026-04-17 07:40,11,No-Show,,,,No,MMI,Male,25-34
+CON-00115,PAT-01117,CLN-018,GP,Huye Health,Kicukiro,Kigali,Urban,IremboApp,,2026-04-12 12:32,11,Cancelled,,,,No,MMI,Male,25-34
+CON-00116,PAT-00724,CLN-001,Nurse,Kigali Central,Kicukiro,Kigali,Urban,IremboApp,,2026-03-03 09:57,5,No-Show,,,,No,RSSB-Formal,Male,25-34
+CON-00117,PAT-00724,CLN-010,Nurse,Northern Clinic,Kicukiro,Kigali,Urban,IremboApp,GSM,2026-04-28 16:15,13,Completed,Hypertension,Yes,Yes,No,RSSB-Formal,Male,25-34
+CON-00118,PAT-00724,CLN-028,Nurse,Northern Clinic,Kicukiro,Kigali,Urban,IremboApp,,2026-04-21 02:28,12,Cancelled,,,,No,RSSB-Formal,Male,25-34
+CON-00119,PAT-01001,CLN-012,GP,Northern Clinic,Rubavu,Western,Rural,IremboApp,,2026-02-26 09:10,4,No-Show,,,,No,RAMA,Male,55-64
+CON-00120,PAT-00734,CLN-039,Nurse,Kigali Central,Rwamagana,Eastern,Rural,IremboApp,,2026-04-11 02:16,10,No-Show,,,,No,RSSB-CBHI,Female,45-54
+CON-00121,PAT-00555,CLN-025,Nurse,Kigali Central,Kicukiro,Kigali,Urban,USSD,Web,2026-04-05 22:30,10,Completed,Hypertension,Yes,Yes,No,MMI,Female,25-34
+CON-00122,PAT-00555,CLN-034,GP,Rubavu Clinic,Kicukiro,Kigali,Urban,USSD,Web,2026-04-14 11:28,11,Completed,Malaria,Yes,Yes,Yes,MMI,Female,25-34
+CON-00123,PAT-01012,CLN-024,Nurse,Eastern HC,Nyarugenge,Kigali,Urban,IremboApp,Web,2026-03-18 19:59,7,Completed,Respiratory Infection,No,No,No,MMI,Male,18-24
+CON-00124,PAT-01012,CLN-009,GP,Huye Health,Nyarugenge,Kigali,Urban,IremboApp,GSM,2026-04-28 04:52,13,Completed,General Consultation,Yes,No,No,MMI,Male,18-24
+CON-00125,PAT-01012,CLN-015,GP,Kigali Central,Nyarugenge,Kigali,Urban,IremboApp,GSM,2026-04-27 04:28,13,Completed,Gastrointestinal,No,No,No,MMI,Male,18-24
+CON-00126,PAT-00454,CLN-024,Nurse,Eastern HC,Rubavu,Western,Rural,USSD,GSM,2026-03-17 05:38,7,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-00127,PAT-01053,CLN-005,Nurse,Northern Clinic,Rwamagana,Eastern,Rural,USSD,GSM,2026-03-19 18:59,7,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Female,45-54
+CON-00128,PAT-00084,CLN-027,Nurse,Rubavu Clinic,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-04-21 09:54,12,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,18-24
+CON-00129,PAT-00084,CLN-012,GP,Northern Clinic,Rwamagana,Eastern,Rural,IremboApp,Web,2026-04-24 15:57,12,Completed,Reproductive Health,No,No,No,RSSB-CBHI,Male,18-24
+CON-00130,PAT-00084,CLN-037,GP,Huye Health,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-04-16 06:19,11,Completed,Diabetes,Yes,No,No,RSSB-CBHI,Male,18-24
+CON-00131,PAT-00992,CLN-026,GP,Kigali Central,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-11 03:25,10,Completed,Diabetes,No,No,No,RSSB-Formal,Female,65+
+CON-00132,PAT-01072,CLN-031,GP,Huye Health,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-08 17:46,10,Completed,Skin Condition,Yes,Yes,No,Uninsured,Female,45-54
+CON-00133,PAT-01072,CLN-007,GP,Kigali Central,Gasabo,Kigali,Urban,IremboApp,Web,2026-03-22 06:17,8,Completed,Malaria,Yes,Yes,No,Uninsured,Female,45-54
+CON-00134,PAT-00738,CLN-001,Nurse,Kigali Central,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-15 23:22,11,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Male,65+
+CON-00135,PAT-00431,CLN-003,GP,Huye Health,Nyagatare,Eastern,Rural,IremboApp,GSM,2026-04-12 20:04,11,Completed,Respiratory Infection,Yes,No,No,RSSB-CBHI,Female,35-44
+CON-00136,PAT-00431,CLN-026,GP,Kigali Central,Nyagatare,Eastern,Rural,IremboApp,GSM,2026-03-16 10:02,7,Completed,Skin Condition,Yes,Yes,No,RSSB-CBHI,Female,35-44
+CON-00137,PAT-00431,CLN-033,GP,Kigali Central,Nyagatare,Eastern,Rural,IremboApp,GSM,2026-04-29 23:42,13,Completed,Diabetes,Yes,Yes,No,RSSB-CBHI,Female,35-44
+CON-00138,PAT-01175,CLN-030,GP,Kigali Central,Nyarugenge,Kigali,Urban,USSD,Web,2026-04-09 16:16,10,Completed,Gastrointestinal,Yes,Yes,No,RAMA,Female,18-24
+CON-00139,PAT-00453,CLN-034,GP,Rubavu Clinic,Kicukiro,Kigali,Urban,USSD,,2026-03-27 16:51,8,Cancelled,,,,No,RSSB-Formal,Female,35-44
+CON-00140,PAT-00453,CLN-022,GP,Northern Clinic,Kicukiro,Kigali,Urban,USSD,GSM,2026-03-29 19:20,9,Completed,General Consultation,Yes,Yes,No,RSSB-Formal,Female,35-44
+CON-00141,PAT-00294,CLN-016,GP,Eastern HC,Rubavu,Western,Rural,IremboApp,GSM,2026-04-08 15:15,10,Completed,Diabetes,No,No,No,RSSB-CBHI,Male,45-54
+CON-00142,PAT-00294,CLN-020,GP,Eastern HC,Rubavu,Western,Rural,IremboApp,Web,2026-03-15 20:20,7,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Male,45-54
+CON-00143,PAT-00772,CLN-037,GP,Huye Health,Kicukiro,Kigali,Urban,USSD,GSM,2026-03-13 04:43,6,Completed,Malaria,Yes,Yes,No,RSSB-Formal,Male,25-34
+CON-00144,PAT-00500,CLN-009,GP,Huye Health,Gasabo,Kigali,Urban,USSD,,2026-04-14 11:01,11,Cancelled,,,,No,RSSB-Formal,Male,35-44
+CON-00145,PAT-00278,CLN-019,GP,Kigali Central,Rwamagana,Eastern,Rural,IremboApp,Web,2026-04-22 15:28,12,Completed,Reproductive Health,Yes,Yes,No,MMI,Male,45-54
+CON-00146,PAT-00837,CLN-033,GP,Kigali Central,Rwamagana,Eastern,Rural,USSD,Web,2026-04-12 02:48,11,Completed,Respiratory Infection,Yes,No,No,RSSB-Formal,Male,18-24
+CON-00147,PAT-01183,CLN-001,Nurse,Kigali Central,Rulindo,Northern,Rural,IremboApp,GSM,2026-04-29 14:41,13,Completed,Malaria,Yes,Yes,No,RSSB-Formal,Female,25-34
+CON-00148,PAT-01183,CLN-023,GP,Kigali Central,Rulindo,Northern,Rural,IremboApp,Web,2026-04-18 06:28,11,Completed,Gastrointestinal,Yes,Yes,No,RSSB-Formal,Female,25-34
+CON-00149,PAT-00673,CLN-013,GP,Huye Health,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-19 00:36,12,Completed,Malaria,Yes,Yes,No,RSSB-Formal,Male,35-44
+CON-00150,PAT-00673,CLN-018,GP,Huye Health,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-03 13:11,9,Completed,Respiratory Infection,No,No,No,RSSB-Formal,Male,35-44
+CON-00151,PAT-00673,CLN-003,GP,Huye Health,Gasabo,Kigali,Urban,IremboApp,,2026-04-25 14:00,12,Cancelled,,,,No,RSSB-Formal,Male,35-44
+CON-00152,PAT-00110,CLN-028,Nurse,Northern Clinic,Kicukiro,Kigali,Urban,IremboApp,,2026-03-23 02:20,8,Cancelled,,,,No,RSSB-Formal,Female,65+
+CON-00153,PAT-00448,CLN-028,Nurse,Northern Clinic,Nyagatare,Eastern,Rural,IremboApp,GSM,2026-03-18 02:43,7,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Male,45-54
+CON-00154,PAT-01190,CLN-014,GP,Northern Clinic,Kicukiro,Kigali,Urban,IremboApp,GSM,2026-04-29 22:49,13,Completed,Reproductive Health,Yes,Yes,No,RSSB-CBHI,Female,65+
+CON-00155,PAT-01190,CLN-011,GP,Northern Clinic,Kicukiro,Kigali,Urban,IremboApp,Web,2026-04-07 19:50,10,Completed,General Consultation,Yes,Yes,No,RSSB-CBHI,Female,65+
+CON-00156,PAT-01190,CLN-001,Nurse,Kigali Central,Kicukiro,Kigali,Urban,IremboApp,Web,2026-04-16 18:45,11,Completed,Diabetes,Yes,Yes,No,RSSB-CBHI,Female,65+
+CON-00157,PAT-00842,CLN-027,Nurse,Rubavu Clinic,Huye,Southern,Rural,IremboApp,Web,2026-04-29 19:20,13,Completed,Reproductive Health,No,No,No,RSSB-CBHI,Male,18-24
+CON-00158,PAT-00398,CLN-007,GP,Kigali Central,Nyarugenge,Kigali,Urban,IremboApp,Web,2026-04-25 00:55,12,Completed,Mental Health,Yes,Yes,No,MMI,Male,18-24
+CON-00159,PAT-00398,CLN-023,GP,Kigali Central,Nyarugenge,Kigali,Urban,IremboApp,GSM,2026-04-16 05:54,11,Completed,Hypertension,Yes,No,No,MMI,Male,18-24
+CON-00160,PAT-00678,CLN-033,GP,Kigali Central,Rwamagana,Eastern,Rural,USSD,,2026-03-09 19:16,6,No-Show,,,,No,RSSB-Formal,Male,18-24
+CON-00161,PAT-00216,CLN-027,Nurse,Rubavu Clinic,Kicukiro,Kigali,Urban,IremboApp,Web,2026-03-22 04:48,8,Completed,Malaria,Yes,No,No,RSSB-CBHI,Female,45-54
+CON-00162,PAT-00216,CLN-028,Nurse,Northern Clinic,Kicukiro,Kigali,Urban,IremboApp,Web,2026-03-26 13:08,8,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Female,45-54
+CON-00163,PAT-00216,CLN-028,Nurse,Northern Clinic,Kicukiro,Kigali,Urban,IremboApp,Web,2026-04-17 01:10,11,Completed,Reproductive Health,No,No,No,RSSB-CBHI,Female,45-54
+CON-00164,PAT-00752,CLN-007,GP,Kigali Central,Rwamagana,Eastern,Rural,IremboApp,Web,2026-04-21 23:10,12,Completed,Diabetes,Yes,Yes,Yes,RAMA,Male,35-44
+CON-00165,PAT-00752,CLN-027,Nurse,Rubavu Clinic,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-04-16 01:45,11,Completed,General Consultation,Yes,Yes,No,RAMA,Male,35-44
+CON-00166,PAT-00305,CLN-027,Nurse,Rubavu Clinic,Kicukiro,Kigali,Urban,USSD,,2026-04-17 01:04,11,Cancelled,,,,No,RSSB-Formal,Female,35-44
+CON-00167,PAT-00305,CLN-001,Nurse,Kigali Central,Kicukiro,Kigali,Urban,USSD,,2026-04-10 10:18,10,Cancelled,,,,No,RSSB-Formal,Female,35-44
+CON-00168,PAT-00935,CLN-017,GP,Rubavu Clinic,Nyarugenge,Kigali,Urban,USSD,Web,2026-04-21 05:56,12,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Female,18-24
+CON-00169,PAT-00532,CLN-010,Nurse,Northern Clinic,Nyarugenge,Kigali,Urban,IremboApp,,2026-03-15 06:34,7,No-Show,,,,No,RSSB-CBHI,Male,45-54
+CON-00170,PAT-00463,CLN-039,Nurse,Kigali Central,Gisagara,Southern,Rural,IremboApp,GSM,2026-04-29 23:54,13,Completed,Hypertension,Yes,Yes,No,Uninsured,Male,25-34
+CON-00171,PAT-00973,CLN-037,GP,Huye Health,Muhanga,Southern,Rural,IremboApp,GSM,2026-02-07 00:11,1,Completed,Malaria,Yes,Yes,No,RSSB-Formal,Female,35-44
+CON-00172,PAT-01112,CLN-009,GP,Huye Health,Muhanga,Southern,Rural,IremboApp,Web,2026-04-26 11:14,13,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Male,55-64
+CON-00173,PAT-01022,CLN-006,GP,Northern Clinic,Kicukiro,Kigali,Urban,IremboApp,GSM,2026-04-13 21:24,11,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,18-24
+CON-00174,PAT-01022,CLN-037,GP,Huye Health,Kicukiro,Kigali,Urban,IremboApp,Web,2026-04-07 19:46,10,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Male,18-24
+CON-00175,PAT-01022,CLN-020,GP,Eastern HC,Kicukiro,Kigali,Urban,IremboApp,Web,2026-04-14 18:21,11,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Male,18-24
+CON-00176,PAT-01129,CLN-010,Nurse,Northern Clinic,Huye,Southern,Rural,IremboApp,GSM,2026-02-22 01:19,4,Completed,Skin Condition,Yes,Yes,No,RAMA,Female,18-24
+CON-00177,PAT-01194,CLN-006,GP,Northern Clinic,Nyarugenge,Kigali,Urban,IremboApp,Web,2026-03-30 18:26,9,Completed,Malaria,No,No,No,RSSB-CBHI,Female,55-64
+CON-00178,PAT-00648,CLN-005,Nurse,Northern Clinic,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-10 04:05,10,Completed,Skin Condition,Yes,Yes,No,RSSB-CBHI,Male,25-34
+CON-00179,PAT-00648,CLN-012,GP,Northern Clinic,Gasabo,Kigali,Urban,IremboApp,Web,2026-03-16 15:23,7,Completed,Skin Condition,No,No,No,RSSB-CBHI,Male,25-34
+CON-00180,PAT-00075,CLN-023,GP,Kigali Central,Rulindo,Northern,Rural,USSD,GSM,2026-04-19 15:24,12,Completed,General Consultation,Yes,Yes,No,MMI,Male,18-24
+CON-00181,PAT-00733,CLN-034,GP,Rubavu Clinic,Nyarugenge,Kigali,Urban,USSD,GSM,2026-04-03 02:50,9,Completed,Malaria,Yes,Yes,No,RSSB-Formal,Male,35-44
+CON-00182,PAT-00316,CLN-018,GP,Huye Health,Gasabo,Kigali,Urban,USSD,GSM,2026-03-11 06:57,6,Completed,Skin Condition,Yes,Yes,No,RAMA,Female,35-44
+CON-00183,PAT-00249,CLN-033,GP,Kigali Central,Gisagara,Southern,Rural,IremboApp,,2026-04-23 08:05,12,Cancelled,,,,No,RSSB-Formal,Female,25-34
+CON-00184,PAT-00249,CLN-018,GP,Huye Health,Gisagara,Southern,Rural,IremboApp,,2026-03-31 05:05,9,Cancelled,,,,No,RSSB-Formal,Female,25-34
+CON-00185,PAT-00156,CLN-014,GP,Northern Clinic,Huye,Southern,Rural,IremboApp,,2026-04-25 00:14,12,Cancelled,,,,No,RSSB-Formal,Female,55-64
+CON-00186,PAT-00156,CLN-039,Nurse,Kigali Central,Huye,Southern,Rural,IremboApp,GSM,2026-04-28 03:25,13,Completed,Diabetes,Yes,Yes,No,RSSB-Formal,Female,55-64
+CON-00187,PAT-00039,CLN-029,GP,Northern Clinic,Gasabo,Kigali,Urban,USSD,GSM,2026-03-31 02:52,9,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Male,45-54
+CON-00188,PAT-00039,CLN-034,GP,Rubavu Clinic,Gasabo,Kigali,Urban,USSD,GSM,2026-04-28 07:35,13,Completed,Mental Health,Yes,Yes,No,RSSB-CBHI,Male,45-54
+CON-00189,PAT-00095,CLN-024,Nurse,Eastern HC,Muhanga,Southern,Rural,IremboApp,GSM,2026-04-27 21:24,13,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Female,18-24
+CON-00190,PAT-01083,CLN-036,GP,Rubavu Clinic,Rulindo,Northern,Rural,IremboApp,GSM,2026-03-31 07:03,9,Completed,Gastrointestinal,Yes,Yes,No,RSSB-CBHI,Male,25-34
+CON-00191,PAT-01083,CLN-005,Nurse,Northern Clinic,Rulindo,Northern,Rural,IremboApp,Web,2026-04-28 04:43,13,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,25-34
+CON-00192,PAT-00060,CLN-018,GP,Huye Health,Karongi,Western,Rural,IremboApp,GSM,2026-04-16 03:15,11,Completed,Diabetes,Yes,Yes,No,RSSB-Formal,Female,55-64
+CON-00193,PAT-00825,CLN-001,Nurse,Kigali Central,Gasabo,Kigali,Urban,USSD,,2026-04-18 22:48,11,Cancelled,,,,No,RSSB-Formal,Male,25-34
+CON-00194,PAT-00825,CLN-003,GP,Huye Health,Gasabo,Kigali,Urban,USSD,,2026-04-10 13:18,10,No-Show,,,,No,RSSB-Formal,Male,25-34
+CON-00195,PAT-00321,CLN-005,Nurse,Northern Clinic,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-03-02 13:55,5,Completed,Malaria,Yes,Yes,No,MMI,Female,55-64
+CON-00196,PAT-00955,CLN-040,Nurse,Huye Health,Huye,Southern,Rural,USSD,Web,2026-04-28 23:50,13,Completed,General Consultation,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00197,PAT-00955,CLN-002,GP,Rubavu Clinic,Huye,Southern,Rural,USSD,GSM,2026-04-24 05:55,12,Completed,Reproductive Health,No,No,No,RSSB-CBHI,Female,25-34
+CON-00198,PAT-00625,CLN-013,GP,Huye Health,Rulindo,Northern,Rural,IremboApp,Web,2026-04-16 03:16,11,Completed,Gastrointestinal,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-00199,PAT-00611,CLN-008,GP,Kigali Central,Nyagatare,Eastern,Rural,IremboApp,GSM,2026-03-14 04:22,6,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Male,18-24
+CON-00200,PAT-00611,CLN-038,Nurse,Rubavu Clinic,Nyagatare,Eastern,Rural,IremboApp,Web,2026-03-23 09:00,8,Completed,General Consultation,Yes,Yes,No,RSSB-CBHI,Male,18-24
+CON-00201,PAT-00611,CLN-008,GP,Kigali Central,Nyagatare,Eastern,Rural,IremboApp,GSM,2026-04-22 09:04,12,Completed,Mental Health,Yes,Yes,No,RSSB-CBHI,Male,18-24
+CON-00202,PAT-00358,CLN-006,GP,Northern Clinic,Kicukiro,Kigali,Urban,USSD,Web,2026-04-14 09:08,11,Completed,Reproductive Health,Yes,Yes,No,RSSB-Formal,Female,25-34
+CON-00203,PAT-00250,CLN-004,GP,Kigali Central,Gasabo,Kigali,Urban,USSD,Web,2026-04-25 00:15,12,Completed,Hypertension,Yes,Yes,No,RSSB-Formal,Female,35-44
+CON-00204,PAT-00957,CLN-033,GP,Kigali Central,Kicukiro,Kigali,Urban,IremboApp,,2026-04-25 19:22,12,No-Show,,,,No,RAMA,Male,25-34
+CON-00205,PAT-00957,CLN-030,GP,Kigali Central,Kicukiro,Kigali,Urban,IremboApp,Web,2026-04-20 13:39,12,Completed,General Consultation,Yes,Yes,No,RAMA,Male,25-34
+CON-00206,PAT-00753,CLN-033,GP,Kigali Central,Kicukiro,Kigali,Urban,USSD,GSM,2026-04-29 01:27,13,Completed,Gastrointestinal,Yes,Yes,No,RAMA,Female,35-44
+CON-00207,PAT-00786,CLN-010,Nurse,Northern Clinic,Kicukiro,Kigali,Urban,USSD,GSM,2026-04-18 11:27,11,Completed,Hypertension,Yes,Yes,No,RAMA,Male,45-54
+CON-00208,PAT-00786,CLN-034,GP,Rubavu Clinic,Kicukiro,Kigali,Urban,USSD,GSM,2026-04-27 13:25,13,Completed,Respiratory Infection,No,No,No,RAMA,Male,45-54
+CON-00209,PAT-00271,CLN-028,Nurse,Northern Clinic,Rulindo,Northern,Rural,IremboApp,GSM,2026-04-23 18:11,12,Completed,Gastrointestinal,Yes,Yes,No,RSSB-CBHI,Female,35-44
+CON-00210,PAT-00262,CLN-012,GP,Northern Clinic,Huye,Southern,Rural,IremboApp,GSM,2026-04-14 13:10,11,Completed,Skin Condition,Yes,Yes,No,RSSB-Formal,Male,25-34
+CON-00211,PAT-01184,CLN-003,GP,Huye Health,Nyagatare,Eastern,Rural,USSD,GSM,2026-04-15 06:57,11,Completed,Gastrointestinal,Yes,Yes,No,RSSB-CBHI,Male,45-54
+CON-00212,PAT-01128,CLN-018,GP,Huye Health,Nyarugenge,Kigali,Urban,IremboApp,GSM,2026-04-10 16:11,10,Completed,Gastrointestinal,No,No,No,MMI,Male,55-64
+CON-00213,PAT-00763,CLN-033,GP,Kigali Central,Rubavu,Western,Rural,USSD,,2026-03-20 23:15,7,Cancelled,,,,No,RSSB-CBHI,Female,65+
+CON-00214,PAT-00638,CLN-016,GP,Eastern HC,Rwamagana,Eastern,Rural,USSD,GSM,2026-04-19 09:30,12,Completed,General Consultation,Yes,Yes,No,RSSB-Formal,Male,35-44
+CON-00215,PAT-00638,CLN-022,GP,Northern Clinic,Rwamagana,Eastern,Rural,USSD,Web,2026-04-06 18:33,10,Completed,Respiratory Infection,No,No,No,RSSB-Formal,Male,35-44
+CON-00216,PAT-00638,CLN-038,Nurse,Rubavu Clinic,Rwamagana,Eastern,Rural,USSD,GSM,2026-04-09 00:03,10,Completed,Malaria,Yes,Yes,No,RSSB-Formal,Male,35-44
+CON-00217,PAT-00081,CLN-010,Nurse,Northern Clinic,Kicukiro,Kigali,Urban,IremboApp,,2026-04-29 13:57,13,No-Show,,,,No,RSSB-CBHI,Male,25-34
+CON-00218,PAT-00564,CLN-029,GP,Northern Clinic,Rubavu,Western,Rural,USSD,GSM,2026-03-06 14:11,5,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00219,PAT-00564,CLN-022,GP,Northern Clinic,Rubavu,Western,Rural,USSD,,2026-03-03 05:41,5,No-Show,,,,No,RSSB-CBHI,Female,25-34
+CON-00220,PAT-00641,CLN-031,GP,Huye Health,Kicukiro,Kigali,Urban,USSD,Web,2026-04-07 20:10,10,Completed,Reproductive Health,Yes,No,No,RSSB-Formal,Female,45-54
+CON-00221,PAT-00641,CLN-023,GP,Kigali Central,Kicukiro,Kigali,Urban,USSD,GSM,2026-02-22 18:01,4,Completed,Hypertension,Yes,No,No,RSSB-Formal,Female,45-54
+CON-00222,PAT-00641,CLN-025,Nurse,Kigali Central,Kicukiro,Kigali,Urban,USSD,Web,2026-02-27 19:41,4,Completed,Reproductive Health,Yes,Yes,No,RSSB-Formal,Female,45-54
+CON-00223,PAT-00483,CLN-012,GP,Northern Clinic,Rwamagana,Eastern,Rural,IremboApp,Web,2026-04-20 03:46,12,Completed,Injury/Trauma,Yes,Yes,No,RSSB-CBHI,Female,18-24
+CON-00224,PAT-00483,CLN-038,Nurse,Rubavu Clinic,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-03-03 23:46,5,Completed,General Consultation,Yes,Yes,No,RSSB-CBHI,Female,18-24
+CON-00225,PAT-00483,CLN-008,GP,Kigali Central,Rwamagana,Eastern,Rural,IremboApp,,2026-03-28 00:02,8,Cancelled,,,,No,RSSB-CBHI,Female,18-24
+CON-00226,PAT-00863,CLN-034,GP,Rubavu Clinic,Rulindo,Northern,Rural,USSD,,2026-03-27 07:01,8,Cancelled,,,,No,RSSB-CBHI,Female,45-54
+CON-00227,PAT-00818,CLN-005,Nurse,Northern Clinic,Gasabo,Kigali,Urban,IremboApp,,2026-04-17 23:50,11,No-Show,,,,No,Uninsured,Male,55-64
+CON-00228,PAT-00450,CLN-038,Nurse,Rubavu Clinic,Gasabo,Kigali,Urban,USSD,Web,2026-04-15 17:44,11,Completed,Mental Health,Yes,Yes,No,RSSB-CBHI,Male,65+
+CON-00229,PAT-00958,CLN-019,GP,Kigali Central,Gasabo,Kigali,Urban,IremboApp,,2026-04-24 15:47,12,No-Show,,,,No,RAMA,Female,35-44
+CON-00230,PAT-00367,CLN-010,Nurse,Northern Clinic,Karongi,Western,Rural,USSD,,2026-04-22 14:39,12,Cancelled,,,,No,MMI,Male,25-34
+CON-00231,PAT-00367,CLN-013,GP,Huye Health,Karongi,Western,Rural,USSD,GSM,2026-04-26 19:02,13,Completed,Malaria,Yes,Yes,No,MMI,Male,25-34
+CON-00232,PAT-00367,CLN-028,Nurse,Northern Clinic,Karongi,Western,Rural,USSD,Web,2026-04-18 09:00,11,Completed,Skin Condition,No,No,No,MMI,Male,25-34
+CON-00233,PAT-00644,CLN-038,Nurse,Rubavu Clinic,Kicukiro,Kigali,Urban,USSD,Web,2026-04-09 07:25,10,Completed,Malaria,Yes,Yes,No,RSSB-Formal,Male,25-34
+CON-00234,PAT-00261,CLN-035,GP,Rubavu Clinic,Gisagara,Southern,Rural,USSD,Web,2026-04-17 18:34,11,Completed,Gastrointestinal,Yes,Yes,No,MMI,Female,25-34
+CON-00235,PAT-00261,CLN-030,GP,Kigali Central,Gisagara,Southern,Rural,USSD,Web,2026-04-07 17:10,10,Completed,Respiratory Infection,No,No,No,MMI,Female,25-34
+CON-00236,PAT-00261,CLN-009,GP,Huye Health,Gisagara,Southern,Rural,USSD,GSM,2026-03-12 14:03,6,Completed,Diabetes,Yes,Yes,No,MMI,Female,25-34
+CON-00237,PAT-00387,CLN-009,GP,Huye Health,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-05 02:57,10,Completed,Hypertension,No,No,No,RAMA,Female,35-44
+CON-00238,PAT-01176,CLN-007,GP,Kigali Central,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-15 02:19,11,Completed,Malaria,Yes,Yes,No,RSSB-Formal,Female,45-54
+CON-00239,PAT-00140,CLN-033,GP,Kigali Central,Rubavu,Western,Rural,IremboApp,GSM,2026-04-11 11:29,10,Completed,Diabetes,No,No,No,RSSB-CBHI,Male,18-24
+CON-00240,PAT-00140,CLN-041,Nurse,Huye Health,Rubavu,Western,Rural,IremboApp,,2026-04-11 14:27,10,No-Show,,,,No,RSSB-CBHI,Male,18-24
+CON-00241,PAT-00560,CLN-032,GP,Kigali Central,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-08 03:45,10,Completed,Diabetes,Yes,Yes,No,RSSB-CBHI,Male,18-24
+CON-00242,PAT-00560,CLN-031,GP,Huye Health,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-10 12:21,10,Completed,Malaria,No,No,No,RSSB-CBHI,Male,18-24
+CON-00243,PAT-00560,CLN-016,GP,Eastern HC,Gasabo,Kigali,Urban,IremboApp,,2026-04-12 11:12,11,No-Show,,,,No,RSSB-CBHI,Male,18-24
+CON-00244,PAT-00407,CLN-016,GP,Eastern HC,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-27 22:00,13,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Female,55-64
+CON-00245,PAT-00946,CLN-024,Nurse,Eastern HC,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-21 22:20,12,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00246,PAT-00946,CLN-019,GP,Kigali Central,Gasabo,Kigali,Urban,IremboApp,Web,2026-03-30 08:35,9,Completed,Skin Condition,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00247,PAT-00946,CLN-029,GP,Northern Clinic,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-28 02:12,13,Completed,Hypertension,No,No,No,RSSB-CBHI,Female,25-34
+CON-00248,PAT-00328,CLN-023,GP,Kigali Central,Muhanga,Southern,Rural,USSD,GSM,2026-03-25 08:53,8,Completed,Diabetes,Yes,Yes,No,RSSB-CBHI,Female,18-24
+CON-00249,PAT-00345,CLN-022,GP,Northern Clinic,Rwamagana,Eastern,Rural,USSD,GSM,2026-04-29 16:03,13,Completed,General Consultation,Yes,Yes,No,RSSB-Formal,Male,45-54
+CON-00250,PAT-00556,CLN-025,Nurse,Kigali Central,Huye,Southern,Rural,IremboApp,,2026-04-12 23:12,11,Cancelled,,,,No,RSSB-CBHI,Male,18-24
+CON-00251,PAT-00556,CLN-034,GP,Rubavu Clinic,Huye,Southern,Rural,IremboApp,GSM,2026-04-15 05:20,11,Completed,Mental Health,Yes,Yes,No,RSSB-CBHI,Male,18-24
+CON-00252,PAT-01170,CLN-015,GP,Kigali Central,Nyarugenge,Kigali,Urban,USSD,GSM,2026-03-13 10:54,6,Completed,Hypertension,No,No,No,MMI,Female,45-54
+CON-00253,PAT-00764,CLN-016,GP,Eastern HC,Nyarugenge,Kigali,Urban,USSD,Web,2026-04-29 19:30,13,Completed,Injury/Trauma,Yes,Yes,No,RSSB-Formal,Female,18-24
+CON-00254,PAT-00764,CLN-040,Nurse,Huye Health,Nyarugenge,Kigali,Urban,USSD,GSM,2026-04-20 18:02,12,Completed,Hypertension,Yes,Yes,No,RSSB-Formal,Female,18-24
+CON-00255,PAT-00764,CLN-012,GP,Northern Clinic,Nyarugenge,Kigali,Urban,USSD,Web,2026-04-20 08:34,12,Completed,Diabetes,Yes,No,No,RSSB-Formal,Female,18-24
+CON-00256,PAT-00456,CLN-019,GP,Kigali Central,Rwamagana,Eastern,Rural,USSD,GSM,2026-04-20 11:29,12,Completed,Respiratory Infection,Yes,Yes,Yes,Uninsured,Male,25-34
+CON-00257,PAT-00794,CLN-014,GP,Northern Clinic,Gasabo,Kigali,Urban,IremboApp,GSM,2026-02-19 08:10,3,Completed,Diabetes,Yes,Yes,No,Uninsured,Female,35-44
+CON-00258,PAT-00794,CLN-012,GP,Northern Clinic,Gasabo,Kigali,Urban,IremboApp,,2026-03-15 01:54,7,No-Show,,,,No,Uninsured,Female,35-44
+CON-00259,PAT-00794,CLN-034,GP,Rubavu Clinic,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-21 17:01,12,Completed,Hypertension,Yes,Yes,No,Uninsured,Female,35-44
+CON-00260,PAT-00174,CLN-005,Nurse,Northern Clinic,Gasabo,Kigali,Urban,IremboApp,Web,2026-03-22 16:38,8,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Female,45-54
+CON-00261,PAT-00174,CLN-008,GP,Kigali Central,Gasabo,Kigali,Urban,IremboApp,GSM,2026-03-20 21:34,7,Completed,Mental Health,Yes,Yes,No,RSSB-CBHI,Female,45-54
+CON-00262,PAT-01197,CLN-023,GP,Kigali Central,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-13 21:45,11,Completed,Respiratory Infection,No,No,No,MMI,Male,45-54
+CON-00263,PAT-01197,CLN-040,Nurse,Huye Health,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-26 06:28,13,Completed,Respiratory Infection,Yes,Yes,No,MMI,Male,45-54
+CON-00264,PAT-00703,CLN-002,GP,Rubavu Clinic,Kicukiro,Kigali,Urban,USSD,GSM,2026-03-09 12:57,6,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Female,45-54
+CON-00265,PAT-00703,CLN-022,GP,Northern Clinic,Kicukiro,Kigali,Urban,USSD,,2026-04-24 06:02,12,Cancelled,,,,No,RSSB-Formal,Female,45-54
+CON-00266,PAT-01075,CLN-037,GP,Huye Health,Kicukiro,Kigali,Urban,USSD,,2026-04-27 13:19,13,Cancelled,,,,No,Uninsured,Male,25-34
+CON-00267,PAT-00904,CLN-023,GP,Kigali Central,Kicukiro,Kigali,Urban,USSD,,2026-03-26 17:11,8,Cancelled,,,,No,RSSB-CBHI,Male,25-34
+CON-00268,PAT-00904,CLN-040,Nurse,Huye Health,Kicukiro,Kigali,Urban,USSD,,2026-04-23 00:53,12,Cancelled,,,,No,RSSB-CBHI,Male,25-34
+CON-00269,PAT-00983,CLN-018,GP,Huye Health,Kicukiro,Kigali,Urban,IremboApp,GSM,2026-03-23 06:50,8,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Female,65+
+CON-00270,PAT-00679,CLN-002,GP,Rubavu Clinic,Rulindo,Northern,Rural,USSD,,2026-02-27 02:42,4,Cancelled,,,,No,RSSB-CBHI,Female,18-24
+CON-00271,PAT-00679,CLN-035,GP,Rubavu Clinic,Rulindo,Northern,Rural,USSD,Web,2026-02-24 01:07,4,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Female,18-24
+CON-00272,PAT-01192,CLN-028,Nurse,Northern Clinic,Muhanga,Southern,Rural,IremboApp,GSM,2026-04-29 01:07,13,Completed,Reproductive Health,No,No,No,RSSB-CBHI,Female,55-64
+CON-00273,PAT-00504,CLN-016,GP,Eastern HC,Huye,Southern,Rural,USSD,GSM,2026-02-08 14:58,2,Completed,Mental Health,Yes,Yes,No,RSSB-Formal,Male,45-54
+CON-00274,PAT-00228,CLN-016,GP,Eastern HC,Rwamagana,Eastern,Rural,IremboApp,,2026-02-16 10:42,3,No-Show,,,,No,RSSB-CBHI,Female,18-24
+CON-00275,PAT-00228,CLN-019,GP,Kigali Central,Rwamagana,Eastern,Rural,IremboApp,Web,2026-03-04 12:48,5,Completed,Skin Condition,Yes,Yes,No,RSSB-CBHI,Female,18-24
+CON-00276,PAT-00228,CLN-005,Nurse,Northern Clinic,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-02-26 21:09,4,Completed,Reproductive Health,Yes,Yes,No,RSSB-CBHI,Female,18-24
+CON-00277,PAT-00499,CLN-024,Nurse,Eastern HC,Kicukiro,Kigali,Urban,IremboApp,,2026-04-14 16:41,11,No-Show,,,,No,RSSB-Formal,Female,18-24
+CON-00278,PAT-01057,CLN-018,GP,Huye Health,Rubavu,Western,Rural,USSD,GSM,2026-04-14 03:38,11,Completed,General Consultation,Yes,Yes,No,RSSB-CBHI,Female,35-44
+CON-00279,PAT-01057,CLN-014,GP,Northern Clinic,Rubavu,Western,Rural,USSD,,2026-03-01 14:47,5,Cancelled,,,,No,RSSB-CBHI,Female,35-44
+CON-00280,PAT-00101,CLN-014,GP,Northern Clinic,Karongi,Western,Rural,IremboApp,Web,2026-04-21 10:07,12,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Male,18-24
+CON-00281,PAT-00044,CLN-032,GP,Kigali Central,Rwamagana,Eastern,Rural,USSD,,2026-03-10 01:36,6,No-Show,,,,No,MMI,Female,18-24
+CON-00282,PAT-00044,CLN-006,GP,Northern Clinic,Rwamagana,Eastern,Rural,USSD,GSM,2026-04-06 04:00,10,Completed,Malaria,Yes,Yes,No,MMI,Female,18-24
+CON-00283,PAT-00044,CLN-035,GP,Rubavu Clinic,Rwamagana,Eastern,Rural,USSD,GSM,2026-04-18 20:30,11,Completed,Skin Condition,Yes,Yes,No,MMI,Female,18-24
+CON-00284,PAT-01086,CLN-038,Nurse,Rubavu Clinic,Muhanga,Southern,Rural,IremboApp,Web,2026-04-23 04:28,12,Completed,Mental Health,Yes,Yes,No,RSSB-Formal,Male,25-34
+CON-00285,PAT-01086,CLN-004,GP,Kigali Central,Muhanga,Southern,Rural,IremboApp,,2026-04-29 03:09,13,No-Show,,,,No,RSSB-Formal,Male,25-34
+CON-00286,PAT-01086,CLN-019,GP,Kigali Central,Muhanga,Southern,Rural,IremboApp,,2026-04-28 05:28,13,No-Show,,,,No,RSSB-Formal,Male,25-34
+CON-00287,PAT-01066,CLN-034,GP,Rubavu Clinic,Rubavu,Western,Rural,IremboApp,GSM,2026-04-14 14:07,11,Completed,Malaria,No,No,No,RSSB-Formal,Male,45-54
+CON-00288,PAT-01066,CLN-018,GP,Huye Health,Rubavu,Western,Rural,IremboApp,GSM,2026-03-31 15:02,9,Completed,Skin Condition,Yes,Yes,No,RSSB-Formal,Male,45-54
+CON-00289,PAT-00471,CLN-039,Nurse,Kigali Central,Muhanga,Southern,Rural,IremboApp,Web,2026-04-26 23:11,13,Completed,Hypertension,Yes,Yes,Yes,RSSB-Formal,Female,45-54
+CON-00290,PAT-00471,CLN-030,GP,Kigali Central,Muhanga,Southern,Rural,IremboApp,GSM,2026-02-10 20:40,2,Completed,Diabetes,Yes,Yes,No,RSSB-Formal,Female,45-54
+CON-00291,PAT-00785,CLN-021,GP,Rubavu Clinic,Gasabo,Kigali,Urban,IremboApp,,2026-04-20 09:14,12,Cancelled,,,,No,RSSB-Formal,Male,25-34
+CON-00292,PAT-00785,CLN-018,GP,Huye Health,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-13 06:17,11,Completed,Reproductive Health,Yes,Yes,No,RSSB-Formal,Male,25-34
+CON-00293,PAT-00785,CLN-008,GP,Kigali Central,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-12 15:32,11,Completed,Malaria,Yes,Yes,No,RSSB-Formal,Male,25-34
+CON-00294,PAT-00204,CLN-017,GP,Rubavu Clinic,Gasabo,Kigali,Urban,USSD,Web,2026-04-19 06:54,12,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Female,55-64
+CON-00295,PAT-00954,CLN-029,GP,Northern Clinic,Karongi,Western,Rural,IremboApp,GSM,2026-04-07 05:15,10,Completed,Gastrointestinal,No,No,No,RSSB-CBHI,Male,25-34
+CON-00296,PAT-00593,CLN-010,Nurse,Northern Clinic,Gasabo,Kigali,Urban,USSD,Web,2026-03-04 11:38,5,Completed,Reproductive Health,Yes,No,No,RSSB-Formal,Male,25-34
+CON-00297,PAT-00550,CLN-040,Nurse,Huye Health,Gisagara,Southern,Rural,USSD,GSM,2026-03-05 13:12,5,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,45-54
+CON-00298,PAT-00550,CLN-033,GP,Kigali Central,Gisagara,Southern,Rural,USSD,Web,2026-03-07 09:35,5,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Male,45-54
+CON-00299,PAT-00550,CLN-010,Nurse,Northern Clinic,Gisagara,Southern,Rural,USSD,GSM,2026-04-09 19:03,10,Completed,Malaria,No,No,No,RSSB-CBHI,Male,45-54
+CON-00300,PAT-00088,CLN-027,Nurse,Rubavu Clinic,Huye,Southern,Rural,USSD,Web,2026-04-13 05:28,11,Completed,Skin Condition,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00301,PAT-00088,CLN-018,GP,Huye Health,Huye,Southern,Rural,USSD,Web,2026-03-21 18:31,7,Completed,Injury/Trauma,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00302,PAT-00178,CLN-016,GP,Eastern HC,Gasabo,Kigali,Urban,IremboApp,Web,2026-03-24 14:28,8,Completed,Diabetes,Yes,Yes,No,RSSB-Formal,Female,65+
+CON-00303,PAT-00897,CLN-039,Nurse,Kigali Central,Rubavu,Western,Rural,IremboApp,GSM,2026-04-18 00:09,11,Completed,General Consultation,Yes,No,No,RAMA,Male,25-34
+CON-00304,PAT-00575,CLN-039,Nurse,Kigali Central,Rubavu,Western,Rural,IremboApp,GSM,2026-03-22 09:53,8,Completed,Injury/Trauma,Yes,Yes,No,RSSB-Formal,Female,35-44
+CON-00305,PAT-00575,CLN-012,GP,Northern Clinic,Rubavu,Western,Rural,IremboApp,,2026-03-28 05:36,8,No-Show,,,,No,RSSB-Formal,Female,35-44
+CON-00306,PAT-00575,CLN-036,GP,Rubavu Clinic,Rubavu,Western,Rural,IremboApp,GSM,2026-04-03 13:42,9,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Female,35-44
+CON-00307,PAT-01187,CLN-034,GP,Rubavu Clinic,Gasabo,Kigali,Urban,USSD,,2026-03-31 23:47,9,Cancelled,,,,No,RSSB-CBHI,Male,25-34
+CON-00308,PAT-00811,CLN-036,GP,Rubavu Clinic,Rubavu,Western,Rural,IremboApp,GSM,2026-04-19 01:28,12,Completed,Skin Condition,Yes,Yes,No,MMI,Male,25-34
+CON-00309,PAT-00778,CLN-023,GP,Kigali Central,Rwamagana,Eastern,Rural,IremboApp,,2026-02-11 03:51,2,Cancelled,,,,No,RSSB-Formal,Male,55-64
+CON-00310,PAT-00778,CLN-028,Nurse,Northern Clinic,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-04-16 21:57,11,Completed,General Consultation,Yes,Yes,No,RSSB-Formal,Male,55-64
+CON-00311,PAT-00563,CLN-038,Nurse,Rubavu Clinic,Gasabo,Kigali,Urban,USSD,Web,2026-02-27 18:08,4,Completed,Respiratory Infection,Yes,Yes,No,RAMA,Female,18-24
+CON-00312,PAT-00666,CLN-007,GP,Kigali Central,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-26 12:37,13,Completed,Diabetes,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-00313,PAT-00370,CLN-021,GP,Rubavu Clinic,Kicukiro,Kigali,Urban,IremboApp,Web,2026-04-21 22:10,12,Completed,Respiratory Infection,No,No,No,RSSB-CBHI,Male,45-54
+CON-00314,PAT-00370,CLN-028,Nurse,Northern Clinic,Kicukiro,Kigali,Urban,IremboApp,Web,2026-04-20 02:43,12,Completed,Respiratory Infection,No,No,No,RSSB-CBHI,Male,45-54
+CON-00315,PAT-00370,CLN-019,GP,Kigali Central,Kicukiro,Kigali,Urban,IremboApp,GSM,2026-04-17 21:03,11,Completed,General Consultation,Yes,Yes,No,RSSB-CBHI,Male,45-54
+CON-00316,PAT-00922,CLN-018,GP,Huye Health,Gasabo,Kigali,Urban,USSD,GSM,2026-02-27 11:50,4,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Male,45-54
+CON-00317,PAT-00922,CLN-035,GP,Rubavu Clinic,Gasabo,Kigali,Urban,USSD,,2026-03-29 09:53,9,No-Show,,,,No,RSSB-Formal,Male,45-54
+CON-00318,PAT-00878,CLN-024,Nurse,Eastern HC,Kicukiro,Kigali,Urban,IremboApp,Web,2026-04-06 06:01,10,Completed,Diabetes,No,No,No,RSSB-CBHI,Male,25-34
+CON-00319,PAT-00878,CLN-008,GP,Kigali Central,Kicukiro,Kigali,Urban,IremboApp,Web,2026-04-19 07:37,12,Completed,Diabetes,Yes,Yes,No,RSSB-CBHI,Male,25-34
+CON-00320,PAT-00068,CLN-008,GP,Kigali Central,Huye,Southern,Rural,IremboApp,,2026-03-28 12:25,8,Cancelled,,,,No,RSSB-CBHI,Male,45-54
+CON-00321,PAT-00881,CLN-021,GP,Rubavu Clinic,Gasabo,Kigali,Urban,USSD,GSM,2026-03-28 14:37,8,Completed,Skin Condition,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-00322,PAT-00464,CLN-028,Nurse,Northern Clinic,Nyarugenge,Kigali,Urban,USSD,Web,2026-02-06 17:22,1,Completed,Diabetes,Yes,Yes,No,RSSB-Formal,Female,25-34
+CON-00323,PAT-00464,CLN-003,GP,Huye Health,Nyarugenge,Kigali,Urban,USSD,,2026-04-04 18:52,9,Cancelled,,,,No,RSSB-Formal,Female,25-34
+CON-00324,PAT-00668,CLN-025,Nurse,Kigali Central,Gasabo,Kigali,Urban,IremboApp,,2026-04-03 22:16,9,No-Show,,,,No,RSSB-CBHI,Male,25-34
+CON-00325,PAT-00441,CLN-010,Nurse,Northern Clinic,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-04-05 15:26,10,Completed,Respiratory Infection,No,No,No,RSSB-Formal,Male,25-34
+CON-00326,PAT-01089,CLN-001,Nurse,Kigali Central,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-15 04:46,11,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Male,45-54
+CON-00327,PAT-01089,CLN-025,Nurse,Kigali Central,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-24 21:19,12,Completed,General Consultation,Yes,Yes,No,RSSB-Formal,Male,45-54
+CON-00328,PAT-00656,CLN-019,GP,Kigali Central,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-25 11:29,12,Completed,Diabetes,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00329,PAT-00656,CLN-008,GP,Kigali Central,Gasabo,Kigali,Urban,IremboApp,,2026-03-24 15:04,8,Cancelled,,,,No,RSSB-CBHI,Female,25-34
+CON-00330,PAT-00418,CLN-029,GP,Northern Clinic,Rubavu,Western,Rural,IremboApp,GSM,2026-04-21 04:25,12,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Female,45-54
+CON-00331,PAT-00418,CLN-009,GP,Huye Health,Rubavu,Western,Rural,IremboApp,,2026-04-28 02:35,13,No-Show,,,,No,RSSB-CBHI,Female,45-54
+CON-00332,PAT-01193,CLN-016,GP,Eastern HC,Muhanga,Southern,Rural,USSD,GSM,2026-04-21 00:01,12,Completed,Diabetes,Yes,Yes,No,RSSB-CBHI,Female,35-44
+CON-00333,PAT-00296,CLN-026,GP,Kigali Central,Gasabo,Kigali,Urban,IremboApp,,2026-04-19 23:06,12,No-Show,,,,No,RSSB-CBHI,Female,25-34
+CON-00334,PAT-00296,CLN-004,GP,Kigali Central,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-12 15:44,11,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00335,PAT-01045,CLN-035,GP,Rubavu Clinic,Rwamagana,Eastern,Rural,IremboApp,Web,2026-03-21 02:01,7,Completed,Skin Condition,Yes,Yes,Yes,RSSB-CBHI,Male,35-44
+CON-00336,PAT-01045,CLN-002,GP,Rubavu Clinic,Rwamagana,Eastern,Rural,IremboApp,,2026-04-17 01:27,11,No-Show,,,,No,RSSB-CBHI,Male,35-44
+CON-00337,PAT-00048,CLN-004,GP,Kigali Central,Rulindo,Northern,Rural,IremboApp,GSM,2026-03-15 03:53,7,Completed,Reproductive Health,Yes,Yes,No,MMI,Male,45-54
+CON-00338,PAT-00048,CLN-024,Nurse,Eastern HC,Rulindo,Northern,Rural,IremboApp,Web,2026-03-24 16:05,8,Completed,Respiratory Infection,No,No,Yes,MMI,Male,45-54
+CON-00339,PAT-00048,CLN-007,GP,Kigali Central,Rulindo,Northern,Rural,IremboApp,GSM,2026-04-29 02:57,13,Completed,Skin Condition,Yes,Yes,No,MMI,Male,45-54
+CON-00340,PAT-00046,CLN-025,Nurse,Kigali Central,Rulindo,Northern,Rural,USSD,Web,2026-03-16 00:06,7,Completed,Respiratory Infection,Yes,Yes,No,MMI,Female,35-44
+CON-00341,PAT-00902,CLN-002,GP,Rubavu Clinic,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-04-18 03:57,11,Completed,Mental Health,Yes,Yes,No,RSSB-Formal,Male,18-24
+CON-00342,PAT-00902,CLN-020,GP,Eastern HC,Rwamagana,Eastern,Rural,IremboApp,,2026-04-27 09:40,13,No-Show,,,,No,RSSB-Formal,Male,18-24
+CON-00343,PAT-00239,CLN-013,GP,Huye Health,Nyagatare,Eastern,Rural,USSD,GSM,2026-04-05 06:39,10,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Female,45-54
+CON-00344,PAT-00589,CLN-035,GP,Rubavu Clinic,Nyarugenge,Kigali,Urban,IremboApp,GSM,2026-04-24 02:54,12,Completed,Gastrointestinal,No,No,No,RAMA,Female,25-34
+CON-00345,PAT-00618,CLN-007,GP,Kigali Central,Huye,Southern,Rural,USSD,GSM,2026-04-16 16:32,11,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-00346,PAT-00618,CLN-022,GP,Northern Clinic,Huye,Southern,Rural,USSD,GSM,2026-03-28 01:53,8,Completed,General Consultation,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-00347,PAT-01005,CLN-040,Nurse,Huye Health,Rubavu,Western,Rural,IremboApp,,2026-04-16 18:52,11,No-Show,,,,No,RSSB-CBHI,Female,45-54
+CON-00348,PAT-00554,CLN-032,GP,Kigali Central,Huye,Southern,Rural,IremboApp,GSM,2026-03-12 17:19,6,Completed,Diabetes,Yes,Yes,No,RSSB-Formal,Female,35-44
+CON-00349,PAT-00554,CLN-018,GP,Huye Health,Huye,Southern,Rural,IremboApp,Web,2026-03-07 12:58,5,Completed,Skin Condition,Yes,Yes,No,RSSB-Formal,Female,35-44
+CON-00350,PAT-00702,CLN-036,GP,Rubavu Clinic,Huye,Southern,Rural,IremboApp,,2026-04-26 11:40,13,No-Show,,,,No,RSSB-Formal,Male,25-34
+CON-00351,PAT-00702,CLN-028,Nurse,Northern Clinic,Huye,Southern,Rural,IremboApp,Web,2026-04-16 13:11,11,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Male,25-34
+CON-00352,PAT-00844,CLN-011,GP,Northern Clinic,Huye,Southern,Rural,USSD,GSM,2026-04-03 01:51,9,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Male,45-54
+CON-00353,PAT-00844,CLN-018,GP,Huye Health,Huye,Southern,Rural,USSD,GSM,2026-03-14 13:35,6,Completed,Diabetes,Yes,Yes,No,RSSB-Formal,Male,45-54
+CON-00354,PAT-00139,CLN-024,Nurse,Eastern HC,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-18 08:50,11,Completed,General Consultation,Yes,Yes,No,RSSB-CBHI,Male,55-64
+CON-00355,PAT-00139,CLN-011,GP,Northern Clinic,Gasabo,Kigali,Urban,IremboApp,Web,2026-02-21 03:21,3,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,55-64
+CON-00356,PAT-00544,CLN-013,GP,Huye Health,Gasabo,Kigali,Urban,USSD,GSM,2026-04-07 06:38,10,Completed,Skin Condition,Yes,Yes,No,RSSB-Formal,Male,25-34
+CON-00357,PAT-00544,CLN-023,GP,Kigali Central,Gasabo,Kigali,Urban,USSD,Web,2026-03-29 22:41,9,Completed,Reproductive Health,Yes,Yes,No,RSSB-Formal,Male,25-34
+CON-00358,PAT-00544,CLN-024,Nurse,Eastern HC,Gasabo,Kigali,Urban,USSD,GSM,2026-04-06 16:26,10,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Male,25-34
+CON-00359,PAT-00100,CLN-012,GP,Northern Clinic,Rwamagana,Eastern,Rural,IremboApp,Web,2026-03-08 04:24,6,Completed,Gastrointestinal,No,No,No,RSSB-Formal,Male,35-44
+CON-00360,PAT-00100,CLN-038,Nurse,Rubavu Clinic,Rwamagana,Eastern,Rural,IremboApp,Web,2026-04-24 22:50,12,Completed,Malaria,Yes,Yes,Yes,RSSB-Formal,Male,35-44
+CON-00361,PAT-00108,CLN-006,GP,Northern Clinic,Gasabo,Kigali,Urban,USSD,,2026-03-31 12:10,9,Cancelled,,,,No,Uninsured,Female,25-34
+CON-00362,PAT-00347,CLN-001,Nurse,Kigali Central,Huye,Southern,Rural,IremboApp,GSM,2026-04-14 01:57,11,Completed,Skin Condition,Yes,Yes,No,RSSB-Formal,Female,45-54
+CON-00363,PAT-00289,CLN-025,Nurse,Kigali Central,Gasabo,Kigali,Urban,IremboApp,GSM,2026-03-22 15:11,8,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Female,65+
+CON-00364,PAT-00289,CLN-011,GP,Northern Clinic,Gasabo,Kigali,Urban,IremboApp,,2026-03-06 18:25,5,Cancelled,,,,No,RSSB-Formal,Female,65+
+CON-00365,PAT-00615,CLN-036,GP,Rubavu Clinic,Rwamagana,Eastern,Rural,USSD,GSM,2026-04-11 10:51,10,Completed,Skin Condition,No,No,No,RSSB-CBHI,Male,65+
+CON-00366,PAT-00615,CLN-030,GP,Kigali Central,Rwamagana,Eastern,Rural,USSD,,2026-04-04 12:06,9,No-Show,,,,No,RSSB-CBHI,Male,65+
+CON-00367,PAT-00442,CLN-025,Nurse,Kigali Central,Muhanga,Southern,Rural,USSD,Web,2026-04-07 06:30,10,Completed,Diabetes,Yes,Yes,No,MMI,Female,18-24
+CON-00368,PAT-00442,CLN-017,GP,Rubavu Clinic,Muhanga,Southern,Rural,USSD,GSM,2026-04-15 21:45,11,Completed,Hypertension,Yes,Yes,No,MMI,Female,18-24
+CON-00369,PAT-00908,CLN-041,Nurse,Huye Health,Nyarugenge,Kigali,Urban,IremboApp,Web,2026-03-18 14:52,7,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00370,PAT-00908,CLN-032,GP,Kigali Central,Nyarugenge,Kigali,Urban,IremboApp,Web,2026-04-05 03:01,10,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00371,PAT-00381,CLN-012,GP,Northern Clinic,Rwamagana,Eastern,Rural,USSD,,2026-04-23 06:07,12,No-Show,,,,No,RSSB-CBHI,Male,45-54
+CON-00372,PAT-00381,CLN-004,GP,Kigali Central,Rwamagana,Eastern,Rural,USSD,GSM,2026-03-25 19:08,8,Completed,Malaria,No,No,No,RSSB-CBHI,Male,45-54
+CON-00373,PAT-00633,CLN-022,GP,Northern Clinic,Rulindo,Northern,Rural,USSD,,2026-04-16 09:42,11,No-Show,,,,No,RSSB-Formal,Female,35-44
+CON-00374,PAT-00633,CLN-038,Nurse,Rubavu Clinic,Rulindo,Northern,Rural,USSD,GSM,2026-04-20 02:34,12,Completed,Skin Condition,Yes,Yes,No,RSSB-Formal,Female,35-44
+CON-00375,PAT-00474,CLN-033,GP,Kigali Central,Gasabo,Kigali,Urban,USSD,GSM,2026-04-23 22:58,12,Completed,Skin Condition,Yes,Yes,No,RSSB-CBHI,Male,55-64
+CON-00376,PAT-00003,CLN-020,GP,Eastern HC,Rulindo,Northern,Rural,IremboApp,GSM,2026-04-05 03:45,10,Completed,Diabetes,No,No,No,RSSB-Formal,Female,45-54
+CON-00377,PAT-00130,CLN-012,GP,Northern Clinic,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-03-09 19:01,6,Completed,Gastrointestinal,No,No,No,RSSB-Formal,Female,35-44
+CON-00378,PAT-00547,CLN-030,GP,Kigali Central,Rulindo,Northern,Rural,IremboApp,GSM,2026-04-03 08:43,9,Completed,Reproductive Health,Yes,Yes,No,RSSB-CBHI,Female,35-44
+CON-00379,PAT-00577,CLN-020,GP,Eastern HC,Nyagatare,Eastern,Rural,USSD,GSM,2026-03-20 21:17,7,Completed,Malaria,Yes,Yes,No,RSSB-Formal,Male,55-64
+CON-00380,PAT-00577,CLN-012,GP,Northern Clinic,Nyagatare,Eastern,Rural,USSD,,2026-03-27 08:13,8,Cancelled,,,,No,RSSB-Formal,Male,55-64
+CON-00381,PAT-00524,CLN-038,Nurse,Rubavu Clinic,Gisagara,Southern,Rural,USSD,GSM,2026-03-30 11:34,9,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Female,45-54
+CON-00382,PAT-00260,CLN-035,GP,Rubavu Clinic,Nyagatare,Eastern,Rural,USSD,GSM,2026-03-17 02:49,7,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Female,65+
+CON-00383,PAT-00260,CLN-036,GP,Rubavu Clinic,Nyagatare,Eastern,Rural,USSD,,2026-04-19 21:51,12,No-Show,,,,No,RSSB-CBHI,Female,65+
+CON-00384,PAT-00605,CLN-014,GP,Northern Clinic,Huye,Southern,Rural,USSD,GSM,2026-03-09 01:40,6,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Female,45-54
+CON-00385,PAT-00605,CLN-037,GP,Huye Health,Huye,Southern,Rural,USSD,GSM,2026-03-20 03:28,7,Completed,Reproductive Health,Yes,Yes,Yes,RSSB-Formal,Female,45-54
+CON-00386,PAT-00006,CLN-022,GP,Northern Clinic,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-04 05:58,9,Completed,Malaria,No,No,No,RSSB-Formal,Male,25-34
+CON-00387,PAT-00073,CLN-029,GP,Northern Clinic,Kicukiro,Kigali,Urban,IremboApp,,2026-04-15 12:40,11,No-Show,,,,No,RSSB-Formal,Male,25-34
+CON-00388,PAT-01125,CLN-026,GP,Kigali Central,Nyarugenge,Kigali,Urban,IremboApp,GSM,2026-04-08 05:33,10,Completed,Hypertension,No,No,No,RSSB-CBHI,Female,65+
+CON-00389,PAT-01125,CLN-015,GP,Kigali Central,Nyarugenge,Kigali,Urban,IremboApp,,2026-02-28 21:30,4,No-Show,,,,No,RSSB-CBHI,Female,65+
+CON-00390,PAT-00991,CLN-028,Nurse,Northern Clinic,Kicukiro,Kigali,Urban,IremboApp,,2026-04-13 20:58,11,No-Show,,,,No,RSSB-CBHI,Male,45-54
+CON-00391,PAT-01051,CLN-011,GP,Northern Clinic,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-13 16:38,11,Completed,General Consultation,Yes,No,No,MMI,Male,25-34
+CON-00392,PAT-01101,CLN-009,GP,Huye Health,Rubavu,Western,Rural,IremboApp,Web,2026-04-19 11:58,12,Completed,Malaria,No,No,No,RSSB-CBHI,Female,45-54
+CON-00393,PAT-01101,CLN-023,GP,Kigali Central,Rubavu,Western,Rural,IremboApp,GSM,2026-04-21 21:48,12,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Female,45-54
+CON-00394,PAT-01101,CLN-014,GP,Northern Clinic,Rubavu,Western,Rural,IremboApp,GSM,2026-03-25 11:10,8,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Female,45-54
+CON-00395,PAT-00645,CLN-026,GP,Kigali Central,Huye,Southern,Rural,IremboApp,Web,2026-04-18 09:11,11,Completed,Gastrointestinal,Yes,Yes,No,RSSB-CBHI,Female,55-64
+CON-00396,PAT-00124,CLN-026,GP,Kigali Central,Nyarugenge,Kigali,Urban,USSD,,2026-03-02 23:08,5,No-Show,,,,No,RAMA,Male,35-44
+CON-00397,PAT-00742,CLN-039,Nurse,Kigali Central,Karongi,Western,Rural,IremboApp,GSM,2026-04-20 14:41,12,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Female,55-64
+CON-00398,PAT-00742,CLN-024,Nurse,Eastern HC,Karongi,Western,Rural,IremboApp,GSM,2026-04-11 09:58,10,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Female,55-64
+CON-00399,PAT-00256,CLN-028,Nurse,Northern Clinic,Kicukiro,Kigali,Urban,IremboApp,GSM,2026-03-28 15:46,8,Completed,Malaria,Yes,Yes,No,RSSB-Formal,Male,25-34
+CON-00400,PAT-00613,CLN-027,Nurse,Rubavu Clinic,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-26 14:00,13,Completed,Mental Health,Yes,Yes,No,RSSB-CBHI,Female,35-44
+CON-00401,PAT-00779,CLN-026,GP,Kigali Central,Gasabo,Kigali,Urban,IremboApp,,2026-04-29 20:08,13,No-Show,,,,No,RSSB-CBHI,Male,25-34
+CON-00402,PAT-00779,CLN-009,GP,Huye Health,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-13 11:41,11,Completed,General Consultation,Yes,Yes,No,RSSB-CBHI,Male,25-34
+CON-00403,PAT-01153,CLN-028,Nurse,Northern Clinic,Karongi,Western,Rural,USSD,GSM,2026-04-22 08:29,12,Completed,Hypertension,No,No,No,RSSB-Formal,Male,18-24
+CON-00404,PAT-01153,CLN-022,GP,Northern Clinic,Karongi,Western,Rural,USSD,,2026-04-26 11:51,13,No-Show,,,,No,RSSB-Formal,Male,18-24
+CON-00405,PAT-00653,CLN-035,GP,Rubavu Clinic,Gasabo,Kigali,Urban,USSD,Web,2026-04-11 04:08,10,Completed,Gastrointestinal,Yes,No,No,RSSB-CBHI,Female,45-54
+CON-00406,PAT-00770,CLN-028,Nurse,Northern Clinic,Muhanga,Southern,Rural,IremboApp,GSM,2026-04-25 02:06,12,Completed,Reproductive Health,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00407,PAT-01055,CLN-019,GP,Kigali Central,Kicukiro,Kigali,Urban,IremboApp,,2026-04-11 18:20,10,No-Show,,,,No,RSSB-CBHI,Male,35-44
+CON-00408,PAT-00977,CLN-023,GP,Kigali Central,Kicukiro,Kigali,Urban,IremboApp,GSM,2026-03-04 11:17,5,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,55-64
+CON-00409,PAT-00887,CLN-016,GP,Eastern HC,Muhanga,Southern,Rural,IremboApp,GSM,2026-04-04 05:37,9,Completed,Reproductive Health,Yes,Yes,No,MMI,Male,45-54
+CON-00410,PAT-00365,CLN-016,GP,Eastern HC,Muhanga,Southern,Rural,IremboApp,,2026-04-28 23:34,13,Cancelled,,,,No,RSSB-Formal,Female,25-34
+CON-00411,PAT-00851,CLN-030,GP,Kigali Central,Muhanga,Southern,Rural,IremboApp,GSM,2026-04-09 06:01,10,Completed,Mental Health,No,No,No,RSSB-Formal,Female,45-54
+CON-00412,PAT-00851,CLN-006,GP,Northern Clinic,Muhanga,Southern,Rural,IremboApp,GSM,2026-04-03 18:31,9,Completed,Gastrointestinal,Yes,Yes,No,RSSB-Formal,Female,45-54
+CON-00413,PAT-00721,CLN-028,Nurse,Northern Clinic,Rulindo,Northern,Rural,IremboApp,,2026-02-20 16:44,3,Cancelled,,,,No,Uninsured,Female,35-44
+CON-00414,PAT-00721,CLN-040,Nurse,Huye Health,Rulindo,Northern,Rural,IremboApp,GSM,2026-03-14 10:30,6,Completed,Hypertension,Yes,Yes,No,Uninsured,Female,35-44
+CON-00415,PAT-00154,CLN-018,GP,Huye Health,Gasabo,Kigali,Urban,USSD,GSM,2026-04-10 00:22,10,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-00416,PAT-00594,CLN-009,GP,Huye Health,Gasabo,Kigali,Urban,USSD,Web,2026-04-28 21:42,13,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Male,35-44
+CON-00417,PAT-00594,CLN-015,GP,Kigali Central,Gasabo,Kigali,Urban,USSD,GSM,2026-04-12 18:11,11,Completed,Diabetes,Yes,Yes,No,RSSB-Formal,Male,35-44
+CON-00418,PAT-00312,CLN-031,GP,Huye Health,Rulindo,Northern,Rural,IremboApp,,2026-04-02 18:31,9,Cancelled,,,,No,RAMA,Male,25-34
+CON-00419,PAT-00642,CLN-010,Nurse,Northern Clinic,Kicukiro,Kigali,Urban,IremboApp,Web,2026-04-18 03:29,11,Completed,Skin Condition,Yes,Yes,No,RAMA,Female,25-34
+CON-00420,PAT-00013,CLN-006,GP,Northern Clinic,Huye,Southern,Rural,USSD,GSM,2026-04-21 17:37,12,Completed,Hypertension,Yes,No,No,RSSB-CBHI,Male,65+
+CON-00421,PAT-00246,CLN-002,GP,Rubavu Clinic,Nyagatare,Eastern,Rural,IremboApp,GSM,2026-04-23 09:04,12,Completed,Gastrointestinal,Yes,Yes,No,MMI,Male,45-54
+CON-00422,PAT-00741,CLN-032,GP,Kigali Central,Kicukiro,Kigali,Urban,IremboApp,,2026-04-16 05:46,11,Cancelled,,,,No,MMI,Male,18-24
+CON-00423,PAT-00105,CLN-039,Nurse,Kigali Central,Rwamagana,Eastern,Rural,USSD,,2026-04-05 08:54,10,Cancelled,,,,No,RSSB-Formal,Male,45-54
+CON-00424,PAT-00783,CLN-037,GP,Huye Health,Rwamagana,Eastern,Rural,USSD,Web,2026-04-24 16:06,12,Completed,Injury/Trauma,No,No,No,MMI,Male,45-54
+CON-00425,PAT-00569,CLN-027,Nurse,Rubavu Clinic,Rulindo,Northern,Rural,USSD,,2026-04-08 13:42,10,Cancelled,,,,No,RSSB-CBHI,Male,25-34
+CON-00426,PAT-00906,CLN-041,Nurse,Huye Health,Karongi,Western,Rural,IremboApp,,2026-04-25 02:56,12,No-Show,,,,No,MMI,Male,25-34
+CON-00427,PAT-00906,CLN-015,GP,Kigali Central,Karongi,Western,Rural,IremboApp,,2026-04-18 12:27,11,No-Show,,,,No,MMI,Male,25-34
+CON-00428,PAT-00299,CLN-011,GP,Northern Clinic,Kicukiro,Kigali,Urban,USSD,,2026-03-22 15:18,8,Cancelled,,,,No,RSSB-Formal,Male,25-34
+CON-00429,PAT-00299,CLN-001,Nurse,Kigali Central,Kicukiro,Kigali,Urban,USSD,GSM,2026-03-07 00:02,5,Completed,Reproductive Health,Yes,Yes,No,RSSB-Formal,Male,25-34
+CON-00430,PAT-00352,CLN-027,Nurse,Rubavu Clinic,Nyarugenge,Kigali,Urban,IremboApp,GSM,2026-04-01 14:38,9,Completed,Diabetes,Yes,Yes,No,RSSB-Formal,Female,45-54
+CON-00431,PAT-00352,CLN-027,Nurse,Rubavu Clinic,Nyarugenge,Kigali,Urban,IremboApp,,2026-04-16 09:33,11,Cancelled,,,,No,RSSB-Formal,Female,45-54
+CON-00432,PAT-00264,CLN-041,Nurse,Huye Health,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-29 21:49,13,Completed,Reproductive Health,Yes,Yes,No,RSSB-CBHI,Male,45-54
+CON-00433,PAT-01127,CLN-021,GP,Rubavu Clinic,Gasabo,Kigali,Urban,USSD,GSM,2026-03-29 09:32,9,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Male,45-54
+CON-00434,PAT-01127,CLN-016,GP,Eastern HC,Gasabo,Kigali,Urban,USSD,,2026-04-22 01:47,12,No-Show,,,,No,RSSB-CBHI,Male,45-54
+CON-00435,PAT-01127,CLN-008,GP,Kigali Central,Gasabo,Kigali,Urban,USSD,,2026-04-27 13:35,13,No-Show,,,,No,RSSB-CBHI,Male,45-54
+CON-00436,PAT-00538,CLN-016,GP,Eastern HC,Huye,Southern,Rural,IremboApp,GSM,2026-03-19 11:07,7,Completed,Reproductive Health,Yes,Yes,No,RSSB-Formal,Female,55-64
+CON-00437,PAT-00538,CLN-005,Nurse,Northern Clinic,Huye,Southern,Rural,IremboApp,,2026-04-10 09:51,10,No-Show,,,,No,RSSB-Formal,Female,55-64
+CON-00438,PAT-00538,CLN-008,GP,Kigali Central,Huye,Southern,Rural,IremboApp,Web,2026-04-25 04:05,12,Completed,Mental Health,Yes,Yes,No,RSSB-Formal,Female,55-64
+CON-00439,PAT-00285,CLN-024,Nurse,Eastern HC,Nyagatare,Eastern,Rural,IremboApp,GSM,2026-03-31 22:29,9,Completed,Respiratory Infection,Yes,Yes,No,MMI,Female,45-54
+CON-00440,PAT-00285,CLN-008,GP,Kigali Central,Nyagatare,Eastern,Rural,IremboApp,Web,2026-04-27 03:31,13,Completed,Hypertension,Yes,Yes,No,MMI,Female,45-54
+CON-00441,PAT-01030,CLN-005,Nurse,Northern Clinic,Kicukiro,Kigali,Urban,IremboApp,Web,2026-04-25 08:28,12,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Female,35-44
+CON-00442,PAT-00408,CLN-017,GP,Rubavu Clinic,Nyarugenge,Kigali,Urban,USSD,Web,2026-04-21 17:27,12,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Male,45-54
+CON-00443,PAT-00956,CLN-019,GP,Kigali Central,Rubavu,Western,Rural,IremboApp,GSM,2026-04-04 05:12,9,Completed,Skin Condition,Yes,Yes,No,RSSB-CBHI,Female,55-64
+CON-00444,PAT-00720,CLN-010,Nurse,Northern Clinic,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-20 02:53,12,Completed,Reproductive Health,Yes,Yes,No,RSSB-Formal,Male,55-64
+CON-00445,PAT-00720,CLN-038,Nurse,Rubavu Clinic,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-20 14:25,12,Completed,Diabetes,Yes,Yes,No,RSSB-Formal,Male,55-64
+CON-00446,PAT-01103,CLN-010,Nurse,Northern Clinic,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-03-13 10:04,6,Completed,Skin Condition,Yes,Yes,No,RSSB-CBHI,Male,25-34
+CON-00447,PAT-01103,CLN-012,GP,Northern Clinic,Rwamagana,Eastern,Rural,IremboApp,Web,2026-03-26 19:15,8,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Male,25-34
+CON-00448,PAT-01103,CLN-008,GP,Kigali Central,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-04-08 02:14,10,Completed,Mental Health,No,No,No,RSSB-CBHI,Male,25-34
+CON-00449,PAT-00437,CLN-015,GP,Kigali Central,Kicukiro,Kigali,Urban,USSD,GSM,2026-04-24 21:17,12,Completed,General Consultation,Yes,Yes,No,RAMA,Male,55-64
+CON-00450,PAT-00437,CLN-036,GP,Rubavu Clinic,Kicukiro,Kigali,Urban,USSD,,2026-03-31 08:34,9,Cancelled,,,,No,RAMA,Male,55-64
+CON-00451,PAT-00933,CLN-004,GP,Kigali Central,Rubavu,Western,Rural,IremboApp,GSM,2026-03-29 20:33,9,Completed,Respiratory Infection,No,No,No,RSSB-Formal,Female,35-44
+CON-00452,PAT-00380,CLN-030,GP,Kigali Central,Nyarugenge,Kigali,Urban,USSD,Web,2026-04-14 02:02,11,Completed,Gastrointestinal,Yes,Yes,No,RSSB-CBHI,Male,45-54
+CON-00453,PAT-00380,CLN-009,GP,Huye Health,Nyarugenge,Kigali,Urban,USSD,GSM,2026-04-06 02:10,10,Completed,Diabetes,No,No,No,RSSB-CBHI,Male,45-54
+CON-00454,PAT-00380,CLN-004,GP,Kigali Central,Nyarugenge,Kigali,Urban,USSD,Web,2026-04-29 01:34,13,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,45-54
+CON-00455,PAT-00884,CLN-039,Nurse,Kigali Central,Nyarugenge,Kigali,Urban,USSD,Web,2026-03-23 20:58,8,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Female,35-44
+CON-00456,PAT-00008,CLN-038,Nurse,Rubavu Clinic,Muhanga,Southern,Rural,USSD,,2026-04-17 17:28,11,No-Show,,,,No,RSSB-CBHI,Female,25-34
+CON-00457,PAT-00008,CLN-017,GP,Rubavu Clinic,Muhanga,Southern,Rural,USSD,GSM,2026-04-13 00:17,11,Completed,Diabetes,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00458,PAT-00192,CLN-035,GP,Rubavu Clinic,Muhanga,Southern,Rural,USSD,GSM,2026-04-29 12:36,13,Completed,Injury/Trauma,Yes,Yes,No,RSSB-CBHI,Male,25-34
+CON-00459,PAT-00662,CLN-033,GP,Kigali Central,Gasabo,Kigali,Urban,USSD,GSM,2026-04-11 23:48,10,Completed,General Consultation,Yes,Yes,No,RSSB-CBHI,Male,25-34
+CON-00460,PAT-01111,CLN-012,GP,Northern Clinic,Rulindo,Northern,Rural,IremboApp,GSM,2026-04-04 07:00,9,Completed,Gastrointestinal,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00461,PAT-01111,CLN-020,GP,Eastern HC,Rulindo,Northern,Rural,IremboApp,,2026-04-18 11:34,11,Cancelled,,,,No,RSSB-CBHI,Female,25-34
+CON-00462,PAT-00578,CLN-026,GP,Kigali Central,Rubavu,Western,Rural,USSD,,2026-04-25 07:53,12,No-Show,,,,No,RSSB-CBHI,Male,18-24
+CON-00463,PAT-00896,CLN-034,GP,Rubavu Clinic,Rulindo,Northern,Rural,IremboApp,,2026-04-29 10:38,13,Cancelled,,,,No,Uninsured,Female,25-34
+CON-00464,PAT-01004,CLN-015,GP,Kigali Central,Nyarugenge,Kigali,Urban,USSD,,2026-03-28 03:42,8,Cancelled,,,,No,RSSB-CBHI,Male,65+
+CON-00465,PAT-01004,CLN-024,Nurse,Eastern HC,Nyarugenge,Kigali,Urban,USSD,GSM,2026-03-31 11:28,9,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Male,65+
+CON-00466,PAT-01155,CLN-001,Nurse,Kigali Central,Gasabo,Kigali,Urban,IremboApp,,2026-04-07 05:59,10,No-Show,,,,No,MMI,Female,25-34
+CON-00467,PAT-00402,CLN-009,GP,Huye Health,Rubavu,Western,Rural,IremboApp,,2026-04-15 03:59,11,Cancelled,,,,No,RSSB-CBHI,Female,25-34
+CON-00468,PAT-00402,CLN-014,GP,Northern Clinic,Rubavu,Western,Rural,IremboApp,Web,2026-04-07 19:35,10,Completed,Diabetes,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00469,PAT-00402,CLN-040,Nurse,Huye Health,Rubavu,Western,Rural,IremboApp,GSM,2026-04-08 10:28,10,Completed,Gastrointestinal,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00470,PAT-00705,CLN-025,Nurse,Kigali Central,Nyarugenge,Kigali,Urban,IremboApp,Web,2026-04-22 13:23,12,Completed,Skin Condition,Yes,Yes,No,RSSB-Formal,Male,35-44
+CON-00471,PAT-00705,CLN-004,GP,Kigali Central,Nyarugenge,Kigali,Urban,IremboApp,GSM,2026-04-23 05:32,12,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Male,35-44
+CON-00472,PAT-00705,CLN-021,GP,Rubavu Clinic,Nyarugenge,Kigali,Urban,IremboApp,,2026-04-22 21:33,12,Cancelled,,,,No,RSSB-Formal,Male,35-44
+CON-00473,PAT-01121,CLN-038,Nurse,Rubavu Clinic,Muhanga,Southern,Rural,USSD,GSM,2026-02-23 14:30,4,Completed,Gastrointestinal,Yes,Yes,No,RSSB-CBHI,Female,65+
+CON-00474,PAT-01121,CLN-019,GP,Kigali Central,Muhanga,Southern,Rural,USSD,Web,2026-04-01 13:23,9,Completed,Gastrointestinal,Yes,Yes,No,RSSB-CBHI,Female,65+
+CON-00475,PAT-00824,CLN-029,GP,Northern Clinic,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-22 12:15,12,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Female,35-44
+CON-00476,PAT-00718,CLN-017,GP,Rubavu Clinic,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-03-29 03:34,9,Completed,Mental Health,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00477,PAT-00718,CLN-004,GP,Kigali Central,Rwamagana,Eastern,Rural,IremboApp,,2026-04-24 07:15,12,Cancelled,,,,No,RSSB-CBHI,Female,25-34
+CON-00478,PAT-00718,CLN-003,GP,Huye Health,Rwamagana,Eastern,Rural,IremboApp,,2026-04-15 10:45,11,Cancelled,,,,No,RSSB-CBHI,Female,25-34
+CON-00479,PAT-00711,CLN-037,GP,Huye Health,Rwamagana,Eastern,Rural,USSD,GSM,2026-04-13 20:39,11,Completed,Respiratory Infection,Yes,Yes,No,RAMA,Female,25-34
+CON-00480,PAT-00624,CLN-037,GP,Huye Health,Nyagatare,Eastern,Rural,USSD,,2026-04-02 06:12,9,Cancelled,,,,No,RSSB-CBHI,Male,35-44
+CON-00481,PAT-01199,CLN-028,Nurse,Northern Clinic,Rubavu,Western,Rural,IremboApp,,2026-04-25 14:52,12,No-Show,,,,No,RSSB-CBHI,Female,45-54
+CON-00482,PAT-01199,CLN-010,Nurse,Northern Clinic,Rubavu,Western,Rural,IremboApp,GSM,2026-04-24 22:27,12,Completed,Gastrointestinal,Yes,Yes,No,RSSB-CBHI,Female,45-54
+CON-00483,PAT-00542,CLN-026,GP,Kigali Central,Karongi,Western,Rural,IremboApp,Web,2026-02-14 02:03,2,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-00484,PAT-00286,CLN-021,GP,Rubavu Clinic,Rubavu,Western,Rural,IremboApp,GSM,2026-04-20 17:53,12,Completed,Reproductive Health,Yes,Yes,No,Uninsured,Male,18-24
+CON-00485,PAT-00843,CLN-010,Nurse,Northern Clinic,Nyarugenge,Kigali,Urban,USSD,GSM,2026-02-28 08:02,4,Completed,Reproductive Health,Yes,Yes,No,RSSB-CBHI,Male,18-24
+CON-00486,PAT-00843,CLN-023,GP,Kigali Central,Nyarugenge,Kigali,Urban,USSD,,2026-04-03 10:28,9,Cancelled,,,,No,RSSB-CBHI,Male,18-24
+CON-00487,PAT-00883,CLN-014,GP,Northern Clinic,Gisagara,Southern,Rural,IremboApp,Web,2026-04-16 14:02,11,Completed,Mental Health,Yes,Yes,Yes,RSSB-CBHI,Female,25-34
+CON-00488,PAT-00265,CLN-008,GP,Kigali Central,Rulindo,Northern,Rural,IremboApp,,2026-04-08 16:26,10,No-Show,,,,No,RSSB-Formal,Female,35-44
+CON-00489,PAT-00265,CLN-025,Nurse,Kigali Central,Rulindo,Northern,Rural,IremboApp,GSM,2026-03-17 06:02,7,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Female,35-44
+CON-00490,PAT-00265,CLN-038,Nurse,Rubavu Clinic,Rulindo,Northern,Rural,IremboApp,Web,2026-04-15 04:42,11,Completed,Skin Condition,Yes,Yes,No,RSSB-Formal,Female,35-44
+CON-00491,PAT-00102,CLN-014,GP,Northern Clinic,Huye,Southern,Rural,IremboApp,,2026-02-23 13:01,4,Cancelled,,,,No,RSSB-CBHI,Male,45-54
+CON-00492,PAT-00185,CLN-030,GP,Kigali Central,Rwamagana,Eastern,Rural,USSD,GSM,2026-04-07 10:28,10,Completed,Malaria,Yes,Yes,No,RSSB-Formal,Male,65+
+CON-00493,PAT-00376,CLN-015,GP,Kigali Central,Kicukiro,Kigali,Urban,IremboApp,,2026-04-04 04:40,9,Cancelled,,,,No,RAMA,Female,25-34
+CON-00494,PAT-00376,CLN-031,GP,Huye Health,Kicukiro,Kigali,Urban,IremboApp,Web,2026-04-12 20:02,11,Completed,Respiratory Infection,Yes,Yes,No,RAMA,Female,25-34
+CON-00495,PAT-00376,CLN-037,GP,Huye Health,Kicukiro,Kigali,Urban,IremboApp,Web,2026-03-23 05:16,8,Completed,Respiratory Infection,Yes,Yes,No,RAMA,Female,25-34
+CON-00496,PAT-01122,CLN-024,Nurse,Eastern HC,Huye,Southern,Rural,USSD,,2026-04-05 10:56,10,No-Show,,,,No,Uninsured,Female,35-44
+CON-00497,PAT-00619,CLN-010,Nurse,Northern Clinic,Huye,Southern,Rural,IremboApp,GSM,2026-04-18 08:25,11,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Female,18-24
+CON-00498,PAT-00415,CLN-024,Nurse,Eastern HC,Kicukiro,Kigali,Urban,USSD,,2026-04-29 04:16,13,Cancelled,,,,No,MMI,Female,45-54
+CON-00499,PAT-00919,CLN-022,GP,Northern Clinic,Kicukiro,Kigali,Urban,IremboApp,Web,2026-02-24 12:11,4,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Male,65+
+CON-00500,PAT-00433,CLN-011,GP,Northern Clinic,Gisagara,Southern,Rural,USSD,Web,2026-04-15 23:48,11,Completed,Respiratory Infection,Yes,No,No,RSSB-CBHI,Male,65+
+CON-00501,PAT-00433,CLN-035,GP,Rubavu Clinic,Gisagara,Southern,Rural,USSD,Web,2026-04-05 07:11,10,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Male,65+
+CON-00502,PAT-00169,CLN-031,GP,Huye Health,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-04-05 16:18,10,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Male,18-24
+CON-00503,PAT-00674,CLN-019,GP,Kigali Central,Nyarugenge,Kigali,Urban,IremboApp,,2026-04-15 14:30,11,Cancelled,,,,No,Uninsured,Female,55-64
+CON-00504,PAT-00674,CLN-017,GP,Rubavu Clinic,Nyarugenge,Kigali,Urban,IremboApp,Web,2026-04-06 23:34,10,Completed,Skin Condition,No,No,No,Uninsured,Female,55-64
+CON-00505,PAT-00388,CLN-009,GP,Huye Health,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-16 11:22,11,Completed,Reproductive Health,Yes,Yes,No,MMI,Male,35-44
+CON-00506,PAT-00388,CLN-025,Nurse,Kigali Central,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-29 09:54,13,Completed,Respiratory Infection,No,No,No,MMI,Male,35-44
+CON-00507,PAT-01123,CLN-011,GP,Northern Clinic,Gasabo,Kigali,Urban,USSD,GSM,2026-03-29 02:10,9,Completed,Respiratory Infection,Yes,Yes,No,MMI,Female,55-64
+CON-00508,PAT-01123,CLN-029,GP,Northern Clinic,Gasabo,Kigali,Urban,USSD,,2026-04-14 09:14,11,Cancelled,,,,No,MMI,Female,55-64
+CON-00509,PAT-00527,CLN-008,GP,Kigali Central,Rwamagana,Eastern,Rural,USSD,GSM,2026-04-18 16:57,11,Completed,Respiratory Infection,Yes,No,No,MMI,Female,25-34
+CON-00510,PAT-00001,CLN-036,GP,Rubavu Clinic,Gasabo,Kigali,Urban,USSD,GSM,2026-04-27 17:43,13,Completed,Malaria,Yes,Yes,No,RSSB-Formal,Male,35-44
+CON-00511,PAT-00001,CLN-002,GP,Rubavu Clinic,Gasabo,Kigali,Urban,USSD,,2026-04-19 08:27,12,Cancelled,,,,No,RSSB-Formal,Male,35-44
+CON-00512,PAT-00001,CLN-030,GP,Kigali Central,Gasabo,Kigali,Urban,USSD,,2026-04-14 12:18,11,No-Show,,,,No,RSSB-Formal,Male,35-44
+CON-00513,PAT-00394,CLN-023,GP,Kigali Central,Rwamagana,Eastern,Rural,IremboApp,Web,2026-04-01 03:08,9,Completed,Diabetes,Yes,Yes,No,RSSB-CBHI,Female,45-54
+CON-00514,PAT-00394,CLN-013,GP,Huye Health,Rwamagana,Eastern,Rural,IremboApp,Web,2026-04-19 19:14,12,Completed,Diabetes,Yes,Yes,No,RSSB-CBHI,Female,45-54
+CON-00515,PAT-01010,CLN-034,GP,Rubavu Clinic,Rwamagana,Eastern,Rural,USSD,GSM,2026-04-21 18:08,12,Completed,Respiratory Infection,Yes,No,No,RSSB-Formal,Female,35-44
+CON-00516,PAT-01010,CLN-011,GP,Northern Clinic,Rwamagana,Eastern,Rural,USSD,GSM,2026-04-29 00:43,13,Completed,Gastrointestinal,No,No,No,RSSB-Formal,Female,35-44
+CON-00517,PAT-00671,CLN-013,GP,Huye Health,Huye,Southern,Rural,USSD,Web,2026-04-25 14:00,12,Completed,Injury/Trauma,Yes,Yes,No,RSSB-Formal,Female,25-34
+CON-00518,PAT-00671,CLN-021,GP,Rubavu Clinic,Huye,Southern,Rural,USSD,GSM,2026-04-27 17:15,13,Completed,Malaria,Yes,Yes,No,RSSB-Formal,Female,25-34
+CON-00519,PAT-00671,CLN-004,GP,Kigali Central,Huye,Southern,Rural,USSD,GSM,2026-04-08 05:50,10,Completed,Injury/Trauma,No,No,No,RSSB-Formal,Female,25-34
+CON-00520,PAT-00416,CLN-027,Nurse,Rubavu Clinic,Rubavu,Western,Rural,USSD,Web,2026-02-27 11:31,4,Completed,Malaria,Yes,No,No,MMI,Male,18-24
+CON-00521,PAT-00651,CLN-014,GP,Northern Clinic,Huye,Southern,Rural,IremboApp,Web,2026-04-12 08:54,11,Completed,Malaria,Yes,Yes,No,RSSB-Formal,Male,55-64
+CON-00522,PAT-00862,CLN-015,GP,Kigali Central,Rwamagana,Eastern,Rural,USSD,GSM,2026-04-21 10:26,12,Completed,Respiratory Infection,Yes,Yes,No,MMI,Female,18-24
+CON-00523,PAT-00862,CLN-022,GP,Northern Clinic,Rwamagana,Eastern,Rural,USSD,,2026-04-27 11:26,13,No-Show,,,,No,MMI,Female,18-24
+CON-00524,PAT-01041,CLN-008,GP,Kigali Central,Rwamagana,Eastern,Rural,USSD,GSM,2026-04-23 02:24,12,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-00525,PAT-01041,CLN-007,GP,Kigali Central,Rwamagana,Eastern,Rural,USSD,Web,2026-04-26 08:17,13,Completed,Reproductive Health,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-00526,PAT-00213,CLN-027,Nurse,Rubavu Clinic,Gasabo,Kigali,Urban,USSD,GSM,2026-04-27 05:58,13,Completed,Gastrointestinal,Yes,Yes,No,RSSB-Formal,Female,65+
+CON-00527,PAT-00213,CLN-033,GP,Kigali Central,Gasabo,Kigali,Urban,USSD,Web,2026-04-29 18:29,13,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Female,65+
+CON-00528,PAT-00161,CLN-032,GP,Kigali Central,Huye,Southern,Rural,USSD,GSM,2026-04-28 13:18,13,Completed,Mental Health,No,No,No,RSSB-CBHI,Male,25-34
+CON-00529,PAT-00476,CLN-025,Nurse,Kigali Central,Kicukiro,Kigali,Urban,IremboApp,Web,2026-04-23 10:59,12,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Female,65+
+CON-00530,PAT-00476,CLN-007,GP,Kigali Central,Kicukiro,Kigali,Urban,IremboApp,GSM,2026-04-27 04:46,13,Completed,Skin Condition,Yes,Yes,No,RSSB-Formal,Female,65+
+CON-00531,PAT-00781,CLN-003,GP,Huye Health,Rubavu,Western,Rural,IremboApp,Web,2026-04-08 02:44,10,Completed,Mental Health,Yes,No,No,RSSB-CBHI,Female,25-34
+CON-00532,PAT-01087,CLN-014,GP,Northern Clinic,Rwamagana,Eastern,Rural,USSD,Web,2026-02-27 11:44,4,Completed,Mental Health,Yes,Yes,No,RSSB-Formal,Female,45-54
+CON-00533,PAT-01087,CLN-023,GP,Kigali Central,Rwamagana,Eastern,Rural,USSD,,2026-03-21 14:43,7,No-Show,,,,No,RSSB-Formal,Female,45-54
+CON-00534,PAT-00115,CLN-004,GP,Kigali Central,Huye,Southern,Rural,IremboApp,GSM,2026-04-20 19:49,12,Completed,Respiratory Infection,No,No,No,RSSB-CBHI,Female,25-34
+CON-00535,PAT-01126,CLN-021,GP,Rubavu Clinic,Nyarugenge,Kigali,Urban,USSD,Web,2026-04-16 11:18,11,Completed,Diabetes,Yes,Yes,No,RSSB-Formal,Female,45-54
+CON-00536,PAT-01126,CLN-040,Nurse,Huye Health,Nyarugenge,Kigali,Urban,USSD,Web,2026-04-02 01:52,9,Completed,Malaria,No,No,No,RSSB-Formal,Female,45-54
+CON-00537,PAT-01126,CLN-006,GP,Northern Clinic,Nyarugenge,Kigali,Urban,USSD,GSM,2026-04-29 09:05,13,Completed,Hypertension,Yes,Yes,No,RSSB-Formal,Female,45-54
+CON-00538,PAT-00225,CLN-022,GP,Northern Clinic,Rwamagana,Eastern,Rural,IremboApp,,2026-03-15 00:56,7,No-Show,,,,No,RSSB-CBHI,Male,25-34
+CON-00539,PAT-00225,CLN-021,GP,Rubavu Clinic,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-02-25 08:44,4,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Male,25-34
+CON-00540,PAT-00344,CLN-005,Nurse,Northern Clinic,Nyagatare,Eastern,Rural,IremboApp,GSM,2026-04-22 00:17,12,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Male,18-24
+CON-00541,PAT-01077,CLN-009,GP,Huye Health,Karongi,Western,Rural,USSD,,2026-04-04 12:30,9,Cancelled,,,,No,RSSB-CBHI,Male,55-64
+CON-00542,PAT-00092,CLN-040,Nurse,Huye Health,Rwamagana,Eastern,Rural,USSD,Web,2026-03-26 12:51,8,Completed,Diabetes,Yes,Yes,No,RSSB-CBHI,Male,65+
+CON-00543,PAT-00092,CLN-002,GP,Rubavu Clinic,Rwamagana,Eastern,Rural,USSD,Web,2026-03-24 13:58,8,Completed,Skin Condition,Yes,Yes,No,RSSB-CBHI,Male,65+
+CON-00544,PAT-00364,CLN-002,GP,Rubavu Clinic,Huye,Southern,Rural,USSD,,2026-04-01 15:48,9,No-Show,,,,No,RAMA,Female,45-54
+CON-00545,PAT-00167,CLN-013,GP,Huye Health,Gasabo,Kigali,Urban,USSD,Web,2026-04-20 18:56,12,Completed,Reproductive Health,Yes,Yes,No,RSSB-CBHI,Male,45-54
+CON-00546,PAT-00167,CLN-017,GP,Rubavu Clinic,Gasabo,Kigali,Urban,USSD,Web,2026-04-25 03:02,12,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Male,45-54
+CON-00547,PAT-00374,CLN-035,GP,Rubavu Clinic,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-04-21 21:15,12,Completed,Malaria,Yes,No,No,RSSB-Formal,Female,35-44
+CON-00548,PAT-00374,CLN-007,GP,Kigali Central,Rwamagana,Eastern,Rural,IremboApp,,2026-04-19 13:30,12,Cancelled,,,,No,RSSB-Formal,Female,35-44
+CON-00549,PAT-00374,CLN-035,GP,Rubavu Clinic,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-04-23 18:34,12,Completed,Skin Condition,Yes,Yes,No,RSSB-Formal,Female,35-44
+CON-00550,PAT-00405,CLN-004,GP,Kigali Central,Musanze,Northern,Rural,USSD,GSM,2026-04-04 06:33,9,Completed,Malaria,Yes,No,No,RSSB-CBHI,Female,45-54
+CON-00551,PAT-00405,CLN-002,GP,Rubavu Clinic,Musanze,Northern,Rural,USSD,Web,2026-04-20 15:48,12,Completed,Malaria,No,No,No,RSSB-CBHI,Female,45-54
+CON-00552,PAT-00181,CLN-022,GP,Northern Clinic,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-26 16:44,13,Completed,Gastrointestinal,Yes,Yes,No,RSSB-CBHI,Female,35-44
+CON-00553,PAT-00932,CLN-040,Nurse,Huye Health,Rwamagana,Eastern,Rural,USSD,GSM,2026-04-15 03:56,11,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,18-24
+CON-00554,PAT-00932,CLN-013,GP,Huye Health,Rwamagana,Eastern,Rural,USSD,Web,2026-04-18 21:54,11,Completed,Skin Condition,Yes,Yes,No,RSSB-CBHI,Male,18-24
+CON-00555,PAT-00988,CLN-007,GP,Kigali Central,Rwamagana,Eastern,Rural,USSD,,2026-02-26 15:37,4,Cancelled,,,,No,RSSB-CBHI,Male,18-24
+CON-00556,PAT-00171,CLN-025,Nurse,Kigali Central,Muhanga,Southern,Rural,USSD,GSM,2026-04-27 22:42,13,Completed,Gastrointestinal,Yes,Yes,No,RSSB-Formal,Female,45-54
+CON-00557,PAT-00489,CLN-017,GP,Rubavu Clinic,Huye,Southern,Rural,USSD,Web,2026-04-05 23:02,10,Completed,Diabetes,Yes,Yes,Yes,MMI,Female,45-54
+CON-00558,PAT-00203,CLN-004,GP,Kigali Central,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-15 01:06,11,Completed,Respiratory Infection,Yes,No,No,MMI,Female,55-64
+CON-00559,PAT-00203,CLN-002,GP,Rubavu Clinic,Gasabo,Kigali,Urban,IremboApp,,2026-04-02 20:49,9,No-Show,,,,No,MMI,Female,55-64
+CON-00560,PAT-00043,CLN-012,GP,Northern Clinic,Kicukiro,Kigali,Urban,IremboApp,Web,2026-03-02 17:41,5,Completed,Malaria,Yes,Yes,No,RAMA,Female,25-34
+CON-00561,PAT-00959,CLN-024,Nurse,Eastern HC,Rwamagana,Eastern,Rural,IremboApp,Web,2026-04-23 05:26,12,Completed,Respiratory Infection,Yes,Yes,No,RAMA,Female,55-64
+CON-00562,PAT-00959,CLN-040,Nurse,Huye Health,Rwamagana,Eastern,Rural,IremboApp,Web,2026-02-26 22:42,4,Completed,Mental Health,No,No,No,RAMA,Female,55-64
+CON-00563,PAT-00959,CLN-007,GP,Kigali Central,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-03-24 07:04,8,Completed,Skin Condition,Yes,Yes,No,RAMA,Female,55-64
+CON-00564,PAT-00241,CLN-036,GP,Rubavu Clinic,Gasabo,Kigali,Urban,USSD,,2026-04-12 03:27,11,No-Show,,,,No,RSSB-Formal,Male,25-34
+CON-00565,PAT-00241,CLN-036,GP,Rubavu Clinic,Gasabo,Kigali,Urban,USSD,GSM,2026-03-10 07:11,6,Completed,Diabetes,Yes,No,No,RSSB-Formal,Male,25-34
+CON-00566,PAT-00241,CLN-023,GP,Kigali Central,Gasabo,Kigali,Urban,USSD,Web,2026-03-03 00:54,5,Completed,Skin Condition,Yes,Yes,No,RSSB-Formal,Male,25-34
+CON-00567,PAT-00941,CLN-006,GP,Northern Clinic,Kicukiro,Kigali,Urban,IremboApp,GSM,2026-04-22 11:19,12,Completed,Diabetes,Yes,Yes,No,RSSB-CBHI,Male,55-64
+CON-00568,PAT-00941,CLN-013,GP,Huye Health,Kicukiro,Kigali,Urban,IremboApp,GSM,2026-04-25 01:09,12,Completed,Skin Condition,Yes,Yes,No,RSSB-CBHI,Male,55-64
+CON-00569,PAT-00780,CLN-002,GP,Rubavu Clinic,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-24 22:51,12,Completed,Diabetes,Yes,Yes,No,RSSB-Formal,Male,25-34
+CON-00570,PAT-00208,CLN-004,GP,Kigali Central,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-25 04:58,12,Completed,Malaria,No,No,No,RSSB-Formal,Female,35-44
+CON-00571,PAT-01171,CLN-012,GP,Northern Clinic,Kicukiro,Kigali,Urban,USSD,Web,2026-04-13 16:47,11,Completed,Respiratory Infection,No,No,No,RSSB-CBHI,Female,65+
+CON-00572,PAT-01171,CLN-023,GP,Kigali Central,Kicukiro,Kigali,Urban,USSD,,2026-03-10 06:37,6,Cancelled,,,,No,RSSB-CBHI,Female,65+
+CON-00573,PAT-01171,CLN-028,Nurse,Northern Clinic,Kicukiro,Kigali,Urban,USSD,Web,2026-04-27 10:13,13,Completed,Gastrointestinal,Yes,Yes,No,RSSB-CBHI,Female,65+
+CON-00574,PAT-00177,CLN-015,GP,Kigali Central,Muhanga,Southern,Rural,IremboApp,GSM,2026-03-11 00:43,6,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,25-34
+CON-00575,PAT-00214,CLN-008,GP,Kigali Central,Kicukiro,Kigali,Urban,IremboApp,,2026-04-22 17:35,12,Cancelled,,,,No,RAMA,Female,25-34
+CON-00576,PAT-00007,CLN-012,GP,Northern Clinic,Gisagara,Southern,Rural,IremboApp,,2026-04-11 01:21,10,Cancelled,,,,No,MMI,Female,45-54
+CON-00577,PAT-00784,CLN-010,Nurse,Northern Clinic,Huye,Southern,Rural,IremboApp,Web,2026-03-15 04:08,7,Completed,Diabetes,Yes,Yes,No,RSSB-CBHI,Male,55-64
+CON-00578,PAT-00784,CLN-020,GP,Eastern HC,Huye,Southern,Rural,IremboApp,Web,2026-04-12 09:33,11,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Male,55-64
+CON-00579,PAT-00574,CLN-032,GP,Kigali Central,Nyarugenge,Kigali,Urban,IremboApp,GSM,2026-03-10 09:33,6,Completed,Gastrointestinal,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00580,PAT-00096,CLN-041,Nurse,Huye Health,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-12 17:05,11,Completed,Diabetes,Yes,Yes,No,RSSB-CBHI,Male,25-34
+CON-00581,PAT-00096,CLN-017,GP,Rubavu Clinic,Gasabo,Kigali,Urban,IremboApp,,2026-04-28 23:08,13,Cancelled,,,,No,RSSB-CBHI,Male,25-34
+CON-00582,PAT-00830,CLN-035,GP,Rubavu Clinic,Huye,Southern,Rural,IremboApp,GSM,2026-04-18 19:49,11,Completed,Reproductive Health,Yes,Yes,No,MMI,Female,35-44
+CON-00583,PAT-00830,CLN-036,GP,Rubavu Clinic,Huye,Southern,Rural,IremboApp,,2026-04-09 04:47,10,No-Show,,,,No,MMI,Female,35-44
+CON-00584,PAT-01092,CLN-007,GP,Kigali Central,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-07 11:43,10,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Male,18-24
+CON-00585,PAT-00298,CLN-029,GP,Northern Clinic,Nyagatare,Eastern,Rural,USSD,Web,2026-04-19 11:09,12,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00586,PAT-00182,CLN-022,GP,Northern Clinic,Rwamagana,Eastern,Rural,IremboApp,,2026-04-06 09:55,10,No-Show,,,,No,RSSB-Formal,Female,35-44
+CON-00587,PAT-00182,CLN-013,GP,Huye Health,Rwamagana,Eastern,Rural,IremboApp,,2026-04-21 10:18,12,Cancelled,,,,No,RSSB-Formal,Female,35-44
+CON-00588,PAT-01147,CLN-005,Nurse,Northern Clinic,Muhanga,Southern,Rural,IremboApp,GSM,2026-03-26 02:07,8,Completed,Hypertension,Yes,Yes,No,RSSB-Formal,Female,35-44
+CON-00589,PAT-01147,CLN-034,GP,Rubavu Clinic,Muhanga,Southern,Rural,IremboApp,GSM,2026-04-04 09:58,9,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Female,35-44
+CON-00590,PAT-01147,CLN-040,Nurse,Huye Health,Muhanga,Southern,Rural,IremboApp,GSM,2026-02-06 16:41,1,Completed,Gastrointestinal,Yes,Yes,Yes,RSSB-Formal,Female,35-44
+CON-00591,PAT-00293,CLN-025,Nurse,Kigali Central,Gasabo,Kigali,Urban,USSD,,2026-04-15 10:01,11,No-Show,,,,No,RSSB-CBHI,Male,45-54
+CON-00592,PAT-00277,CLN-037,GP,Huye Health,Gasabo,Kigali,Urban,IremboApp,GSM,2026-03-06 10:00,5,Completed,Diabetes,Yes,Yes,No,RSSB-CBHI,Male,18-24
+CON-00593,PAT-01006,CLN-029,GP,Northern Clinic,Nyarugenge,Kigali,Urban,USSD,,2026-04-19 18:36,12,Cancelled,,,,No,RSSB-CBHI,Female,25-34
+CON-00594,PAT-01006,CLN-040,Nurse,Huye Health,Nyarugenge,Kigali,Urban,USSD,Web,2026-04-24 19:32,12,Completed,Reproductive Health,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00595,PAT-00600,CLN-010,Nurse,Northern Clinic,Muhanga,Southern,Rural,USSD,Web,2026-02-23 17:35,4,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Male,55-64
+CON-00596,PAT-00600,CLN-020,GP,Eastern HC,Muhanga,Southern,Rural,USSD,Web,2026-03-15 22:01,7,Completed,Hypertension,Yes,Yes,No,RSSB-Formal,Male,55-64
+CON-00597,PAT-00600,CLN-014,GP,Northern Clinic,Muhanga,Southern,Rural,USSD,,2026-03-08 06:24,6,Cancelled,,,,No,RSSB-Formal,Male,55-64
+CON-00598,PAT-00168,CLN-025,Nurse,Kigali Central,Huye,Southern,Rural,USSD,Web,2026-03-27 02:20,8,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Female,35-44
+CON-00599,PAT-00168,CLN-013,GP,Huye Health,Huye,Southern,Rural,USSD,,2026-04-08 04:26,10,Cancelled,,,,No,RSSB-CBHI,Female,35-44
+CON-00600,PAT-01188,CLN-036,GP,Rubavu Clinic,Huye,Southern,Rural,IremboApp,,2026-04-10 11:52,10,No-Show,,,,No,RSSB-Formal,Female,35-44
+CON-00601,PAT-01064,CLN-010,Nurse,Northern Clinic,Karongi,Western,Rural,IremboApp,GSM,2026-03-23 03:21,8,Completed,Reproductive Health,Yes,No,No,RSSB-Formal,Female,45-54
+CON-00602,PAT-00230,CLN-036,GP,Rubavu Clinic,Gasabo,Kigali,Urban,USSD,,2026-04-25 04:42,12,No-Show,,,,No,RSSB-Formal,Male,45-54
+CON-00603,PAT-00057,CLN-012,GP,Northern Clinic,Muhanga,Southern,Rural,IremboApp,,2026-04-20 11:31,12,Cancelled,,,,No,RSSB-CBHI,Female,35-44
+CON-00604,PAT-00057,CLN-012,GP,Northern Clinic,Muhanga,Southern,Rural,IremboApp,GSM,2026-04-23 18:31,12,Completed,Mental Health,Yes,Yes,No,RSSB-CBHI,Female,35-44
+CON-00605,PAT-00057,CLN-021,GP,Rubavu Clinic,Muhanga,Southern,Rural,IremboApp,GSM,2026-04-19 23:35,12,Completed,Malaria,No,No,No,RSSB-CBHI,Female,35-44
+CON-00606,PAT-00748,CLN-041,Nurse,Huye Health,Nyarugenge,Kigali,Urban,USSD,,2026-04-27 09:24,13,No-Show,,,,No,RSSB-CBHI,Female,35-44
+CON-00607,PAT-00138,CLN-004,GP,Kigali Central,Muhanga,Southern,Rural,USSD,Web,2026-04-28 22:17,13,Completed,General Consultation,Yes,Yes,No,RSSB-CBHI,Female,35-44
+CON-00608,PAT-00723,CLN-021,GP,Rubavu Clinic,Muhanga,Southern,Rural,IremboApp,GSM,2026-04-21 12:14,12,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,45-54
+CON-00609,PAT-00076,CLN-011,GP,Northern Clinic,Rwamagana,Eastern,Rural,USSD,GSM,2026-04-04 09:06,9,Completed,Hypertension,Yes,Yes,No,RAMA,Male,45-54
+CON-00610,PAT-00076,CLN-008,GP,Kigali Central,Rwamagana,Eastern,Rural,USSD,GSM,2026-04-09 02:33,10,Completed,Hypertension,Yes,Yes,No,RAMA,Male,45-54
+CON-00611,PAT-00076,CLN-038,Nurse,Rubavu Clinic,Rwamagana,Eastern,Rural,USSD,Web,2026-03-28 23:14,8,Completed,Reproductive Health,Yes,Yes,No,RAMA,Male,45-54
+CON-00612,PAT-00672,CLN-023,GP,Kigali Central,Nyagatare,Eastern,Rural,IremboApp,,2026-04-11 00:42,10,No-Show,,,,No,RSSB-CBHI,Female,45-54
+CON-00613,PAT-00672,CLN-012,GP,Northern Clinic,Nyagatare,Eastern,Rural,IremboApp,GSM,2026-02-21 16:31,3,Completed,Mental Health,Yes,No,No,RSSB-CBHI,Female,45-54
+CON-00614,PAT-00672,CLN-021,GP,Rubavu Clinic,Nyagatare,Eastern,Rural,IremboApp,Web,2026-04-17 13:50,11,Completed,Diabetes,Yes,No,No,RSSB-CBHI,Female,45-54
+CON-00615,PAT-00528,CLN-024,Nurse,Eastern HC,Gasabo,Kigali,Urban,USSD,,2026-03-27 04:58,8,No-Show,,,,No,RSSB-Formal,Female,35-44
+CON-00616,PAT-00528,CLN-034,GP,Rubavu Clinic,Gasabo,Kigali,Urban,USSD,,2026-04-01 14:30,9,Cancelled,,,,No,RSSB-Formal,Female,35-44
+CON-00617,PAT-00689,CLN-004,GP,Kigali Central,Huye,Southern,Rural,USSD,GSM,2026-03-25 02:25,8,Completed,Malaria,No,No,No,RSSB-CBHI,Male,55-64
+CON-00618,PAT-01039,CLN-030,GP,Kigali Central,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-29 18:12,13,Completed,General Consultation,Yes,Yes,Yes,MMI,Female,25-34
+CON-00619,PAT-01039,CLN-002,GP,Rubavu Clinic,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-21 16:42,12,Completed,Gastrointestinal,Yes,Yes,No,MMI,Female,25-34
+CON-00620,PAT-01039,CLN-022,GP,Northern Clinic,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-02 10:08,9,Completed,Hypertension,No,No,No,MMI,Female,25-34
+CON-00621,PAT-00035,CLN-017,GP,Rubavu Clinic,Rwamagana,Eastern,Rural,USSD,GSM,2026-03-15 14:47,7,Completed,General Consultation,No,No,No,RAMA,Female,55-64
+CON-00622,PAT-00535,CLN-033,GP,Kigali Central,Rulindo,Northern,Rural,IremboApp,,2026-04-25 20:48,12,No-Show,,,,No,RSSB-CBHI,Male,45-54
+CON-00623,PAT-00535,CLN-016,GP,Eastern HC,Rulindo,Northern,Rural,IremboApp,GSM,2026-04-23 07:10,12,Completed,Reproductive Health,Yes,Yes,Yes,RSSB-CBHI,Male,45-54
+CON-00624,PAT-00650,CLN-022,GP,Northern Clinic,Rubavu,Western,Rural,IremboApp,,2026-04-29 14:06,13,No-Show,,,,No,RSSB-CBHI,Male,35-44
+CON-00625,PAT-00758,CLN-030,GP,Kigali Central,Rubavu,Western,Rural,IremboApp,Web,2026-04-29 13:47,13,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-00626,PAT-00758,CLN-012,GP,Northern Clinic,Rubavu,Western,Rural,IremboApp,GSM,2026-04-19 23:38,12,Completed,Malaria,No,No,No,RSSB-CBHI,Male,35-44
+CON-00627,PAT-01144,CLN-041,Nurse,Huye Health,Rubavu,Western,Rural,IremboApp,GSM,2026-04-17 18:38,11,Completed,Skin Condition,No,No,No,MMI,Female,25-34
+CON-00628,PAT-01113,CLN-038,Nurse,Rubavu Clinic,Rubavu,Western,Rural,IremboApp,,2026-04-13 15:33,11,No-Show,,,,No,RAMA,Female,25-34
+CON-00629,PAT-00424,CLN-013,GP,Huye Health,Gasabo,Kigali,Urban,IremboApp,Web,2026-03-26 12:52,8,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,25-34
+CON-00630,PAT-00070,CLN-015,GP,Kigali Central,Kicukiro,Kigali,Urban,IremboApp,Web,2026-04-22 19:13,12,Completed,Diabetes,Yes,Yes,No,RSSB-Formal,Female,55-64
+CON-00631,PAT-00609,CLN-023,GP,Kigali Central,Kicukiro,Kigali,Urban,IremboApp,Web,2026-04-29 00:08,13,Completed,Malaria,Yes,No,No,RSSB-Formal,Male,18-24
+CON-00632,PAT-00810,CLN-032,GP,Kigali Central,Nyarugenge,Kigali,Urban,IremboApp,Web,2026-03-18 02:17,7,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,18-24
+CON-00633,PAT-01107,CLN-006,GP,Northern Clinic,Gisagara,Southern,Rural,IremboApp,Web,2026-04-18 03:29,11,Completed,General Consultation,Yes,Yes,No,MMI,Female,55-64
+CON-00634,PAT-01107,CLN-021,GP,Rubavu Clinic,Gisagara,Southern,Rural,IremboApp,GSM,2026-04-26 19:47,13,Completed,Malaria,Yes,Yes,No,MMI,Female,55-64
+CON-00635,PAT-00775,CLN-011,GP,Northern Clinic,Muhanga,Southern,Rural,IremboApp,GSM,2026-04-26 12:10,13,Completed,Reproductive Health,Yes,Yes,No,MMI,Female,55-64
+CON-00636,PAT-00327,CLN-030,GP,Kigali Central,Rubavu,Western,Rural,USSD,Web,2026-04-28 19:45,13,Completed,Respiratory Infection,Yes,Yes,No,MMI,Male,35-44
+CON-00637,PAT-00657,CLN-026,GP,Kigali Central,Huye,Southern,Rural,IremboApp,Web,2026-04-12 06:02,11,Completed,General Consultation,Yes,Yes,No,RSSB-CBHI,Male,45-54
+CON-00638,PAT-00657,CLN-026,GP,Kigali Central,Huye,Southern,Rural,IremboApp,GSM,2026-04-05 19:05,10,Completed,Reproductive Health,Yes,Yes,No,RSSB-CBHI,Male,45-54
+CON-00639,PAT-00657,CLN-032,GP,Kigali Central,Huye,Southern,Rural,IremboApp,GSM,2026-04-14 05:18,11,Completed,Skin Condition,Yes,Yes,No,RSSB-CBHI,Male,45-54
+CON-00640,PAT-01093,CLN-031,GP,Huye Health,Kicukiro,Kigali,Urban,USSD,GSM,2026-03-13 09:18,6,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Female,55-64
+CON-00641,PAT-01042,CLN-011,GP,Northern Clinic,Karongi,Western,Rural,IremboApp,GSM,2026-04-06 07:31,10,Completed,Diabetes,No,No,No,MMI,Male,35-44
+CON-00642,PAT-01042,CLN-009,GP,Huye Health,Karongi,Western,Rural,IremboApp,GSM,2026-03-12 05:58,6,Completed,Malaria,Yes,Yes,No,MMI,Male,35-44
+CON-00643,PAT-01042,CLN-021,GP,Rubavu Clinic,Karongi,Western,Rural,IremboApp,GSM,2026-02-26 15:57,4,Completed,Mental Health,Yes,Yes,No,MMI,Male,35-44
+CON-00644,PAT-00853,CLN-041,Nurse,Huye Health,Gasabo,Kigali,Urban,USSD,Web,2026-03-26 05:55,8,Completed,Mental Health,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00645,PAT-00853,CLN-031,GP,Huye Health,Gasabo,Kigali,Urban,USSD,,2026-04-18 16:34,11,No-Show,,,,No,RSSB-CBHI,Female,25-34
+CON-00646,PAT-00853,CLN-025,Nurse,Kigali Central,Gasabo,Kigali,Urban,USSD,Web,2026-03-04 06:43,5,Completed,Skin Condition,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00647,PAT-00972,CLN-005,Nurse,Northern Clinic,Rubavu,Western,Rural,USSD,Web,2026-03-30 21:55,9,Completed,Reproductive Health,Yes,Yes,No,MMI,Male,45-54
+CON-00648,PAT-00972,CLN-015,GP,Kigali Central,Rubavu,Western,Rural,USSD,Web,2026-03-29 23:17,9,Completed,Malaria,Yes,Yes,No,MMI,Male,45-54
+CON-00649,PAT-00972,CLN-039,Nurse,Kigali Central,Rubavu,Western,Rural,USSD,,2026-04-02 06:01,9,No-Show,,,,No,MMI,Male,45-54
+CON-00650,PAT-00654,CLN-039,Nurse,Kigali Central,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-28 20:11,13,Completed,Diabetes,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-00651,PAT-00026,CLN-028,Nurse,Northern Clinic,Gasabo,Kigali,Urban,USSD,,2026-04-12 06:04,11,No-Show,,,,No,Uninsured,Female,35-44
+CON-00652,PAT-00865,CLN-010,Nurse,Northern Clinic,Karongi,Western,Rural,USSD,GSM,2026-04-13 21:57,11,Completed,Mental Health,Yes,Yes,No,RSSB-Formal,Male,25-34
+CON-00653,PAT-00789,CLN-036,GP,Rubavu Clinic,Nyarugenge,Kigali,Urban,USSD,GSM,2026-03-23 02:10,8,Completed,Hypertension,Yes,Yes,No,RSSB-Formal,Female,65+
+CON-00654,PAT-01097,CLN-011,GP,Northern Clinic,Huye,Southern,Rural,USSD,GSM,2026-04-11 19:46,10,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Female,18-24
+CON-00655,PAT-01097,CLN-036,GP,Rubavu Clinic,Huye,Southern,Rural,USSD,GSM,2026-04-16 04:56,11,Completed,Gastrointestinal,Yes,Yes,No,RSSB-CBHI,Female,18-24
+CON-00656,PAT-00516,CLN-037,GP,Huye Health,Rubavu,Western,Rural,IremboApp,Web,2026-04-28 14:10,13,Completed,General Consultation,Yes,Yes,No,MMI,Female,18-24
+CON-00657,PAT-00459,CLN-016,GP,Eastern HC,Gasabo,Kigali,Urban,USSD,GSM,2026-03-27 22:21,8,Completed,Malaria,Yes,Yes,No,MMI,Female,65+
+CON-00658,PAT-00107,CLN-034,GP,Rubavu Clinic,Huye,Southern,Rural,USSD,Web,2026-04-06 00:24,10,Completed,Respiratory Infection,Yes,Yes,No,MMI,Female,25-34
+CON-00659,PAT-00082,CLN-016,GP,Eastern HC,Rubavu,Western,Rural,USSD,GSM,2026-03-22 01:52,8,Completed,Hypertension,Yes,Yes,No,RSSB-Formal,Female,25-34
+CON-00660,PAT-00082,CLN-010,Nurse,Northern Clinic,Rubavu,Western,Rural,USSD,,2026-03-22 14:09,8,Cancelled,,,,No,RSSB-Formal,Female,25-34
+CON-00661,PAT-00082,CLN-041,Nurse,Huye Health,Rubavu,Western,Rural,USSD,Web,2026-04-06 14:59,10,Completed,Gastrointestinal,No,No,No,RSSB-Formal,Female,25-34
+CON-00662,PAT-00523,CLN-014,GP,Northern Clinic,Rubavu,Western,Rural,IremboApp,GSM,2026-03-08 11:53,6,Completed,Diabetes,Yes,Yes,No,MMI,Female,25-34
+CON-00663,PAT-00341,CLN-035,GP,Rubavu Clinic,Gasabo,Kigali,Urban,IremboApp,Web,2026-03-17 18:46,7,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Male,45-54
+CON-00664,PAT-00357,CLN-039,Nurse,Kigali Central,Nyagatare,Eastern,Rural,IremboApp,Web,2026-04-29 05:20,13,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Female,35-44
+CON-00665,PAT-00357,CLN-033,GP,Kigali Central,Nyagatare,Eastern,Rural,IremboApp,,2026-04-19 05:53,12,No-Show,,,,No,RSSB-CBHI,Female,35-44
+CON-00666,PAT-00451,CLN-014,GP,Northern Clinic,Muhanga,Southern,Rural,IremboApp,Web,2026-02-17 08:41,3,Completed,Reproductive Health,Yes,Yes,No,RSSB-Formal,Male,35-44
+CON-00667,PAT-00445,CLN-041,Nurse,Huye Health,Karongi,Western,Rural,USSD,Web,2026-03-19 15:20,7,Completed,Respiratory Infection,Yes,Yes,No,Uninsured,Male,35-44
+CON-00668,PAT-00692,CLN-032,GP,Kigali Central,Huye,Southern,Rural,IremboApp,,2026-03-28 00:50,8,Cancelled,,,,No,RSSB-CBHI,Male,25-34
+CON-00669,PAT-00692,CLN-039,Nurse,Kigali Central,Huye,Southern,Rural,IremboApp,GSM,2026-04-14 22:31,11,Completed,Skin Condition,Yes,Yes,No,RSSB-CBHI,Male,25-34
+CON-00670,PAT-00692,CLN-040,Nurse,Huye Health,Huye,Southern,Rural,IremboApp,GSM,2026-03-15 12:59,7,Completed,Malaria,Yes,Yes,Yes,RSSB-CBHI,Male,25-34
+CON-00671,PAT-00349,CLN-037,GP,Huye Health,Gasabo,Kigali,Urban,USSD,,2026-04-24 09:03,12,Cancelled,,,,No,RSSB-Formal,Female,25-34
+CON-00672,PAT-00016,CLN-013,GP,Huye Health,Huye,Southern,Rural,USSD,,2026-04-27 16:45,13,Cancelled,,,,No,RSSB-Formal,Female,18-24
+CON-00673,PAT-00226,CLN-020,GP,Eastern HC,Karongi,Western,Rural,IremboApp,,2026-03-07 04:10,5,No-Show,,,,No,RAMA,Female,45-54
+CON-00674,PAT-00460,CLN-008,GP,Kigali Central,Kicukiro,Kigali,Urban,USSD,,2026-04-07 22:27,10,Cancelled,,,,No,RSSB-CBHI,Female,55-64
+CON-00675,PAT-00590,CLN-031,GP,Huye Health,Karongi,Western,Rural,USSD,Web,2026-03-24 11:22,8,Completed,Gastrointestinal,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-00676,PAT-00590,CLN-037,GP,Huye Health,Karongi,Western,Rural,USSD,GSM,2026-03-24 02:16,8,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-00677,PAT-00776,CLN-012,GP,Northern Clinic,Nyagatare,Eastern,Rural,IremboApp,,2026-04-21 00:15,12,Cancelled,,,,No,MMI,Female,35-44
+CON-00678,PAT-00776,CLN-018,GP,Huye Health,Nyagatare,Eastern,Rural,IremboApp,GSM,2026-04-12 12:42,11,Completed,General Consultation,Yes,Yes,No,MMI,Female,35-44
+CON-00679,PAT-00281,CLN-003,GP,Huye Health,Kicukiro,Kigali,Urban,IremboApp,,2026-04-11 01:08,10,No-Show,,,,No,RSSB-Formal,Male,18-24
+CON-00680,PAT-00281,CLN-036,GP,Rubavu Clinic,Kicukiro,Kigali,Urban,IremboApp,,2026-04-21 13:36,12,Cancelled,,,,No,RSSB-Formal,Male,18-24
+CON-00681,PAT-01139,CLN-019,GP,Kigali Central,Huye,Southern,Rural,USSD,GSM,2026-04-18 03:33,11,Completed,Skin Condition,Yes,Yes,No,MMI,Male,25-34
+CON-00682,PAT-00917,CLN-021,GP,Rubavu Clinic,Rulindo,Northern,Rural,IremboApp,GSM,2026-04-16 12:52,11,Completed,Malaria,Yes,Yes,No,RSSB-Formal,Female,25-34
+CON-00683,PAT-00917,CLN-032,GP,Kigali Central,Rulindo,Northern,Rural,IremboApp,Web,2026-04-29 07:51,13,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Female,25-34
+CON-00684,PAT-00730,CLN-035,GP,Rubavu Clinic,Nyarugenge,Kigali,Urban,IremboApp,,2026-04-21 22:35,12,No-Show,,,,No,RSSB-Formal,Male,35-44
+CON-00685,PAT-00730,CLN-022,GP,Northern Clinic,Nyarugenge,Kigali,Urban,IremboApp,Web,2026-04-12 00:54,11,Completed,Diabetes,Yes,Yes,No,RSSB-Formal,Male,35-44
+CON-00686,PAT-01135,CLN-037,GP,Huye Health,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-23 13:11,12,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Female,35-44
+CON-00687,PAT-00714,CLN-035,GP,Rubavu Clinic,Huye,Southern,Rural,IremboApp,GSM,2026-04-14 08:09,11,Completed,Skin Condition,No,No,No,RSSB-CBHI,Female,55-64
+CON-00688,PAT-00747,CLN-032,GP,Kigali Central,Rulindo,Northern,Rural,IremboApp,Web,2026-04-06 12:22,10,Completed,Hypertension,Yes,Yes,No,MMI,Female,18-24
+CON-00689,PAT-00218,CLN-007,GP,Kigali Central,Kicukiro,Kigali,Urban,IremboApp,Web,2026-04-19 09:20,12,Completed,Gastrointestinal,Yes,Yes,No,RSSB-Formal,Male,25-34
+CON-00690,PAT-00218,CLN-033,GP,Kigali Central,Kicukiro,Kigali,Urban,IremboApp,,2026-04-29 08:38,13,No-Show,,,,No,RSSB-Formal,Male,25-34
+CON-00691,PAT-00827,CLN-020,GP,Eastern HC,Huye,Southern,Rural,IremboApp,Web,2026-04-26 10:24,13,Completed,Mental Health,Yes,Yes,Yes,RAMA,Female,35-44
+CON-00692,PAT-00827,CLN-019,GP,Kigali Central,Huye,Southern,Rural,IremboApp,Web,2026-04-18 09:03,11,Completed,General Consultation,Yes,Yes,No,RAMA,Female,35-44
+CON-00693,PAT-00827,CLN-026,GP,Kigali Central,Huye,Southern,Rural,IremboApp,GSM,2026-04-22 08:08,12,Completed,Skin Condition,Yes,Yes,No,RAMA,Female,35-44
+CON-00694,PAT-00769,CLN-003,GP,Huye Health,Huye,Southern,Rural,USSD,GSM,2026-04-26 14:34,13,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Male,25-34
+CON-00695,PAT-00769,CLN-007,GP,Kigali Central,Huye,Southern,Rural,USSD,Web,2026-04-21 08:00,12,Completed,Gastrointestinal,No,No,No,RSSB-CBHI,Male,25-34
+CON-00696,PAT-00803,CLN-006,GP,Northern Clinic,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-15 07:50,11,Completed,Gastrointestinal,Yes,Yes,No,RAMA,Male,25-34
+CON-00697,PAT-00634,CLN-016,GP,Eastern HC,Karongi,Western,Rural,USSD,GSM,2026-03-28 18:09,8,Completed,Hypertension,Yes,Yes,No,RSSB-Formal,Female,18-24
+CON-00698,PAT-01110,CLN-009,GP,Huye Health,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-04-18 09:25,11,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Female,35-44
+CON-00699,PAT-00202,CLN-035,GP,Rubavu Clinic,Nyarugenge,Kigali,Urban,USSD,GSM,2026-04-28 17:23,13,Completed,Diabetes,Yes,Yes,No,RSSB-Formal,Male,55-64
+CON-00700,PAT-00202,CLN-011,GP,Northern Clinic,Nyarugenge,Kigali,Urban,USSD,Web,2026-04-22 13:27,12,Completed,General Consultation,Yes,Yes,No,RSSB-Formal,Male,55-64
+CON-00701,PAT-00310,CLN-001,Nurse,Kigali Central,Rwamagana,Eastern,Rural,IremboApp,Web,2026-04-18 01:04,11,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Female,45-54
+CON-00702,PAT-00819,CLN-015,GP,Kigali Central,Rulindo,Northern,Rural,USSD,Web,2026-04-28 22:47,13,Completed,Respiratory Infection,Yes,Yes,No,MMI,Male,25-34
+CON-00703,PAT-00819,CLN-029,GP,Northern Clinic,Rulindo,Northern,Rural,USSD,GSM,2026-04-06 03:35,10,Completed,Hypertension,No,No,No,MMI,Male,25-34
+CON-00704,PAT-00819,CLN-031,GP,Huye Health,Rulindo,Northern,Rural,USSD,Web,2026-04-25 07:43,12,Completed,Reproductive Health,Yes,Yes,No,MMI,Male,25-34
+CON-00705,PAT-01065,CLN-016,GP,Eastern HC,Gasabo,Kigali,Urban,USSD,,2026-04-24 05:39,12,Cancelled,,,,No,RSSB-Formal,Female,25-34
+CON-00706,PAT-00469,CLN-013,GP,Huye Health,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-28 01:35,13,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00707,PAT-00469,CLN-038,Nurse,Rubavu Clinic,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-22 06:02,12,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00708,PAT-00508,CLN-033,GP,Kigali Central,Kicukiro,Kigali,Urban,USSD,,2026-04-12 10:56,11,No-Show,,,,No,RSSB-CBHI,Female,35-44
+CON-00709,PAT-00097,CLN-034,GP,Rubavu Clinic,Karongi,Western,Rural,USSD,GSM,2026-04-28 10:14,13,Completed,Reproductive Health,No,No,No,RAMA,Female,25-34
+CON-00710,PAT-00097,CLN-031,GP,Huye Health,Karongi,Western,Rural,USSD,GSM,2026-04-09 03:48,10,Completed,Reproductive Health,No,No,No,RAMA,Female,25-34
+CON-00711,PAT-00145,CLN-033,GP,Kigali Central,Nyarugenge,Kigali,Urban,USSD,Web,2026-04-27 19:43,13,Completed,Respiratory Infection,Yes,No,No,RSSB-Formal,Female,55-64
+CON-00712,PAT-00145,CLN-027,Nurse,Rubavu Clinic,Nyarugenge,Kigali,Urban,USSD,,2026-04-22 05:13,12,No-Show,,,,No,RSSB-Formal,Female,55-64
+CON-00713,PAT-01157,CLN-027,Nurse,Rubavu Clinic,Huye,Southern,Rural,IremboApp,Web,2026-04-17 17:47,11,Completed,Skin Condition,Yes,Yes,No,RSSB-CBHI,Female,18-24
+CON-00714,PAT-00685,CLN-009,GP,Huye Health,Huye,Southern,Rural,IremboApp,GSM,2026-04-22 10:54,12,Completed,Skin Condition,Yes,Yes,No,MMI,Male,35-44
+CON-00715,PAT-00485,CLN-005,Nurse,Northern Clinic,Kicukiro,Kigali,Urban,USSD,GSM,2026-04-22 06:24,12,Completed,Reproductive Health,Yes,Yes,No,RSSB-Formal,Male,45-54
+CON-00716,PAT-00133,CLN-018,GP,Huye Health,Gasabo,Kigali,Urban,USSD,Web,2026-03-31 22:31,9,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Female,55-64
+CON-00717,PAT-00133,CLN-020,GP,Eastern HC,Gasabo,Kigali,Urban,USSD,,2026-03-29 21:05,9,No-Show,,,,No,RSSB-CBHI,Female,55-64
+CON-00718,PAT-00147,CLN-039,Nurse,Kigali Central,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-28 09:19,13,Completed,Gastrointestinal,Yes,Yes,No,RAMA,Female,25-34
+CON-00719,PAT-00513,CLN-041,Nurse,Huye Health,Muhanga,Southern,Rural,USSD,Web,2026-04-21 23:03,12,Completed,Malaria,Yes,Yes,No,RAMA,Male,18-24
+CON-00720,PAT-00900,CLN-037,GP,Huye Health,Karongi,Western,Rural,USSD,GSM,2026-03-08 05:52,6,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Female,45-54
+CON-00721,PAT-00505,CLN-040,Nurse,Huye Health,Gasabo,Kigali,Urban,IremboApp,,2026-03-11 06:53,6,No-Show,,,,No,MMI,Female,25-34
+CON-00722,PAT-00505,CLN-019,GP,Kigali Central,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-28 19:55,13,Completed,Malaria,Yes,Yes,No,MMI,Female,25-34
+CON-00723,PAT-00118,CLN-019,GP,Kigali Central,Huye,Southern,Rural,IremboApp,Web,2026-03-23 16:33,8,Completed,Skin Condition,Yes,Yes,No,RSSB-Formal,Male,35-44
+CON-00724,PAT-00690,CLN-018,GP,Huye Health,Nyarugenge,Kigali,Urban,IremboApp,,2026-04-19 00:36,12,Cancelled,,,,No,RSSB-Formal,Male,35-44
+CON-00725,PAT-00114,CLN-039,Nurse,Kigali Central,Nyagatare,Eastern,Rural,IremboApp,GSM,2026-04-02 08:46,9,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Male,55-64
+CON-00726,PAT-00422,CLN-030,GP,Kigali Central,Nyagatare,Eastern,Rural,USSD,,2026-04-29 00:46,13,Cancelled,,,,No,MMI,Female,25-34
+CON-00727,PAT-01186,CLN-013,GP,Huye Health,Kicukiro,Kigali,Urban,IremboApp,Web,2026-03-20 19:49,7,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Female,25-34
+CON-00728,PAT-01108,CLN-012,GP,Northern Clinic,Karongi,Western,Rural,IremboApp,Web,2026-04-11 09:23,10,Completed,Diabetes,Yes,Yes,No,RSSB-CBHI,Female,35-44
+CON-00729,PAT-01120,CLN-014,GP,Northern Clinic,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-04-27 03:17,13,Completed,Gastrointestinal,Yes,No,No,MMI,Female,35-44
+CON-00730,PAT-00744,CLN-040,Nurse,Huye Health,Huye,Southern,Rural,IremboApp,Web,2026-02-26 09:39,4,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Female,25-34
+CON-00731,PAT-00729,CLN-025,Nurse,Kigali Central,Karongi,Western,Rural,IremboApp,Web,2026-04-25 02:03,12,Completed,Injury/Trauma,Yes,Yes,No,RSSB-Formal,Female,45-54
+CON-00732,PAT-00729,CLN-008,GP,Kigali Central,Karongi,Western,Rural,IremboApp,GSM,2026-04-28 21:37,13,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Female,45-54
+CON-00733,PAT-00749,CLN-020,GP,Eastern HC,Karongi,Western,Rural,USSD,Web,2026-03-02 04:22,5,Completed,Reproductive Health,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00734,PAT-00121,CLN-025,Nurse,Kigali Central,Rwamagana,Eastern,Rural,IremboApp,,2026-03-10 14:25,6,No-Show,,,,No,RSSB-Formal,Female,35-44
+CON-00735,PAT-00015,CLN-032,GP,Kigali Central,Rwamagana,Eastern,Rural,USSD,GSM,2026-02-27 21:59,4,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-00736,PAT-00015,CLN-024,Nurse,Eastern HC,Rwamagana,Eastern,Rural,USSD,Web,2026-02-27 22:46,4,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-00737,PAT-00491,CLN-016,GP,Eastern HC,Rubavu,Western,Rural,IremboApp,GSM,2026-03-11 14:47,6,Completed,Gastrointestinal,Yes,No,No,RSSB-Formal,Female,35-44
+CON-00738,PAT-00652,CLN-029,GP,Northern Clinic,Nyarugenge,Kigali,Urban,USSD,GSM,2026-03-15 06:45,7,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Male,45-54
+CON-00739,PAT-00652,CLN-028,Nurse,Northern Clinic,Nyarugenge,Kigali,Urban,USSD,GSM,2026-04-21 05:41,12,Completed,Injury/Trauma,Yes,Yes,No,RSSB-Formal,Male,45-54
+CON-00740,PAT-00059,CLN-034,GP,Rubavu Clinic,Huye,Southern,Rural,USSD,Web,2026-04-20 10:09,12,Completed,Hypertension,No,No,No,RAMA,Male,35-44
+CON-00741,PAT-00058,CLN-011,GP,Northern Clinic,Gasabo,Kigali,Urban,USSD,Web,2026-04-29 05:31,13,Completed,General Consultation,Yes,Yes,No,RAMA,Male,35-44
+CON-00742,PAT-00409,CLN-018,GP,Huye Health,Rubavu,Western,Rural,IremboApp,,2026-04-08 07:42,10,No-Show,,,,No,MMI,Female,55-64
+CON-00743,PAT-00206,CLN-015,GP,Kigali Central,Rubavu,Western,Rural,USSD,,2026-03-27 05:48,8,No-Show,,,,No,RSSB-CBHI,Male,35-44
+CON-00744,PAT-00596,CLN-019,GP,Kigali Central,Karongi,Western,Rural,USSD,Web,2026-04-24 03:14,12,Completed,Respiratory Infection,Yes,Yes,No,RAMA,Male,35-44
+CON-00745,PAT-00596,CLN-007,GP,Kigali Central,Karongi,Western,Rural,USSD,GSM,2026-04-22 19:37,12,Completed,Hypertension,Yes,Yes,No,RAMA,Male,35-44
+CON-00746,PAT-01056,CLN-016,GP,Eastern HC,Kicukiro,Kigali,Urban,USSD,,2026-03-01 03:17,5,No-Show,,,,No,RSSB-CBHI,Male,55-64
+CON-00747,PAT-00735,CLN-033,GP,Kigali Central,Muhanga,Southern,Rural,IremboApp,,2026-03-30 05:17,9,No-Show,,,,No,RSSB-Formal,Male,18-24
+CON-00748,PAT-00912,CLN-004,GP,Kigali Central,Nyarugenge,Kigali,Urban,IremboApp,Web,2026-04-13 01:17,11,Completed,Hypertension,Yes,Yes,No,MMI,Female,18-24
+CON-00749,PAT-00129,CLN-012,GP,Northern Clinic,Kicukiro,Kigali,Urban,IremboApp,Web,2026-03-18 04:05,7,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Female,55-64
+CON-00750,PAT-00525,CLN-030,GP,Kigali Central,Rubavu,Western,Rural,IremboApp,Web,2026-04-04 22:36,9,Completed,Reproductive Health,Yes,Yes,No,RSSB-CBHI,Female,35-44
+CON-00751,PAT-00221,CLN-023,GP,Kigali Central,Rwamagana,Eastern,Rural,IremboApp,,2026-04-28 10:53,13,No-Show,,,,No,RSSB-Formal,Female,25-34
+CON-00752,PAT-00221,CLN-017,GP,Rubavu Clinic,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-04-17 08:10,11,Completed,Malaria,Yes,Yes,No,RSSB-Formal,Female,25-34
+CON-00753,PAT-00546,CLN-008,GP,Kigali Central,Huye,Southern,Rural,IremboApp,GSM,2026-04-08 23:25,10,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,45-54
+CON-00754,PAT-00512,CLN-029,GP,Northern Clinic,Gasabo,Kigali,Urban,IremboApp,,2026-04-11 13:43,10,No-Show,,,,No,RSSB-CBHI,Male,55-64
+CON-00755,PAT-00512,CLN-009,GP,Huye Health,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-26 04:27,13,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Male,55-64
+CON-00756,PAT-00849,CLN-030,GP,Kigali Central,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-03-23 06:40,8,Completed,Malaria,No,No,No,MMI,Female,25-34
+CON-00757,PAT-01062,CLN-030,GP,Kigali Central,Musanze,Northern,Rural,USSD,,2026-04-13 00:51,11,No-Show,,,,No,RSSB-CBHI,Male,18-24
+CON-00758,PAT-00834,CLN-033,GP,Kigali Central,Nyagatare,Eastern,Rural,IremboApp,Web,2026-04-28 23:09,13,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Male,18-24
+CON-00759,PAT-00219,CLN-007,GP,Kigali Central,Karongi,Western,Rural,USSD,GSM,2026-02-08 01:45,2,Completed,Diabetes,Yes,Yes,Yes,Uninsured,Male,25-34
+CON-00760,PAT-00490,CLN-030,GP,Kigali Central,Kicukiro,Kigali,Urban,IremboApp,GSM,2026-04-29 21:03,13,Completed,Diabetes,Yes,Yes,No,RSSB-CBHI,Female,18-24
+CON-00761,PAT-00823,CLN-033,GP,Kigali Central,Kicukiro,Kigali,Urban,IremboApp,Web,2026-04-02 01:54,9,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Female,55-64
+CON-00762,PAT-00823,CLN-022,GP,Northern Clinic,Kicukiro,Kigali,Urban,IremboApp,GSM,2026-03-27 16:37,8,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Female,55-64
+CON-00763,PAT-00953,CLN-018,GP,Huye Health,Gasabo,Kigali,Urban,USSD,GSM,2026-04-10 06:31,10,Completed,Respiratory Infection,No,No,No,RSSB-Formal,Male,25-34
+CON-00764,PAT-01154,CLN-028,Nurse,Northern Clinic,Rulindo,Northern,Rural,IremboApp,Web,2026-04-14 16:20,11,Completed,Reproductive Health,Yes,Yes,No,RSSB-Formal,Female,25-34
+CON-00765,PAT-00928,CLN-015,GP,Kigali Central,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-02 04:59,9,Completed,Diabetes,No,No,No,MMI,Male,25-34
+CON-00766,PAT-00477,CLN-040,Nurse,Huye Health,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-13 06:38,11,Completed,Diabetes,Yes,No,No,RSSB-CBHI,Male,45-54
+CON-00767,PAT-01149,CLN-022,GP,Northern Clinic,Nyarugenge,Kigali,Urban,USSD,GSM,2026-04-25 00:37,12,Completed,Gastrointestinal,Yes,Yes,No,RSSB-Formal,Male,18-24
+CON-00768,PAT-01149,CLN-039,Nurse,Kigali Central,Nyarugenge,Kigali,Urban,USSD,,2026-04-02 13:01,9,No-Show,,,,No,RSSB-Formal,Male,18-24
+CON-00769,PAT-01149,CLN-002,GP,Rubavu Clinic,Nyarugenge,Kigali,Urban,USSD,GSM,2026-04-28 13:27,13,Completed,Malaria,No,No,No,RSSB-Formal,Male,18-24
+CON-00770,PAT-00319,CLN-038,Nurse,Rubavu Clinic,Rubavu,Western,Rural,IremboApp,GSM,2026-04-07 11:45,10,Completed,Reproductive Health,Yes,Yes,No,RAMA,Male,18-24
+CON-00771,PAT-00319,CLN-007,GP,Kigali Central,Rubavu,Western,Rural,IremboApp,GSM,2026-04-12 10:33,11,Completed,Malaria,Yes,Yes,No,RAMA,Male,18-24
+CON-00772,PAT-00319,CLN-005,Nurse,Northern Clinic,Rubavu,Western,Rural,IremboApp,,2026-04-28 08:36,13,No-Show,,,,No,RAMA,Male,18-24
+CON-00773,PAT-00658,CLN-010,Nurse,Northern Clinic,Nyagatare,Eastern,Rural,USSD,GSM,2026-04-24 23:30,12,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Male,25-34
+CON-00774,PAT-00421,CLN-038,Nurse,Rubavu Clinic,Muhanga,Southern,Rural,USSD,GSM,2026-03-13 11:33,6,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Female,45-54
+CON-00775,PAT-00421,CLN-025,Nurse,Kigali Central,Muhanga,Southern,Rural,USSD,,2026-04-01 14:49,9,No-Show,,,,No,RSSB-CBHI,Female,45-54
+CON-00776,PAT-00421,CLN-001,Nurse,Kigali Central,Muhanga,Southern,Rural,USSD,Web,2026-04-15 14:20,11,Completed,Mental Health,No,No,No,RSSB-CBHI,Female,45-54
+CON-00777,PAT-00920,CLN-001,Nurse,Kigali Central,Karongi,Western,Rural,IremboApp,GSM,2026-02-16 23:40,3,Completed,General Consultation,Yes,Yes,No,MMI,Male,25-34
+CON-00778,PAT-00020,CLN-003,GP,Huye Health,Gasabo,Kigali,Urban,USSD,GSM,2026-02-28 11:56,4,Completed,Respiratory Infection,Yes,No,Yes,RSSB-CBHI,Female,55-64
+CON-00779,PAT-00004,CLN-032,GP,Kigali Central,Kicukiro,Kigali,Urban,USSD,Web,2026-04-17 23:23,11,Completed,Mental Health,Yes,Yes,No,RSSB-Formal,Male,25-34
+CON-00780,PAT-00004,CLN-030,GP,Kigali Central,Kicukiro,Kigali,Urban,USSD,GSM,2026-04-02 03:39,9,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Male,25-34
+CON-00781,PAT-01061,CLN-026,GP,Kigali Central,Kicukiro,Kigali,Urban,IremboApp,,2026-02-16 02:38,3,No-Show,,,,No,RSSB-CBHI,Male,65+
+CON-00782,PAT-01061,CLN-031,GP,Huye Health,Kicukiro,Kigali,Urban,IremboApp,,2026-04-21 11:15,12,No-Show,,,,No,RSSB-CBHI,Male,65+
+CON-00783,PAT-00403,CLN-026,GP,Kigali Central,Gasabo,Kigali,Urban,IremboApp,Web,2026-03-06 12:15,5,Completed,Skin Condition,Yes,Yes,No,RSSB-CBHI,Female,55-64
+CON-00784,PAT-00318,CLN-003,GP,Huye Health,Nyagatare,Eastern,Rural,IremboApp,GSM,2026-03-25 01:41,8,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,45-54
+CON-00785,PAT-00669,CLN-021,GP,Rubavu Clinic,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-04-24 09:15,12,Completed,General Consultation,Yes,Yes,No,RSSB-CBHI,Female,45-54
+CON-00786,PAT-00669,CLN-020,GP,Eastern HC,Rwamagana,Eastern,Rural,IremboApp,,2026-04-19 12:41,12,Cancelled,,,,No,RSSB-CBHI,Female,45-54
+CON-00787,PAT-00975,CLN-026,GP,Kigali Central,Muhanga,Southern,Rural,IremboApp,GSM,2026-03-27 14:22,8,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,45-54
+CON-00788,PAT-01148,CLN-021,GP,Rubavu Clinic,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-21 07:06,12,Completed,Skin Condition,Yes,Yes,No,RSSB-Formal,Female,35-44
+CON-00789,PAT-01148,CLN-012,GP,Northern Clinic,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-29 12:06,13,Completed,Hypertension,No,No,No,RSSB-Formal,Female,35-44
+CON-00790,PAT-00311,CLN-003,GP,Huye Health,Kicukiro,Kigali,Urban,IremboApp,,2026-04-24 21:34,12,No-Show,,,,No,RSSB-Formal,Male,65+
+CON-00791,PAT-00311,CLN-032,GP,Kigali Central,Kicukiro,Kigali,Urban,IremboApp,,2026-04-27 15:57,13,Cancelled,,,,No,RSSB-Formal,Male,65+
+CON-00792,PAT-00311,CLN-012,GP,Northern Clinic,Kicukiro,Kigali,Urban,IremboApp,Web,2026-04-28 08:58,13,Completed,Gastrointestinal,No,No,No,RSSB-Formal,Male,65+
+CON-00793,PAT-00488,CLN-007,GP,Kigali Central,Nyagatare,Eastern,Rural,IremboApp,GSM,2026-04-24 00:23,12,Completed,Skin Condition,Yes,Yes,No,RAMA,Male,35-44
+CON-00794,PAT-00280,CLN-026,GP,Kigali Central,Nyarugenge,Kigali,Urban,IremboApp,,2026-04-29 10:37,13,No-Show,,,,No,RAMA,Male,45-54
+CON-00795,PAT-00222,CLN-028,Nurse,Northern Clinic,Huye,Southern,Rural,IremboApp,,2026-04-21 18:33,12,No-Show,,,,No,RSSB-CBHI,Male,65+
+CON-00796,PAT-00222,CLN-035,GP,Rubavu Clinic,Huye,Southern,Rural,IremboApp,,2026-04-24 01:02,12,Cancelled,,,,No,RSSB-CBHI,Male,65+
+CON-00797,PAT-00362,CLN-031,GP,Huye Health,Musanze,Northern,Rural,IremboApp,Web,2026-04-17 12:34,11,Completed,Mental Health,Yes,Yes,No,RSSB-CBHI,Female,18-24
+CON-00798,PAT-01181,CLN-003,GP,Huye Health,Karongi,Western,Rural,USSD,,2026-04-11 07:23,10,No-Show,,,,No,RSSB-Formal,Male,45-54
+CON-00799,PAT-00032,CLN-034,GP,Rubavu Clinic,Nyarugenge,Kigali,Urban,USSD,GSM,2026-04-21 01:14,12,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Male,45-54
+CON-00800,PAT-00447,CLN-035,GP,Rubavu Clinic,Muhanga,Southern,Rural,IremboApp,,2026-04-09 06:48,10,No-Show,,,,No,RSSB-CBHI,Male,35-44
+CON-00801,PAT-00859,CLN-039,Nurse,Kigali Central,Nyagatare,Eastern,Rural,USSD,GSM,2026-04-03 17:30,9,Completed,Mental Health,Yes,Yes,No,RSSB-CBHI,Male,45-54
+CON-00802,PAT-01040,CLN-036,GP,Rubavu Clinic,Rubavu,Western,Rural,USSD,Web,2026-04-01 21:14,9,Completed,Malaria,Yes,Yes,No,MMI,Female,25-34
+CON-00803,PAT-01040,CLN-002,GP,Rubavu Clinic,Rubavu,Western,Rural,USSD,Web,2026-04-06 07:04,10,Completed,Respiratory Infection,Yes,Yes,No,MMI,Female,25-34
+CON-00804,PAT-01040,CLN-011,GP,Northern Clinic,Rubavu,Western,Rural,USSD,GSM,2026-04-18 09:32,11,Completed,Gastrointestinal,No,No,No,MMI,Female,25-34
+CON-00805,PAT-00426,CLN-008,GP,Kigali Central,Kicukiro,Kigali,Urban,USSD,,2026-04-10 13:15,10,No-Show,,,,No,RSSB-CBHI,Female,55-64
+CON-00806,PAT-00530,CLN-012,GP,Northern Clinic,Rulindo,Northern,Rural,USSD,GSM,2026-03-15 05:15,7,Completed,Mental Health,No,No,No,RSSB-CBHI,Female,45-54
+CON-00807,PAT-00675,CLN-040,Nurse,Huye Health,Huye,Southern,Rural,IremboApp,Web,2026-04-26 02:34,13,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Male,35-44
+CON-00808,PAT-01116,CLN-005,Nurse,Northern Clinic,Gasabo,Kigali,Urban,USSD,GSM,2026-03-15 09:22,7,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-00809,PAT-01116,CLN-002,GP,Rubavu Clinic,Gasabo,Kigali,Urban,USSD,GSM,2026-04-10 02:46,10,Completed,Mental Health,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-00810,PAT-00255,CLN-031,GP,Huye Health,Huye,Southern,Rural,USSD,,2026-04-18 21:27,11,No-Show,,,,No,RAMA,Male,35-44
+CON-00811,PAT-00839,CLN-032,GP,Kigali Central,Nyagatare,Eastern,Rural,USSD,GSM,2026-04-19 12:05,12,Completed,Respiratory Infection,Yes,Yes,No,RAMA,Male,35-44
+CON-00812,PAT-00839,CLN-023,GP,Kigali Central,Nyagatare,Eastern,Rural,USSD,GSM,2026-04-27 20:35,13,Completed,Respiratory Infection,Yes,Yes,No,RAMA,Male,35-44
+CON-00813,PAT-00839,CLN-006,GP,Northern Clinic,Nyagatare,Eastern,Rural,USSD,GSM,2026-04-25 05:59,12,Completed,Hypertension,Yes,Yes,No,RAMA,Male,35-44
+CON-00814,PAT-00119,CLN-008,GP,Kigali Central,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-01 01:53,9,Completed,Malaria,Yes,Yes,No,RAMA,Male,18-24
+CON-00815,PAT-00119,CLN-003,GP,Huye Health,Gasabo,Kigali,Urban,IremboApp,,2026-03-27 11:47,8,No-Show,,,,No,RAMA,Male,18-24
+CON-00816,PAT-00682,CLN-017,GP,Rubavu Clinic,Nyagatare,Eastern,Rural,USSD,,2026-03-22 07:02,8,No-Show,,,,No,RSSB-Formal,Male,65+
+CON-00817,PAT-00091,CLN-034,GP,Rubavu Clinic,Gasabo,Kigali,Urban,IremboApp,Web,2026-02-16 05:21,3,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Female,55-64
+CON-00818,PAT-00091,CLN-006,GP,Northern Clinic,Gasabo,Kigali,Urban,IremboApp,,2026-02-26 22:33,4,No-Show,,,,No,RSSB-Formal,Female,55-64
+CON-00819,PAT-00762,CLN-024,Nurse,Eastern HC,Gasabo,Kigali,Urban,IremboApp,Web,2026-03-09 17:18,6,Completed,Respiratory Infection,Yes,Yes,No,MMI,Female,55-64
+CON-00820,PAT-00762,CLN-006,GP,Northern Clinic,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-25 12:41,12,Completed,Diabetes,Yes,Yes,No,MMI,Female,55-64
+CON-00821,PAT-00356,CLN-037,GP,Huye Health,Nyarugenge,Kigali,Urban,USSD,,2026-04-13 15:33,11,No-Show,,,,No,RSSB-CBHI,Female,18-24
+CON-00822,PAT-00356,CLN-020,GP,Eastern HC,Nyarugenge,Kigali,Urban,USSD,GSM,2026-04-13 19:33,11,Completed,Malaria,No,No,No,RSSB-CBHI,Female,18-24
+CON-00823,PAT-00965,CLN-018,GP,Huye Health,Nyarugenge,Kigali,Urban,USSD,GSM,2026-04-22 02:08,12,Completed,Respiratory Infection,Yes,No,No,RSSB-CBHI,Male,55-64
+CON-00824,PAT-00536,CLN-026,GP,Kigali Central,Nyarugenge,Kigali,Urban,IremboApp,GSM,2026-04-19 12:44,12,Completed,Mental Health,Yes,Yes,No,RSSB-Formal,Male,35-44
+CON-00825,PAT-00190,CLN-037,GP,Huye Health,Nyagatare,Eastern,Rural,IremboApp,Web,2026-04-24 17:46,12,Completed,Respiratory Infection,Yes,Yes,No,MMI,Male,55-64
+CON-00826,PAT-00098,CLN-016,GP,Eastern HC,Rulindo,Northern,Rural,IremboApp,,2026-04-29 04:27,13,Cancelled,,,,No,Uninsured,Male,45-54
+CON-00827,PAT-00098,CLN-037,GP,Huye Health,Rulindo,Northern,Rural,IremboApp,,2026-04-26 07:36,13,No-Show,,,,No,Uninsured,Male,45-54
+CON-00828,PAT-00885,CLN-028,Nurse,Northern Clinic,Gasabo,Kigali,Urban,IremboApp,Web,2026-02-22 18:20,4,Completed,Malaria,Yes,Yes,No,Uninsured,Male,65+
+CON-00829,PAT-00548,CLN-019,GP,Kigali Central,Karongi,Western,Rural,IremboApp,Web,2026-04-25 00:54,12,Completed,Skin Condition,Yes,Yes,Yes,RSSB-Formal,Female,25-34
+CON-00830,PAT-00548,CLN-026,GP,Kigali Central,Karongi,Western,Rural,IremboApp,Web,2026-04-13 18:45,11,Completed,Diabetes,Yes,Yes,No,RSSB-Formal,Female,25-34
+CON-00831,PAT-00234,CLN-015,GP,Kigali Central,Rulindo,Northern,Rural,IremboApp,,2026-03-28 22:50,8,Cancelled,,,,No,RSSB-CBHI,Female,18-24
+CON-00832,PAT-00340,CLN-014,GP,Northern Clinic,Huye,Southern,Rural,IremboApp,GSM,2026-03-14 21:49,6,Completed,Gastrointestinal,Yes,Yes,No,RSSB-Formal,Female,45-54
+CON-00833,PAT-00340,CLN-014,GP,Northern Clinic,Huye,Southern,Rural,IremboApp,GSM,2026-04-04 03:25,9,Completed,Injury/Trauma,Yes,Yes,No,RSSB-Formal,Female,45-54
+CON-00834,PAT-00295,CLN-029,GP,Northern Clinic,Karongi,Western,Rural,IremboApp,GSM,2026-03-23 16:56,8,Completed,Skin Condition,Yes,Yes,No,RAMA,Male,45-54
+CON-00835,PAT-00601,CLN-018,GP,Huye Health,Muhanga,Southern,Rural,IremboApp,GSM,2026-04-17 17:37,11,Completed,Mental Health,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00836,PAT-00152,CLN-027,Nurse,Rubavu Clinic,Karongi,Western,Rural,IremboApp,GSM,2026-03-29 21:29,9,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Female,45-54
+CON-00837,PAT-00981,CLN-023,GP,Kigali Central,Kicukiro,Kigali,Urban,USSD,GSM,2026-04-26 00:43,13,Completed,Mental Health,Yes,Yes,No,RSSB-CBHI,Male,45-54
+CON-00838,PAT-00632,CLN-015,GP,Kigali Central,Huye,Southern,Rural,USSD,Web,2026-04-12 15:17,11,Completed,Injury/Trauma,Yes,Yes,No,RSSB-Formal,Male,25-34
+CON-00839,PAT-00677,CLN-008,GP,Kigali Central,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-20 12:17,12,Completed,Reproductive Health,Yes,Yes,No,MMI,Male,25-34
+CON-00840,PAT-00677,CLN-026,GP,Kigali Central,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-24 12:42,12,Completed,Malaria,Yes,Yes,No,MMI,Male,25-34
+CON-00841,PAT-00726,CLN-036,GP,Rubavu Clinic,Muhanga,Southern,Rural,USSD,,2026-04-25 21:35,12,No-Show,,,,No,RSSB-CBHI,Male,35-44
+CON-00842,PAT-00726,CLN-041,Nurse,Huye Health,Muhanga,Southern,Rural,USSD,GSM,2026-03-09 18:17,6,Completed,Gastrointestinal,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-00843,PAT-00162,CLN-013,GP,Huye Health,Gasabo,Kigali,Urban,USSD,Web,2026-04-28 16:12,13,Completed,Gastrointestinal,Yes,Yes,No,RSSB-Formal,Female,35-44
+CON-00844,PAT-00150,CLN-039,Nurse,Kigali Central,Gasabo,Kigali,Urban,USSD,GSM,2026-03-19 00:37,7,Completed,Reproductive Health,Yes,Yes,No,RSSB-CBHI,Female,35-44
+CON-00845,PAT-00583,CLN-031,GP,Huye Health,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-04-09 07:47,10,Completed,Gastrointestinal,No,No,No,RSSB-CBHI,Male,35-44
+CON-00846,PAT-00583,CLN-015,GP,Kigali Central,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-03-29 15:36,9,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-00847,PAT-00583,CLN-029,GP,Northern Clinic,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-04-18 15:07,11,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-00848,PAT-00840,CLN-038,Nurse,Rubavu Clinic,Nyarugenge,Kigali,Urban,IremboApp,,2026-04-23 09:40,12,No-Show,,,,No,RAMA,Male,18-24
+CON-00849,PAT-00077,CLN-040,Nurse,Huye Health,Nyarugenge,Kigali,Urban,IremboApp,Web,2026-04-26 10:28,13,Completed,Skin Condition,Yes,Yes,No,RSSB-CBHI,Female,35-44
+CON-00850,PAT-00820,CLN-018,GP,Huye Health,Rulindo,Northern,Rural,IremboApp,Web,2026-04-16 21:28,11,Completed,Mental Health,Yes,Yes,No,RSSB-Formal,Male,25-34
+CON-00851,PAT-01098,CLN-007,GP,Kigali Central,Karongi,Western,Rural,IremboApp,Web,2026-04-18 00:40,11,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Female,55-64
+CON-00852,PAT-00462,CLN-011,GP,Northern Clinic,Gasabo,Kigali,Urban,USSD,GSM,2026-04-25 21:24,12,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Female,18-24
+CON-00853,PAT-00331,CLN-012,GP,Northern Clinic,Gasabo,Kigali,Urban,USSD,GSM,2026-03-15 09:20,7,Completed,Skin Condition,Yes,Yes,No,RSSB-CBHI,Female,35-44
+CON-00854,PAT-00062,CLN-014,GP,Northern Clinic,Kicukiro,Kigali,Urban,USSD,Web,2026-03-22 10:40,8,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Male,18-24
+CON-00855,PAT-00436,CLN-031,GP,Huye Health,Gasabo,Kigali,Urban,USSD,GSM,2026-03-21 10:39,7,Completed,Reproductive Health,Yes,Yes,No,RSSB-Formal,Male,18-24
+CON-00856,PAT-00436,CLN-011,GP,Northern Clinic,Gasabo,Kigali,Urban,USSD,GSM,2026-03-14 05:39,6,Completed,Mental Health,Yes,Yes,No,RSSB-Formal,Male,18-24
+CON-00857,PAT-00245,CLN-034,GP,Rubavu Clinic,Gasabo,Kigali,Urban,USSD,,2026-04-23 21:14,12,Cancelled,,,,No,MMI,Male,55-64
+CON-00858,PAT-01200,CLN-038,Nurse,Rubavu Clinic,Kicukiro,Kigali,Urban,IremboApp,,2026-04-29 06:16,13,Cancelled,,,,No,RSSB-Formal,Male,25-34
+CON-00859,PAT-01200,CLN-039,Nurse,Kigali Central,Kicukiro,Kigali,Urban,IremboApp,Web,2026-04-10 19:41,10,Completed,Mental Health,Yes,Yes,No,RSSB-Formal,Male,25-34
+CON-00860,PAT-01200,CLN-039,Nurse,Kigali Central,Kicukiro,Kigali,Urban,IremboApp,Web,2026-04-13 07:35,11,Completed,Hypertension,Yes,Yes,No,RSSB-Formal,Male,25-34
+CON-00861,PAT-01003,CLN-038,Nurse,Rubavu Clinic,Nyarugenge,Kigali,Urban,USSD,Web,2026-04-25 13:15,12,Completed,Gastrointestinal,Yes,Yes,No,RSSB-CBHI,Male,55-64
+CON-00862,PAT-01018,CLN-026,GP,Kigali Central,Rwamagana,Eastern,Rural,IremboApp,,2026-04-27 19:36,13,Cancelled,,,,No,RSSB-CBHI,Female,18-24
+CON-00863,PAT-00325,CLN-012,GP,Northern Clinic,Rubavu,Western,Rural,IremboApp,GSM,2026-04-26 06:55,13,Completed,Diabetes,No,No,No,RAMA,Female,35-44
+CON-00864,PAT-00545,CLN-035,GP,Rubavu Clinic,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-08 17:21,10,Completed,Respiratory Infection,Yes,Yes,No,MMI,Male,55-64
+CON-00865,PAT-00545,CLN-032,GP,Kigali Central,Gasabo,Kigali,Urban,IremboApp,,2026-04-17 18:19,11,No-Show,,,,No,MMI,Male,55-64
+CON-00866,PAT-00545,CLN-041,Nurse,Huye Health,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-07 16:54,10,Completed,Respiratory Infection,Yes,Yes,No,MMI,Male,55-64
+CON-00867,PAT-00821,CLN-022,GP,Northern Clinic,Rulindo,Northern,Rural,USSD,Web,2026-03-31 19:51,9,Completed,Reproductive Health,Yes,Yes,No,MMI,Female,55-64
+CON-00868,PAT-00379,CLN-041,Nurse,Huye Health,Rubavu,Western,Rural,IremboApp,GSM,2026-03-16 00:18,7,Completed,Respiratory Infection,No,No,No,RSSB-CBHI,Male,55-64
+CON-00869,PAT-00427,CLN-004,GP,Kigali Central,Rwamagana,Eastern,Rural,IremboApp,,2026-04-16 01:44,11,No-Show,,,,No,RSSB-CBHI,Male,35-44
+CON-00870,PAT-01160,CLN-021,GP,Rubavu Clinic,Huye,Southern,Rural,USSD,Web,2026-04-03 07:20,9,Completed,Malaria,Yes,Yes,No,RAMA,Male,25-34
+CON-00871,PAT-01160,CLN-039,Nurse,Kigali Central,Huye,Southern,Rural,USSD,GSM,2026-03-14 08:44,6,Completed,Respiratory Infection,Yes,Yes,No,RAMA,Male,25-34
+CON-00872,PAT-00186,CLN-003,GP,Huye Health,Nyarugenge,Kigali,Urban,USSD,Web,2026-04-26 13:04,13,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Female,25-34
+CON-00873,PAT-00160,CLN-025,Nurse,Kigali Central,Rulindo,Northern,Rural,IremboApp,GSM,2026-03-27 20:19,8,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Male,18-24
+CON-00874,PAT-00160,CLN-027,Nurse,Rubavu Clinic,Rulindo,Northern,Rural,IremboApp,GSM,2026-03-26 21:27,8,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Male,18-24
+CON-00875,PAT-01119,CLN-003,GP,Huye Health,Gasabo,Kigali,Urban,IremboApp,GSM,2026-03-10 10:34,6,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Male,18-24
+CON-00876,PAT-01119,CLN-036,GP,Rubavu Clinic,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-02 15:12,9,Completed,Mental Health,No,No,No,RSSB-CBHI,Male,18-24
+CON-00877,PAT-00069,CLN-012,GP,Northern Clinic,Rubavu,Western,Rural,USSD,Web,2026-04-28 18:18,13,Completed,Reproductive Health,No,No,No,RSSB-CBHI,Female,25-34
+CON-00878,PAT-00069,CLN-008,GP,Kigali Central,Rubavu,Western,Rural,USSD,,2026-04-28 19:55,13,No-Show,,,,No,RSSB-CBHI,Female,25-34
+CON-00879,PAT-00069,CLN-041,Nurse,Huye Health,Rubavu,Western,Rural,USSD,GSM,2026-04-22 08:23,12,Completed,Reproductive Health,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00880,PAT-00444,CLN-034,GP,Rubavu Clinic,Huye,Southern,Rural,IremboApp,GSM,2026-03-23 05:20,8,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Female,45-54
+CON-00881,PAT-01114,CLN-037,GP,Huye Health,Huye,Southern,Rural,IremboApp,GSM,2026-04-20 07:51,12,Completed,Reproductive Health,Yes,Yes,No,RSSB-Formal,Male,25-34
+CON-00882,PAT-01114,CLN-024,Nurse,Eastern HC,Huye,Southern,Rural,IremboApp,GSM,2026-04-01 08:03,9,Completed,Malaria,Yes,No,No,RSSB-Formal,Male,25-34
+CON-00883,PAT-00179,CLN-019,GP,Kigali Central,Muhanga,Southern,Rural,IremboApp,,2026-04-21 22:35,12,Cancelled,,,,No,RSSB-Formal,Male,35-44
+CON-00884,PAT-00580,CLN-019,GP,Kigali Central,Rwamagana,Eastern,Rural,IremboApp,,2026-03-13 06:42,6,No-Show,,,,No,RSSB-CBHI,Male,45-54
+CON-00885,PAT-00580,CLN-024,Nurse,Eastern HC,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-02-27 05:47,4,Completed,General Consultation,No,No,Yes,RSSB-CBHI,Male,45-54
+CON-00886,PAT-00580,CLN-031,GP,Huye Health,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-02-13 05:08,2,Completed,Mental Health,Yes,Yes,No,RSSB-CBHI,Male,45-54
+CON-00887,PAT-00494,CLN-007,GP,Kigali Central,Gisagara,Southern,Rural,IremboApp,GSM,2026-03-12 22:18,6,Completed,Malaria,Yes,No,No,RAMA,Male,25-34
+CON-00888,PAT-00494,CLN-040,Nurse,Huye Health,Gisagara,Southern,Rural,IremboApp,,2026-04-05 05:07,10,No-Show,,,,No,RAMA,Male,25-34
+CON-00889,PAT-00494,CLN-019,GP,Kigali Central,Gisagara,Southern,Rural,IremboApp,Web,2026-02-22 15:28,4,Completed,Malaria,Yes,Yes,No,RAMA,Male,25-34
+CON-00890,PAT-00765,CLN-034,GP,Rubavu Clinic,Rubavu,Western,Rural,USSD,Web,2026-04-28 01:19,13,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Male,45-54
+CON-00891,PAT-00399,CLN-034,GP,Rubavu Clinic,Rubavu,Western,Rural,USSD,GSM,2026-04-23 03:37,12,Completed,Malaria,Yes,No,No,RSSB-CBHI,Female,55-64
+CON-00892,PAT-00027,CLN-014,GP,Northern Clinic,Rulindo,Northern,Rural,USSD,Web,2026-04-12 19:47,11,Completed,Respiratory Infection,Yes,Yes,No,MMI,Female,35-44
+CON-00893,PAT-00027,CLN-040,Nurse,Huye Health,Rulindo,Northern,Rural,USSD,,2026-03-04 03:25,5,No-Show,,,,No,MMI,Female,35-44
+CON-00894,PAT-00971,CLN-030,GP,Kigali Central,Rulindo,Northern,Rural,USSD,,2026-02-26 06:04,4,Cancelled,,,,No,RSSB-CBHI,Female,55-64
+CON-00895,PAT-00971,CLN-034,GP,Rubavu Clinic,Rulindo,Northern,Rural,USSD,,2026-04-27 22:23,13,No-Show,,,,No,RSSB-CBHI,Female,55-64
+CON-00896,PAT-00949,CLN-027,Nurse,Rubavu Clinic,Nyagatare,Eastern,Rural,IremboApp,GSM,2026-04-19 05:49,12,Completed,Malaria,No,No,No,RSSB-Formal,Male,25-34
+CON-00897,PAT-00949,CLN-041,Nurse,Huye Health,Nyagatare,Eastern,Rural,IremboApp,GSM,2026-04-25 22:14,12,Completed,Respiratory Infection,No,No,No,RSSB-Formal,Male,25-34
+CON-00898,PAT-00969,CLN-040,Nurse,Huye Health,Kicukiro,Kigali,Urban,IremboApp,GSM,2026-04-21 00:53,12,Completed,Reproductive Health,Yes,Yes,No,RSSB-CBHI,Female,35-44
+CON-00899,PAT-00503,CLN-034,GP,Rubavu Clinic,Huye,Southern,Rural,USSD,GSM,2026-04-10 23:30,10,Completed,Malaria,Yes,Yes,Yes,RSSB-CBHI,Female,45-54
+CON-00900,PAT-00503,CLN-027,Nurse,Rubavu Clinic,Huye,Southern,Rural,USSD,GSM,2026-04-11 18:17,10,Completed,Respiratory Infection,No,No,No,RSSB-CBHI,Female,45-54
+CON-00901,PAT-00667,CLN-027,Nurse,Rubavu Clinic,Kicukiro,Kigali,Urban,IremboApp,GSM,2026-04-20 09:26,12,Completed,Gastrointestinal,Yes,Yes,No,RSSB-CBHI,Male,25-34
+CON-00902,PAT-00760,CLN-003,GP,Huye Health,Kicukiro,Kigali,Urban,IremboApp,,2026-04-29 12:58,13,No-Show,,,,No,RSSB-CBHI,Male,55-64
+CON-00903,PAT-00054,CLN-016,GP,Eastern HC,Rwamagana,Eastern,Rural,USSD,GSM,2026-04-25 02:18,12,Completed,Gastrointestinal,Yes,Yes,No,RSSB-CBHI,Male,25-34
+CON-00904,PAT-00054,CLN-028,Nurse,Northern Clinic,Rwamagana,Eastern,Rural,USSD,,2026-04-22 13:30,12,No-Show,,,,No,RSSB-CBHI,Male,25-34
+CON-00905,PAT-00217,CLN-034,GP,Rubavu Clinic,Gasabo,Kigali,Urban,IremboApp,,2026-02-14 09:03,2,No-Show,,,,No,RSSB-CBHI,Male,35-44
+CON-00906,PAT-00306,CLN-006,GP,Northern Clinic,Huye,Southern,Rural,IremboApp,,2026-04-27 16:27,13,No-Show,,,,No,RSSB-Formal,Female,65+
+CON-00907,PAT-00994,CLN-021,GP,Rubavu Clinic,Rubavu,Western,Rural,IremboApp,,2026-04-12 18:20,11,Cancelled,,,,No,RSSB-CBHI,Male,18-24
+CON-00908,PAT-00994,CLN-014,GP,Northern Clinic,Rubavu,Western,Rural,IremboApp,GSM,2026-04-29 15:09,13,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Male,18-24
+CON-00909,PAT-00814,CLN-028,Nurse,Northern Clinic,Karongi,Western,Rural,IremboApp,,2026-04-17 18:41,11,No-Show,,,,No,RSSB-CBHI,Female,25-34
+CON-00910,PAT-00814,CLN-034,GP,Rubavu Clinic,Karongi,Western,Rural,IremboApp,,2026-04-11 02:50,10,No-Show,,,,No,RSSB-CBHI,Female,25-34
+CON-00911,PAT-01174,CLN-036,GP,Rubavu Clinic,Nyarugenge,Kigali,Urban,IremboApp,Web,2026-03-04 12:23,5,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Female,18-24
+CON-00912,PAT-01036,CLN-034,GP,Rubavu Clinic,Muhanga,Southern,Rural,IremboApp,GSM,2026-04-05 10:15,10,Completed,Respiratory Infection,No,No,No,RAMA,Male,35-44
+CON-00913,PAT-01036,CLN-002,GP,Rubavu Clinic,Muhanga,Southern,Rural,IremboApp,GSM,2026-03-26 20:09,8,Completed,Mental Health,Yes,Yes,No,RAMA,Male,35-44
+CON-00914,PAT-00191,CLN-029,GP,Northern Clinic,Gasabo,Kigali,Urban,IremboApp,,2026-02-23 12:45,4,Cancelled,,,,No,RSSB-CBHI,Female,18-24
+CON-00915,PAT-00359,CLN-037,GP,Huye Health,Nyarugenge,Kigali,Urban,USSD,Web,2026-04-17 01:05,11,Completed,Hypertension,Yes,Yes,No,RSSB-Formal,Male,45-54
+CON-00916,PAT-00740,CLN-039,Nurse,Kigali Central,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-12 19:56,11,Completed,Reproductive Health,Yes,Yes,No,MMI,Female,25-34
+CON-00917,PAT-00704,CLN-035,GP,Rubavu Clinic,Rubavu,Western,Rural,USSD,,2026-03-17 02:17,7,No-Show,,,,No,RSSB-CBHI,Female,35-44
+CON-00918,PAT-01169,CLN-022,GP,Northern Clinic,Rwamagana,Eastern,Rural,IremboApp,Web,2026-02-25 06:22,4,Completed,Mental Health,Yes,Yes,No,MMI,Male,45-54
+CON-00919,PAT-01169,CLN-013,GP,Huye Health,Rwamagana,Eastern,Rural,IremboApp,Web,2026-02-28 00:04,4,Completed,Mental Health,Yes,Yes,No,MMI,Male,45-54
+CON-00920,PAT-00023,CLN-027,Nurse,Rubavu Clinic,Gasabo,Kigali,Urban,IremboApp,GSM,2026-03-15 07:37,7,Completed,Skin Condition,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00921,PAT-00023,CLN-002,GP,Rubavu Clinic,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-19 13:19,12,Completed,Injury/Trauma,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00922,PAT-00163,CLN-039,Nurse,Kigali Central,Rwamagana,Eastern,Rural,IremboApp,,2026-03-30 15:07,9,Cancelled,,,,No,RAMA,Female,55-64
+CON-00923,PAT-00163,CLN-009,GP,Huye Health,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-04-18 12:10,11,Completed,Respiratory Infection,Yes,Yes,No,RAMA,Female,55-64
+CON-00924,PAT-00401,CLN-008,GP,Kigali Central,Huye,Southern,Rural,USSD,,2026-04-24 05:07,12,Cancelled,,,,No,RSSB-Formal,Male,35-44
+CON-00925,PAT-00317,CLN-036,GP,Rubavu Clinic,Gasabo,Kigali,Urban,IremboApp,,2026-03-05 21:45,5,No-Show,,,,No,MMI,Female,25-34
+CON-00926,PAT-00804,CLN-035,GP,Rubavu Clinic,Rubavu,Western,Rural,USSD,GSM,2026-04-20 09:56,12,Completed,Hypertension,Yes,Yes,No,RAMA,Female,65+
+CON-00927,PAT-01158,CLN-001,Nurse,Kigali Central,Rubavu,Western,Rural,IremboApp,GSM,2026-04-23 15:05,12,Completed,Gastrointestinal,Yes,Yes,No,RSSB-Formal,Male,25-34
+CON-00928,PAT-00236,CLN-008,GP,Kigali Central,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-04-27 02:06,13,Completed,Mental Health,Yes,Yes,No,RSSB-Formal,Male,55-64
+CON-00929,PAT-00149,CLN-003,GP,Huye Health,Gasabo,Kigali,Urban,IremboApp,,2026-04-26 18:46,13,No-Show,,,,No,RAMA,Female,18-24
+CON-00930,PAT-00875,CLN-001,Nurse,Kigali Central,Gasabo,Kigali,Urban,IremboApp,Web,2026-03-09 17:20,6,Completed,Reproductive Health,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00931,PAT-00224,CLN-025,Nurse,Kigali Central,Rubavu,Western,Rural,USSD,Web,2026-04-26 11:20,13,Completed,General Consultation,Yes,Yes,No,RSSB-CBHI,Male,25-34
+CON-00932,PAT-00375,CLN-025,Nurse,Kigali Central,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-20 19:17,12,Completed,Skin Condition,Yes,Yes,No,RAMA,Male,45-54
+CON-00933,PAT-00915,CLN-027,Nurse,Rubavu Clinic,Gasabo,Kigali,Urban,USSD,,2026-04-23 11:59,12,No-Show,,,,No,MMI,Female,45-54
+CON-00934,PAT-00861,CLN-029,GP,Northern Clinic,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-17 06:37,11,Completed,Skin Condition,Yes,Yes,No,RSSB-Formal,Male,18-24
+CON-00935,PAT-00877,CLN-029,GP,Northern Clinic,Rubavu,Western,Rural,IremboApp,GSM,2026-03-18 18:47,7,Completed,Reproductive Health,No,No,No,RSSB-CBHI,Male,18-24
+CON-00936,PAT-00877,CLN-027,Nurse,Rubavu Clinic,Rubavu,Western,Rural,IremboApp,GSM,2026-04-19 01:50,12,Completed,Reproductive Health,Yes,Yes,No,RSSB-CBHI,Male,18-24
+CON-00937,PAT-00877,CLN-031,GP,Huye Health,Rubavu,Western,Rural,IremboApp,,2026-04-25 04:44,12,Cancelled,,,,No,RSSB-CBHI,Male,18-24
+CON-00938,PAT-00832,CLN-005,Nurse,Northern Clinic,Nyarugenge,Kigali,Urban,USSD,,2026-04-19 10:17,12,No-Show,,,,No,RSSB-CBHI,Male,45-54
+CON-00939,PAT-00832,CLN-034,GP,Rubavu Clinic,Nyarugenge,Kigali,Urban,USSD,GSM,2026-03-30 13:43,9,Completed,Respiratory Infection,No,No,No,RSSB-CBHI,Male,45-54
+CON-00940,PAT-00974,CLN-021,GP,Rubavu Clinic,Rwamagana,Eastern,Rural,USSD,GSM,2026-04-20 05:17,12,Completed,Hypertension,No,No,No,RSSB-Formal,Female,25-34
+CON-00941,PAT-00639,CLN-001,Nurse,Kigali Central,Kicukiro,Kigali,Urban,USSD,Web,2026-04-04 12:53,9,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,45-54
+CON-00942,PAT-00639,CLN-008,GP,Kigali Central,Kicukiro,Kigali,Urban,USSD,GSM,2026-03-31 10:32,9,Completed,Malaria,Yes,No,No,RSSB-CBHI,Male,45-54
+CON-00943,PAT-00639,CLN-037,GP,Huye Health,Kicukiro,Kigali,Urban,USSD,,2026-04-08 12:16,10,Cancelled,,,,No,RSSB-CBHI,Male,45-54
+CON-00944,PAT-01182,CLN-005,Nurse,Northern Clinic,Rubavu,Western,Rural,USSD,,2026-04-23 20:40,12,No-Show,,,,No,RSSB-CBHI,Female,45-54
+CON-00945,PAT-00061,CLN-011,GP,Northern Clinic,Rwamagana,Eastern,Rural,IremboApp,,2026-04-20 11:40,12,No-Show,,,,No,RSSB-CBHI,Female,35-44
+CON-00946,PAT-00061,CLN-019,GP,Kigali Central,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-03-19 09:47,7,Completed,Malaria,Yes,No,No,RSSB-CBHI,Female,35-44
+CON-00947,PAT-01095,CLN-026,GP,Kigali Central,Karongi,Western,Rural,IremboApp,GSM,2026-03-21 20:46,7,Completed,Skin Condition,Yes,Yes,No,RAMA,Female,25-34
+CON-00948,PAT-00899,CLN-038,Nurse,Rubavu Clinic,Nyagatare,Eastern,Rural,USSD,GSM,2026-04-02 17:27,9,Completed,Hypertension,Yes,Yes,No,RSSB-Formal,Female,45-54
+CON-00949,PAT-00899,CLN-032,GP,Kigali Central,Nyagatare,Eastern,Rural,USSD,,2026-03-19 00:34,7,No-Show,,,,No,RSSB-Formal,Female,45-54
+CON-00950,PAT-00210,CLN-035,GP,Rubavu Clinic,Gasabo,Kigali,Urban,USSD,GSM,2026-04-21 14:56,12,Completed,Injury/Trauma,Yes,Yes,No,RSSB-Formal,Male,18-24
+CON-00951,PAT-00210,CLN-015,GP,Kigali Central,Gasabo,Kigali,Urban,USSD,GSM,2026-04-24 05:10,12,Completed,Gastrointestinal,Yes,Yes,No,RSSB-Formal,Male,18-24
+CON-00952,PAT-00021,CLN-008,GP,Kigali Central,Gasabo,Kigali,Urban,USSD,Web,2026-04-25 21:19,12,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Female,55-64
+CON-00953,PAT-00021,CLN-001,Nurse,Kigali Central,Gasabo,Kigali,Urban,USSD,GSM,2026-04-22 18:41,12,Completed,Reproductive Health,Yes,Yes,No,RSSB-CBHI,Female,55-64
+CON-00954,PAT-00631,CLN-011,GP,Northern Clinic,Rubavu,Western,Rural,USSD,Web,2026-04-15 23:00,11,Completed,Diabetes,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00955,PAT-00631,CLN-017,GP,Rubavu Clinic,Rubavu,Western,Rural,USSD,GSM,2026-04-10 13:06,10,Completed,Respiratory Infection,No,No,No,RSSB-CBHI,Female,25-34
+CON-00956,PAT-00066,CLN-030,GP,Kigali Central,Muhanga,Southern,Rural,IremboApp,GSM,2026-04-09 07:37,10,Completed,Malaria,No,No,No,RSSB-CBHI,Male,35-44
+CON-00957,PAT-01166,CLN-035,GP,Rubavu Clinic,Muhanga,Southern,Rural,IremboApp,,2026-04-28 18:05,13,No-Show,,,,No,RSSB-CBHI,Female,25-34
+CON-00958,PAT-01011,CLN-003,GP,Huye Health,Gasabo,Kigali,Urban,USSD,,2026-04-14 01:30,11,Cancelled,,,,No,MMI,Female,18-24
+CON-00959,PAT-01011,CLN-035,GP,Rubavu Clinic,Gasabo,Kigali,Urban,USSD,Web,2026-04-09 03:44,10,Completed,Skin Condition,Yes,No,No,MMI,Female,18-24
+CON-00960,PAT-01011,CLN-022,GP,Northern Clinic,Gasabo,Kigali,Urban,USSD,,2026-04-27 09:34,13,No-Show,,,,No,MMI,Female,18-24
+CON-00961,PAT-00637,CLN-023,GP,Kigali Central,Huye,Southern,Rural,USSD,GSM,2026-03-05 12:45,5,Completed,Gastrointestinal,Yes,Yes,No,RAMA,Female,25-34
+CON-00962,PAT-00833,CLN-016,GP,Eastern HC,Gisagara,Southern,Rural,USSD,,2026-03-30 16:35,9,No-Show,,,,No,RSSB-Formal,Female,45-54
+CON-00963,PAT-00592,CLN-002,GP,Rubavu Clinic,Nyarugenge,Kigali,Urban,USSD,,2026-04-14 01:35,11,Cancelled,,,,No,RSSB-Formal,Male,35-44
+CON-00964,PAT-00354,CLN-040,Nurse,Huye Health,Kicukiro,Kigali,Urban,USSD,Web,2026-04-20 22:43,12,Completed,Diabetes,No,No,No,RSSB-Formal,Male,45-54
+CON-00965,PAT-00868,CLN-040,Nurse,Huye Health,Gasabo,Kigali,Urban,IremboApp,GSM,2026-03-23 13:19,8,Completed,Mental Health,Yes,Yes,No,RSSB-CBHI,Male,55-64
+CON-00966,PAT-01050,CLN-032,GP,Kigali Central,Huye,Southern,Rural,USSD,,2026-04-13 12:32,11,Cancelled,,,,No,RSSB-CBHI,Female,25-34
+CON-00967,PAT-00283,CLN-001,Nurse,Kigali Central,Nyarugenge,Kigali,Urban,IremboApp,GSM,2026-04-01 21:54,9,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Female,25-34
+CON-00968,PAT-01038,CLN-037,GP,Huye Health,Muhanga,Southern,Rural,IremboApp,GSM,2026-04-22 08:02,12,Completed,Gastrointestinal,Yes,Yes,No,RSSB-CBHI,Female,55-64
+CON-00969,PAT-01038,CLN-017,GP,Rubavu Clinic,Muhanga,Southern,Rural,IremboApp,GSM,2026-04-04 01:14,9,Completed,Mental Health,Yes,Yes,No,RSSB-CBHI,Female,55-64
+CON-00970,PAT-00539,CLN-041,Nurse,Huye Health,Rulindo,Northern,Rural,IremboApp,,2026-03-30 22:40,9,Cancelled,,,,No,RSSB-CBHI,Female,35-44
+CON-00971,PAT-01143,CLN-026,GP,Kigali Central,Muhanga,Southern,Rural,USSD,,2026-04-26 07:52,13,No-Show,,,,No,RSSB-Formal,Female,35-44
+CON-00972,PAT-01143,CLN-037,GP,Huye Health,Muhanga,Southern,Rural,USSD,,2026-04-14 12:20,11,Cancelled,,,,No,RSSB-Formal,Female,35-44
+CON-00973,PAT-00455,CLN-021,GP,Rubavu Clinic,Rwamagana,Eastern,Rural,IremboApp,Web,2026-04-21 00:52,12,Completed,Respiratory Infection,No,No,No,RAMA,Female,18-24
+CON-00974,PAT-00053,CLN-015,GP,Kigali Central,Rubavu,Western,Rural,IremboApp,Web,2026-04-26 17:15,13,Completed,General Consultation,Yes,Yes,No,RSSB-CBHI,Male,25-34
+CON-00975,PAT-00053,CLN-026,GP,Kigali Central,Rubavu,Western,Rural,IremboApp,GSM,2026-04-27 11:55,13,Completed,General Consultation,Yes,No,No,RSSB-CBHI,Male,25-34
+CON-00976,PAT-01159,CLN-032,GP,Kigali Central,Musanze,Northern,Rural,USSD,GSM,2026-04-13 18:40,11,Completed,Reproductive Health,Yes,Yes,No,RSSB-Formal,Male,35-44
+CON-00977,PAT-00467,CLN-008,GP,Kigali Central,Karongi,Western,Rural,USSD,,2026-02-25 05:37,4,Cancelled,,,,No,RSSB-Formal,Male,35-44
+CON-00978,PAT-00467,CLN-034,GP,Rubavu Clinic,Karongi,Western,Rural,USSD,,2026-03-09 08:02,6,No-Show,,,,No,RSSB-Formal,Male,35-44
+CON-00979,PAT-00579,CLN-026,GP,Kigali Central,Huye,Southern,Rural,USSD,GSM,2026-02-23 09:46,4,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,18-24
+CON-00980,PAT-01162,CLN-014,GP,Northern Clinic,Muhanga,Southern,Rural,USSD,,2026-04-28 18:05,13,No-Show,,,,No,RSSB-Formal,Female,45-54
+CON-00981,PAT-01085,CLN-028,Nurse,Northern Clinic,Gasabo,Kigali,Urban,IremboApp,GSM,2026-03-08 02:55,6,Completed,General Consultation,Yes,Yes,No,RSSB-Formal,Male,25-34
+CON-00982,PAT-00852,CLN-019,GP,Kigali Central,Kicukiro,Kigali,Urban,IremboApp,,2026-03-15 14:13,7,Cancelled,,,,No,MMI,Male,25-34
+CON-00983,PAT-00852,CLN-023,GP,Kigali Central,Kicukiro,Kigali,Urban,IremboApp,GSM,2026-03-08 10:00,6,Completed,Gastrointestinal,Yes,No,No,MMI,Male,25-34
+CON-00984,PAT-00852,CLN-004,GP,Kigali Central,Kicukiro,Kigali,Urban,IremboApp,Web,2026-04-28 12:21,13,Completed,Respiratory Infection,No,No,No,MMI,Male,25-34
+CON-00985,PAT-00879,CLN-034,GP,Rubavu Clinic,Rubavu,Western,Rural,IremboApp,GSM,2026-04-22 23:09,12,Completed,Diabetes,Yes,Yes,No,RSSB-Formal,Male,35-44
+CON-00986,PAT-00242,CLN-004,GP,Kigali Central,Gasabo,Kigali,Urban,USSD,,2026-03-29 09:32,9,Cancelled,,,,No,RSSB-Formal,Male,55-64
+CON-00987,PAT-00242,CLN-033,GP,Kigali Central,Gasabo,Kigali,Urban,USSD,Web,2026-04-14 15:48,11,Completed,Reproductive Health,Yes,Yes,No,RSSB-Formal,Male,55-64
+CON-00988,PAT-01028,CLN-022,GP,Northern Clinic,Huye,Southern,Rural,IremboApp,,2026-04-24 09:13,12,Cancelled,,,,No,RSSB-CBHI,Male,18-24
+CON-00989,PAT-01028,CLN-022,GP,Northern Clinic,Huye,Southern,Rural,IremboApp,GSM,2026-04-27 08:16,13,Completed,Reproductive Health,Yes,Yes,No,RSSB-CBHI,Male,18-24
+CON-00990,PAT-01044,CLN-040,Nurse,Huye Health,Gasabo,Kigali,Urban,USSD,,2026-04-12 18:49,11,Cancelled,,,,No,RSSB-Formal,Male,45-54
+CON-00991,PAT-00621,CLN-022,GP,Northern Clinic,Nyarugenge,Kigali,Urban,IremboApp,Web,2026-04-09 18:46,10,Completed,Malaria,Yes,Yes,No,RAMA,Male,55-64
+CON-00992,PAT-00621,CLN-015,GP,Kigali Central,Nyarugenge,Kigali,Urban,IremboApp,GSM,2026-04-17 11:07,11,Completed,Injury/Trauma,Yes,Yes,No,RAMA,Male,55-64
+CON-00993,PAT-01164,CLN-005,Nurse,Northern Clinic,Rubavu,Western,Rural,USSD,GSM,2026-03-28 19:32,8,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-00994,PAT-01130,CLN-020,GP,Eastern HC,Rulindo,Northern,Rural,IremboApp,GSM,2026-04-13 21:23,11,Completed,Gastrointestinal,Yes,Yes,No,RSSB-Formal,Female,18-24
+CON-00995,PAT-01130,CLN-015,GP,Kigali Central,Rulindo,Northern,Rural,IremboApp,Web,2026-04-27 15:21,13,Completed,Hypertension,Yes,Yes,No,RSSB-Formal,Female,18-24
+CON-00996,PAT-00719,CLN-011,GP,Northern Clinic,Nyarugenge,Kigali,Urban,IremboApp,,2026-04-26 06:05,13,Cancelled,,,,No,RSSB-Formal,Female,18-24
+CON-00997,PAT-01165,CLN-034,GP,Rubavu Clinic,Karongi,Western,Rural,USSD,Web,2026-03-30 09:04,9,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-00998,PAT-01165,CLN-013,GP,Huye Health,Karongi,Western,Rural,USSD,GSM,2026-04-02 03:08,9,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-00999,PAT-01165,CLN-034,GP,Rubavu Clinic,Karongi,Western,Rural,USSD,GSM,2026-03-31 08:41,9,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-01000,PAT-00199,CLN-006,GP,Northern Clinic,Nyarugenge,Kigali,Urban,IremboApp,GSM,2026-04-01 08:36,9,Completed,Hypertension,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-01001,PAT-00850,CLN-041,Nurse,Huye Health,Nyarugenge,Kigali,Urban,USSD,GSM,2026-04-13 06:49,11,Completed,Respiratory Infection,Yes,Yes,No,Uninsured,Female,35-44
+CON-01002,PAT-00850,CLN-033,GP,Kigali Central,Nyarugenge,Kigali,Urban,USSD,,2026-03-21 09:07,7,No-Show,,,,No,Uninsured,Female,35-44
+CON-01003,PAT-00850,CLN-030,GP,Kigali Central,Nyarugenge,Kigali,Urban,USSD,Web,2026-04-22 00:22,12,Completed,Respiratory Infection,Yes,Yes,No,Uninsured,Female,35-44
+CON-01004,PAT-00189,CLN-031,GP,Huye Health,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-04-02 20:53,9,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Female,45-54
+CON-01005,PAT-00189,CLN-012,GP,Northern Clinic,Rwamagana,Eastern,Rural,IremboApp,,2026-04-25 06:43,12,Cancelled,,,,No,RSSB-CBHI,Female,45-54
+CON-01006,PAT-00828,CLN-037,GP,Huye Health,Gasabo,Kigali,Urban,USSD,,2026-04-09 23:41,10,Cancelled,,,,No,MMI,Female,45-54
+CON-01007,PAT-00848,CLN-007,GP,Kigali Central,Rubavu,Western,Rural,IremboApp,Web,2026-02-28 14:54,4,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Male,25-34
+CON-01008,PAT-00911,CLN-021,GP,Rubavu Clinic,Rwamagana,Eastern,Rural,USSD,GSM,2026-03-23 04:07,8,Completed,Malaria,Yes,Yes,No,RSSB-Formal,Female,65+
+CON-01009,PAT-00142,CLN-008,GP,Kigali Central,Rwamagana,Eastern,Rural,IremboApp,Web,2026-04-16 03:25,11,Completed,Mental Health,Yes,Yes,No,Uninsured,Male,45-54
+CON-01010,PAT-00284,CLN-022,GP,Northern Clinic,Rubavu,Western,Rural,USSD,Web,2026-04-24 17:18,12,Completed,Gastrointestinal,Yes,Yes,No,RSSB-Formal,Female,25-34
+CON-01011,PAT-00284,CLN-039,Nurse,Kigali Central,Rubavu,Western,Rural,USSD,,2026-04-18 16:35,11,No-Show,,,,No,RSSB-Formal,Female,25-34
+CON-01012,PAT-00284,CLN-037,GP,Huye Health,Rubavu,Western,Rural,USSD,GSM,2026-04-06 01:37,10,Completed,Hypertension,No,No,No,RSSB-Formal,Female,25-34
+CON-01013,PAT-00132,CLN-009,GP,Huye Health,Rwamagana,Eastern,Rural,IremboApp,Web,2026-04-03 17:40,9,Completed,Mental Health,Yes,Yes,No,RSSB-Formal,Male,55-64
+CON-01014,PAT-00132,CLN-009,GP,Huye Health,Rwamagana,Eastern,Rural,IremboApp,,2026-03-12 13:39,6,No-Show,,,,No,RSSB-Formal,Male,55-64
+CON-01015,PAT-00132,CLN-036,GP,Rubavu Clinic,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-03-08 06:30,6,Completed,Mental Health,Yes,Yes,No,RSSB-Formal,Male,55-64
+CON-01016,PAT-00517,CLN-033,GP,Kigali Central,Musanze,Northern,Rural,IremboApp,Web,2026-04-27 21:08,13,Completed,Skin Condition,Yes,Yes,No,RSSB-CBHI,Male,45-54
+CON-01017,PAT-00515,CLN-026,GP,Kigali Central,Kicukiro,Kigali,Urban,USSD,,2026-04-28 05:54,13,Cancelled,,,,No,RSSB-Formal,Male,25-34
+CON-01018,PAT-00905,CLN-016,GP,Eastern HC,Gasabo,Kigali,Urban,USSD,,2026-03-19 07:57,7,Cancelled,,,,No,RSSB-Formal,Male,45-54
+CON-01019,PAT-00728,CLN-037,GP,Huye Health,Muhanga,Southern,Rural,USSD,GSM,2026-04-28 13:22,13,Completed,Reproductive Health,Yes,No,No,RAMA,Male,65+
+CON-01020,PAT-00728,CLN-002,GP,Rubavu Clinic,Muhanga,Southern,Rural,USSD,,2026-03-25 13:00,8,No-Show,,,,No,RAMA,Male,65+
+CON-01021,PAT-00938,CLN-023,GP,Kigali Central,Nyarugenge,Kigali,Urban,IremboApp,GSM,2026-04-26 23:31,13,Completed,Reproductive Health,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-01022,PAT-00938,CLN-040,Nurse,Huye Health,Nyarugenge,Kigali,Urban,IremboApp,,2026-03-06 12:05,5,No-Show,,,,No,RSSB-CBHI,Male,35-44
+CON-01023,PAT-00938,CLN-027,Nurse,Rubavu Clinic,Nyarugenge,Kigali,Urban,IremboApp,,2026-04-25 23:27,12,Cancelled,,,,No,RSSB-CBHI,Male,35-44
+CON-01024,PAT-00155,CLN-006,GP,Northern Clinic,Rubavu,Western,Rural,IremboApp,GSM,2026-04-18 03:11,11,Completed,Respiratory Infection,Yes,Yes,No,RAMA,Female,45-54
+CON-01025,PAT-00155,CLN-030,GP,Kigali Central,Rubavu,Western,Rural,IremboApp,GSM,2026-04-27 00:54,13,Completed,Skin Condition,Yes,Yes,No,RAMA,Female,45-54
+CON-01026,PAT-00072,CLN-009,GP,Huye Health,Kicukiro,Kigali,Urban,IremboApp,,2026-02-23 03:30,4,Cancelled,,,,No,RSSB-Formal,Male,25-34
+CON-01027,PAT-00188,CLN-029,GP,Northern Clinic,Karongi,Western,Rural,IremboApp,Web,2026-03-10 02:22,6,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Female,35-44
+CON-01028,PAT-00188,CLN-003,GP,Huye Health,Karongi,Western,Rural,IremboApp,GSM,2026-03-27 18:51,8,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Female,35-44
+CON-01029,PAT-00498,CLN-034,GP,Rubavu Clinic,Rulindo,Northern,Rural,IremboApp,GSM,2026-03-03 06:27,5,Completed,Mental Health,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-01030,PAT-00498,CLN-034,GP,Rubavu Clinic,Rulindo,Northern,Rural,IremboApp,GSM,2026-04-03 17:10,9,Completed,Respiratory Infection,Yes,No,No,RSSB-CBHI,Male,35-44
+CON-01031,PAT-01132,CLN-013,GP,Huye Health,Nyarugenge,Kigali,Urban,USSD,GSM,2026-04-26 10:03,13,Completed,Gastrointestinal,No,No,No,RSSB-Formal,Male,45-54
+CON-01032,PAT-00259,CLN-001,Nurse,Kigali Central,Gasabo,Kigali,Urban,IremboApp,,2026-04-29 20:44,13,No-Show,,,,No,MMI,Female,25-34
+CON-01033,PAT-00812,CLN-023,GP,Kigali Central,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-22 11:18,12,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Female,55-64
+CON-01034,PAT-00812,CLN-010,Nurse,Northern Clinic,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-10 21:07,10,Completed,Malaria,Yes,Yes,No,RSSB-Formal,Female,55-64
+CON-01035,PAT-01136,CLN-017,GP,Rubavu Clinic,Rwamagana,Eastern,Rural,IremboApp,,2026-03-06 15:00,5,Cancelled,,,,No,RAMA,Female,25-34
+CON-01036,PAT-00918,CLN-004,GP,Kigali Central,Rubavu,Western,Rural,USSD,GSM,2026-04-23 16:41,12,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Male,45-54
+CON-01037,PAT-00009,CLN-028,Nurse,Northern Clinic,Kicukiro,Kigali,Urban,IremboApp,Web,2026-03-10 06:56,6,Completed,Reproductive Health,Yes,Yes,No,RAMA,Female,55-64
+CON-01038,PAT-00968,CLN-022,GP,Northern Clinic,Karongi,Western,Rural,USSD,GSM,2026-04-23 07:10,12,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,25-34
+CON-01039,PAT-00968,CLN-003,GP,Huye Health,Karongi,Western,Rural,USSD,GSM,2026-04-25 11:08,12,Completed,Diabetes,Yes,Yes,No,RSSB-CBHI,Male,25-34
+CON-01040,PAT-00968,CLN-029,GP,Northern Clinic,Karongi,Western,Rural,USSD,GSM,2026-04-29 18:21,13,Completed,Skin Condition,Yes,Yes,No,RSSB-CBHI,Male,25-34
+CON-01041,PAT-00052,CLN-012,GP,Northern Clinic,Kicukiro,Kigali,Urban,IremboApp,,2026-04-18 07:40,11,Cancelled,,,,No,RSSB-Formal,Male,25-34
+CON-01042,PAT-00558,CLN-017,GP,Rubavu Clinic,Nyarugenge,Kigali,Urban,IremboApp,GSM,2026-03-23 06:54,8,Completed,Respiratory Infection,Yes,Yes,No,RAMA,Female,55-64
+CON-01043,PAT-00558,CLN-003,GP,Huye Health,Nyarugenge,Kigali,Urban,IremboApp,Web,2026-03-21 21:45,7,Completed,Malaria,Yes,Yes,No,RAMA,Female,55-64
+CON-01044,PAT-00805,CLN-032,GP,Kigali Central,Rubavu,Western,Rural,USSD,GSM,2026-04-06 08:50,10,Completed,Skin Condition,No,No,No,RSSB-CBHI,Female,45-54
+CON-01045,PAT-00377,CLN-004,GP,Kigali Central,Gasabo,Kigali,Urban,IremboApp,GSM,2026-04-15 09:08,11,Completed,Malaria,Yes,Yes,No,MMI,Male,55-64
+CON-01046,PAT-00377,CLN-022,GP,Northern Clinic,Gasabo,Kigali,Urban,IremboApp,GSM,2026-02-28 06:02,4,Completed,Diabetes,Yes,Yes,No,MMI,Male,55-64
+CON-01047,PAT-00377,CLN-013,GP,Huye Health,Gasabo,Kigali,Urban,IremboApp,,2026-03-07 03:36,5,No-Show,,,,No,MMI,Male,55-64
+CON-01048,PAT-00901,CLN-002,GP,Rubavu Clinic,Rubavu,Western,Rural,IremboApp,GSM,2026-03-17 04:52,7,Completed,Hypertension,Yes,Yes,No,RSSB-Formal,Male,25-34
+CON-01049,PAT-00901,CLN-032,GP,Kigali Central,Rubavu,Western,Rural,IremboApp,GSM,2026-03-28 07:39,8,Completed,Reproductive Health,Yes,Yes,No,RSSB-Formal,Male,25-34
+CON-01050,PAT-00707,CLN-017,GP,Rubavu Clinic,Rulindo,Northern,Rural,IremboApp,,2026-03-26 16:03,8,No-Show,,,,No,MMI,Male,18-24
+CON-01051,PAT-00773,CLN-038,Nurse,Rubavu Clinic,Karongi,Western,Rural,USSD,GSM,2026-04-19 13:46,12,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Female,18-24
+CON-01052,PAT-01076,CLN-020,GP,Eastern HC,Rwamagana,Eastern,Rural,USSD,,2026-03-14 17:24,6,Cancelled,,,,No,RSSB-Formal,Female,18-24
+CON-01053,PAT-00869,CLN-004,GP,Kigali Central,Gasabo,Kigali,Urban,USSD,Web,2026-04-19 09:55,12,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Male,45-54
+CON-01054,PAT-00324,CLN-035,GP,Rubavu Clinic,Nyarugenge,Kigali,Urban,IremboApp,,2026-04-14 17:27,11,No-Show,,,,No,RSSB-CBHI,Female,45-54
+CON-01055,PAT-00757,CLN-041,Nurse,Huye Health,Kicukiro,Kigali,Urban,IremboApp,Web,2026-03-31 15:42,9,Completed,Gastrointestinal,Yes,Yes,No,RSSB-Formal,Male,35-44
+CON-01056,PAT-00757,CLN-003,GP,Huye Health,Kicukiro,Kigali,Urban,IremboApp,Web,2026-02-21 17:04,3,Completed,Skin Condition,Yes,Yes,No,RSSB-Formal,Male,35-44
+CON-01057,PAT-00371,CLN-039,Nurse,Kigali Central,Karongi,Western,Rural,IremboApp,GSM,2026-04-05 08:25,10,Completed,Respiratory Infection,Yes,Yes,No,RAMA,Male,18-24
+CON-01058,PAT-00510,CLN-019,GP,Kigali Central,Rwamagana,Eastern,Rural,IremboApp,Web,2026-04-23 19:24,12,Completed,General Consultation,Yes,Yes,No,RSSB-CBHI,Male,45-54
+CON-01059,PAT-00510,CLN-018,GP,Huye Health,Rwamagana,Eastern,Rural,IremboApp,Web,2026-04-06 10:34,10,Completed,Diabetes,Yes,Yes,No,RSSB-CBHI,Male,45-54
+CON-01060,PAT-00187,CLN-008,GP,Kigali Central,Nyarugenge,Kigali,Urban,USSD,,2026-04-28 10:47,13,Cancelled,,,,No,RSSB-CBHI,Male,25-34
+CON-01061,PAT-00947,CLN-011,GP,Northern Clinic,Kicukiro,Kigali,Urban,IremboApp,,2026-03-31 15:25,9,No-Show,,,,No,RSSB-CBHI,Female,55-64
+CON-01062,PAT-00791,CLN-002,GP,Rubavu Clinic,Kicukiro,Kigali,Urban,USSD,GSM,2026-04-15 09:18,11,Completed,Reproductive Health,Yes,Yes,No,RSSB-Formal,Female,35-44
+CON-01063,PAT-00791,CLN-004,GP,Kigali Central,Kicukiro,Kigali,Urban,USSD,,2026-04-21 23:16,12,No-Show,,,,No,RSSB-Formal,Female,35-44
+CON-01064,PAT-00791,CLN-002,GP,Rubavu Clinic,Kicukiro,Kigali,Urban,USSD,Web,2026-04-28 00:02,13,Completed,Reproductive Health,Yes,Yes,No,RSSB-Formal,Female,35-44
+CON-01065,PAT-01069,CLN-016,GP,Eastern HC,Gasabo,Kigali,Urban,USSD,Web,2026-03-11 03:00,6,Completed,Diabetes,Yes,Yes,No,MMI,Female,35-44
+CON-01066,PAT-01069,CLN-029,GP,Northern Clinic,Gasabo,Kigali,Urban,USSD,,2026-04-28 18:28,13,Cancelled,,,,No,MMI,Female,35-44
+CON-01067,PAT-01069,CLN-029,GP,Northern Clinic,Gasabo,Kigali,Urban,USSD,,2026-03-11 02:34,6,Cancelled,,,,No,MMI,Female,35-44
+CON-01068,PAT-00680,CLN-033,GP,Kigali Central,Nyagatare,Eastern,Rural,IremboApp,GSM,2026-04-06 03:12,10,Completed,Diabetes,Yes,Yes,No,RSSB-CBHI,Female,45-54
+CON-01069,PAT-00950,CLN-034,GP,Rubavu Clinic,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-03-26 13:39,8,Completed,Hypertension,Yes,Yes,Yes,RSSB-Formal,Male,35-44
+CON-01070,PAT-00602,CLN-017,GP,Rubavu Clinic,Rulindo,Northern,Rural,IremboApp,GSM,2026-04-16 14:58,11,Completed,Respiratory Infection,Yes,Yes,No,RAMA,Male,25-34
+CON-01071,PAT-00184,CLN-039,Nurse,Kigali Central,Rubavu,Western,Rural,IremboApp,Web,2026-04-19 06:30,12,Completed,Diabetes,No,No,No,RAMA,Female,45-54
+CON-01072,PAT-00184,CLN-018,GP,Huye Health,Rubavu,Western,Rural,IremboApp,,2026-04-26 07:57,13,No-Show,,,,No,RAMA,Female,45-54
+CON-01073,PAT-00183,CLN-030,GP,Kigali Central,Nyagatare,Eastern,Rural,IremboApp,Web,2026-03-19 14:32,7,Completed,Skin Condition,Yes,Yes,No,RSSB-Formal,Female,45-54
+CON-01074,PAT-00183,CLN-038,Nurse,Rubavu Clinic,Nyagatare,Eastern,Rural,IremboApp,GSM,2026-03-09 04:30,6,Completed,Hypertension,Yes,Yes,No,RSSB-Formal,Female,45-54
+CON-01075,PAT-00183,CLN-032,GP,Kigali Central,Nyagatare,Eastern,Rural,IremboApp,,2026-03-09 06:34,6,No-Show,,,,No,RSSB-Formal,Female,45-54
+CON-01076,PAT-00872,CLN-036,GP,Rubavu Clinic,Kicukiro,Kigali,Urban,USSD,GSM,2026-04-21 01:59,12,Completed,General Consultation,Yes,Yes,No,RSSB-Formal,Female,35-44
+CON-01077,PAT-01118,CLN-012,GP,Northern Clinic,Rubavu,Western,Rural,IremboApp,GSM,2026-04-10 15:46,10,Completed,Mental Health,No,No,No,RSSB-CBHI,Male,35-44
+CON-01078,PAT-01118,CLN-016,GP,Eastern HC,Rubavu,Western,Rural,IremboApp,GSM,2026-04-25 02:07,12,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-01079,PAT-01118,CLN-036,GP,Rubavu Clinic,Rubavu,Western,Rural,IremboApp,GSM,2026-03-17 20:23,7,Completed,Diabetes,No,No,No,RSSB-CBHI,Male,35-44
+CON-01080,PAT-00895,CLN-035,GP,Rubavu Clinic,Huye,Southern,Rural,USSD,Web,2026-04-01 17:18,9,Completed,Mental Health,No,No,No,RAMA,Female,35-44
+CON-01081,PAT-00895,CLN-035,GP,Rubavu Clinic,Huye,Southern,Rural,USSD,GSM,2026-04-13 20:22,11,Completed,Hypertension,Yes,No,No,RAMA,Female,35-44
+CON-01082,PAT-00813,CLN-029,GP,Northern Clinic,Huye,Southern,Rural,IremboApp,GSM,2026-04-27 04:46,13,Completed,Respiratory Infection,Yes,Yes,No,RSSB-CBHI,Female,35-44
+CON-01083,PAT-00813,CLN-038,Nurse,Rubavu Clinic,Huye,Southern,Rural,IremboApp,,2026-04-24 16:26,12,No-Show,,,,No,RSSB-CBHI,Female,35-44
+CON-01084,PAT-00813,CLN-039,Nurse,Kigali Central,Huye,Southern,Rural,IremboApp,Web,2026-04-28 00:17,13,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Female,35-44
+CON-01085,PAT-00435,CLN-022,GP,Northern Clinic,Huye,Southern,Rural,USSD,Web,2026-03-04 00:59,5,Completed,Hypertension,Yes,Yes,No,RSSB-Formal,Male,55-64
+CON-01086,PAT-00571,CLN-024,Nurse,Eastern HC,Karongi,Western,Rural,IremboApp,,2026-03-14 01:48,6,Cancelled,,,,No,RSSB-Formal,Female,25-34
+CON-01087,PAT-00571,CLN-017,GP,Rubavu Clinic,Karongi,Western,Rural,IremboApp,GSM,2026-03-12 01:02,6,Completed,Malaria,Yes,Yes,Yes,RSSB-Formal,Female,25-34
+CON-01088,PAT-00404,CLN-005,Nurse,Northern Clinic,Nyarugenge,Kigali,Urban,USSD,Web,2026-04-21 18:13,12,Completed,Respiratory Infection,Yes,Yes,No,RSSB-Formal,Male,55-64
+CON-01089,PAT-00404,CLN-017,GP,Rubavu Clinic,Nyarugenge,Kigali,Urban,USSD,Web,2026-04-28 23:53,13,Completed,Diabetes,Yes,Yes,No,RSSB-Formal,Male,55-64
+CON-01090,PAT-00231,CLN-030,GP,Kigali Central,Huye,Southern,Rural,USSD,,2026-04-12 10:51,11,No-Show,,,,No,RSSB-Formal,Female,18-24
+CON-01091,PAT-00159,CLN-034,GP,Rubavu Clinic,Huye,Southern,Rural,IremboApp,,2026-04-17 03:59,11,No-Show,,,,No,RSSB-CBHI,Male,25-34
+CON-01092,PAT-01027,CLN-026,GP,Kigali Central,Muhanga,Southern,Rural,IremboApp,GSM,2026-04-13 11:36,11,Completed,Mental Health,Yes,Yes,No,RSSB-Formal,Female,35-44
+CON-01093,PAT-00755,CLN-040,Nurse,Huye Health,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-04-15 05:10,11,Completed,Reproductive Health,Yes,Yes,No,RSSB-CBHI,Female,18-24
+CON-01094,PAT-00755,CLN-017,GP,Rubavu Clinic,Rwamagana,Eastern,Rural,IremboApp,,2026-04-24 13:28,12,Cancelled,,,,No,RSSB-CBHI,Female,18-24
+CON-01095,PAT-00755,CLN-040,Nurse,Huye Health,Rwamagana,Eastern,Rural,IremboApp,GSM,2026-04-02 00:36,9,Completed,Injury/Trauma,Yes,Yes,No,RSSB-CBHI,Female,18-24
+CON-01096,PAT-00180,CLN-003,GP,Huye Health,Gisagara,Southern,Rural,USSD,GSM,2026-04-28 10:21,13,Completed,Mental Health,Yes,Yes,No,RSSB-Formal,Female,35-44
+CON-01097,PAT-00180,CLN-036,GP,Rubavu Clinic,Gisagara,Southern,Rural,USSD,,2026-04-29 08:39,13,No-Show,,,,No,RSSB-Formal,Female,35-44
+CON-01098,PAT-00180,CLN-009,GP,Huye Health,Gisagara,Southern,Rural,USSD,GSM,2026-04-24 23:39,12,Completed,Respiratory Infection,Yes,Yes,Yes,RSSB-Formal,Female,35-44
+CON-01099,PAT-01152,CLN-020,GP,Eastern HC,Kicukiro,Kigali,Urban,IremboApp,,2026-04-14 13:47,11,No-Show,,,,No,RSSB-Formal,Female,18-24
+CON-01100,PAT-01152,CLN-017,GP,Rubavu Clinic,Kicukiro,Kigali,Urban,IremboApp,GSM,2026-04-15 08:20,11,Completed,Reproductive Health,Yes,Yes,No,RSSB-Formal,Female,18-24
+CON-01101,PAT-00247,CLN-040,Nurse,Huye Health,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-13 00:39,11,Completed,Malaria,Yes,Yes,Yes,RSSB-Formal,Female,25-34
+CON-01102,PAT-00247,CLN-020,GP,Eastern HC,Gasabo,Kigali,Urban,IremboApp,Web,2026-04-24 09:00,12,Completed,Diabetes,Yes,Yes,Yes,RSSB-Formal,Female,25-34
+CON-01103,PAT-00756,CLN-021,GP,Rubavu Clinic,Gasabo,Kigali,Urban,IremboApp,,2026-03-05 22:54,5,Cancelled,,,,No,RSSB-Formal,Female,45-54
+CON-01104,PAT-00350,CLN-002,GP,Rubavu Clinic,Muhanga,Southern,Rural,IremboApp,Web,2026-04-04 02:09,9,Completed,Hypertension,Yes,Yes,No,MMI,Female,18-24
+CON-01105,PAT-00366,CLN-022,GP,Northern Clinic,Muhanga,Southern,Rural,USSD,GSM,2026-04-27 01:57,13,Completed,Malaria,Yes,Yes,No,RSSB-CBHI,Male,35-44
+CON-01106,PAT-00366,CLN-011,GP,Northern Clinic,Muhanga,Southern,Rural,USSD,,2026-04-27 03:56,13,No-Show,,,,No,RSSB-CBHI,Male,35-44
+CON-01107,PAT-00495,CLN-028,Nurse,Northern Clinic,Rubavu,Western,Rural,IremboApp,,2026-04-12 21:03,11,Cancelled,,,,No,RSSB-CBHI,Female,35-44
+CON-01108,PAT-00158,CLN-021,GP,Rubavu Clinic,Rubavu,Western,Rural,USSD,GSM,2026-03-23 01:01,8,Completed,Respiratory Infection,Yes,Yes,No,MMI,Female,35-44
+CON-01109,PAT-00227,CLN-017,GP,Rubavu Clinic,Muhanga,Southern,Rural,IremboApp,GSM,2026-04-23 05:13,12,Completed,Injury/Trauma,Yes,Yes,Yes,RSSB-CBHI,Female,25-34
+CON-01110,PAT-00227,CLN-038,Nurse,Rubavu Clinic,Muhanga,Southern,Rural,IremboApp,Web,2026-04-22 12:27,12,Completed,Respiratory Infection,No,No,No,RSSB-CBHI,Female,25-34
+CON-01111,PAT-00227,CLN-037,GP,Huye Health,Muhanga,Southern,Rural,IremboApp,GSM,2026-04-15 04:42,11,Completed,Mental Health,Yes,Yes,No,RSSB-CBHI,Female,25-34
+CON-01112,PAT-00254,CLN-017,GP,Rubavu Clinic,Huye,Southern,Rural,USSD,,2026-04-04 15:59,9,No-Show,,,,No,RSSB-Formal,Male,65+
+CON-01113,PAT-00254,CLN-008,GP,Kigali Central,Huye,Southern,Rural,USSD,,2026-03-10 07:10,6,Cancelled,,,,No,RSSB-Formal,Male,65+
+CON-01114,PAT-00254,CLN-031,GP,Huye Health,Huye,Southern,Rural,USSD,Web,2026-03-18 05:09,7,Completed,Diabetes,Yes,Yes,No,RSSB-Formal,Male,65+
